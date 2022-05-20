@@ -14,7 +14,6 @@ src/.ipynb_checkpoints/*
 # data files
 swat_data/*
 swat_lable.csv
-data/*
 
 
 # log files
@@ -27,6 +26,5 @@ cluster_model_ckp/*
 classifier_model_ckp/*
 
 
-# packages
 
 
