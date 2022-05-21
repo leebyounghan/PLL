@@ -11,11 +11,3 @@ pip install transformers
 pip install sentence-transformers
 pip install cmake
 
-git clone https://github.com/vlukiyanov/pt-sdae.git
-git clone https://github.com/vlukiyanov/pt-dec.git
-
-mv pt-sdae/ptsdae src/models
-mv pt-dec/ptdec src/models
-
-rm -rf pt-sdae
-rm -rf pt-dec

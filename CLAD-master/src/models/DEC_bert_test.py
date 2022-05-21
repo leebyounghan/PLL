@@ -101,7 +101,7 @@ class Clustering_Module_bert():
                 'loss': '%.6f' % 0.0,
                 'dlb': '%.4f' % 0.0,
             })
-        km = KMeans(n_clusters=self.n_components, n_init=30, n_jobs=-1)
+        km = KMeans(n_clusters=self.n_components, n_init=30)
         self.cm.train()
         self.cm.to(config.device)
         features = []

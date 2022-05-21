@@ -7,7 +7,7 @@ src/util/__pycache__/*
 src/data_util/__pycache__/*
 src/models/__pycache__/*
 src/.ipynb_checkpoints/*
-
+src/log/*
 .ipynb_checkpoints/*
 
 

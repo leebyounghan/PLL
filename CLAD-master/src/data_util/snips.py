@@ -8,10 +8,11 @@ import torch
 import pdb
 import os
 import pdb
+import config
 
-
-def snips_Dataset(SEED):
-    path = "/../../data/sinps/seed_" + str(SEED)
+def snips_Dataset():
+    path = "/../../data/sinps/seed_" + str(config.normal_class_index_list[0])
+    print(path)
     cwd = os.getcwd()
     data_train = pd.read_csv(cwd + path + "/OODRemovedtrain.tsv",
                              delimiter='\t',

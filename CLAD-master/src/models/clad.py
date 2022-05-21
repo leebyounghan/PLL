@@ -3,7 +3,6 @@ from models.clustering_model import Clustering_Module, binary_cluster_accuracy
 from models.DEC_bert_test import Clustering_Module_bert, testDataset, set_text_data
 #from models.DEC_nopretrain import Clustering_Module_bert_scr, set_text_predict_cls
 #  from models.linear_clustering import LinearClustering
-import hdbscan
 from sklearn.mixture import GaussianMixture
 from sklearn.metrics.cluster import normalized_mutual_info_score
 from sklearn.metrics.cluster import adjusted_rand_score
@@ -28,7 +27,6 @@ from models.odin_maha import apply_odin
 from models.mahalanobis import get_scores_one_cluster, get_scores_multi_cluster, get_mahalnobis_score
 from models.metric import calculate_metric
 import models.SCCL as SCCL
-import umap
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
 #from models.utils import plot_distribution
 import pandas as pd
@@ -50,21 +48,6 @@ if os.path.exists(sub_log_path) == False:
     os.makedirs(sub_log_path)
 
 
-def bert_test_data_src(sentence):
-    input_ids = []
-    attention_masks = []
-    tokenizer = AutoTokenizer(
-        "/home/byounghan96/workspace/NCLAD-tset/CLAD-master/src/comp-vocab.txt"
-    )
-    length = len(sentence)
-    encoded_dict = tokenizer(sentence,
-                             padding=True,
-                             truncation=True,
-                             max_length=config.max_length)
-
-    data = testDataset(encoded_dict, length)
-
-    return data
 
 
 class CLAD(object):
@@ -123,17 +106,6 @@ class CLAD(object):
             self.clusters, emb_normal, _ = cluster_model.predict()
             #self.clusters_out, emb_ab,_ = cluster_model.predict_out()
 
-        elif self.cluster_type == "HDBSCAN":
-            #cluster_model = hdbscan.HDBSCAN(metric='euclidean',min_cluster_size = 5)
-            #cluster_model.fit(self.train_x)
-            #self.clusters = cluster_model.labels_
-            #self.clusters_num = cluster_model.labels_.max()
-            from sklearn.cluster import MeanShift
-            cluster_model = MeanShift(bandwidth=2).fit(self.train_x)
-            self.clusters = cluster_model.labels_
-            self.cluster_num = self.clusters.max()
-            config.cluster_num = self.cluster_num
-            plot_distribution(self.train_x, self.clusters)
         elif self.cluster_type == "SCCL":
             self.clusters, self.bertmlm = SCCL.run(self.train_text,
                                                    self.train_y)

@@ -46,7 +46,7 @@ formatter = logging.Formatter('%(message)s')
 now = datetime.datetime.now()
 today = '%s-%s-%s' % (now.year, now.month, now.day)
 current_time = '%s-%s-%s' % (now.hour, now.minute, now.second)
-log_path = os.path.join(cwd, '/hdd/log/' + today)
+log_path = os.path.join(cwd, '../log/' + today)
 sub_log_path = os.path.join(log_path, current_time)
 
 # -------------------------------

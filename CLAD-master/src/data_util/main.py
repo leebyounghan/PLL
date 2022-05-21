@@ -14,7 +14,7 @@ from .sst import sst_Dataset
 from .rostd import ROSTD_Dataset
 from .snips import snips_Dataset
 from config import implemented_datasets, normal_class_index_list
-
+import pdb
 
 def load_dataset(dataset_name, data_path):
 
@@ -71,10 +71,7 @@ def load_dataset(dataset_name, data_path):
 
     elif dataset_name == 'snips':
         print('loading snipts dataset ...')
-        dataset = snips_Dataset(normal_class_index_list[0])
+        dataset = snips_Dataset()
 
     return dataset
 
-
-if __name__ == '__main__':
-    dataset = load_dataset('snipts', None)

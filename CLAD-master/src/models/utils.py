@@ -6,7 +6,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 #  from sklearn.manifold import TSNE
 #from MulticoreTSNE import MulticoreTSNE as TSNE
-import umap
 import pandas as pd
 from sklearn.decomposition import PCA
 import seaborn as sns
@@ -26,7 +25,6 @@ def plot_distribution(indist, ood, score_one, score_multi,sbert):
     N = ["abnormal" for i in range(len(ood))]
     n.extend(N)
     data_x = np.vstack([indist,ood])
-    mapper = umap.UMAP(n_neighbors=15, random_state=42)
     embed = pd.DataFrame(mapper.fit_transform(data_x), columns=['x', 'y'])
     
     embed['label_gt'] = n
