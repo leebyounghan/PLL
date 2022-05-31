@@ -1,0 +1,1501 @@
+,text,label
+0,Is there a way to define reusable properties to n-hibernate mappings?,hibernate
+2,How to change propertis of DrawingArea in Gtk2Hs,haskell
+3,Parsing older SpreadsheetML Schemas,excel
+5,credit card detail in magento,magento
+6,Mac OS X app/service and stdin?,osx
+8,Designing objects for Hibernate,hibernate
+9,call matlab APIs in C C++,matlab
+10,Visual C++ error C2143: syntax error: missing ')' before 'constant',visual-studio
+11,Create a view that displays node count?,drupal
+12,Type of a local function in haskell,haskell
+13,Best way to organize MATLAB classes?,matlab
+14,drupal feed aggregator,drupal
+15,Excel  - changing embeeded DSN,excel
+16,HSQL Subqueries,hibernate
+17,How do I create two mutual producer/consumers with internal state in Haskell?,haskell
+20,Creating a .bashrc function to search through all files for a particular string,bash
+21,Function Overloading in Excel VBA,excel
+22,D6: how to get at node fields in preprocess_page() ?,drupal
+24,Logging to the ULS log on a WSS 3.0 server,sharepoint
+25,How to tab between buttons on an OSX dialog box,osx
+26,installing pygobject on mac for Python 2.6,osx
+27,How can I represent intervallic rules in Excel financial models?,excel
+29,"hibernate query problem, so close and stumped...",hibernate
+30,Scala: match and parse an integer string?,scala
+31,Expressions in hibernate criteria,hibernate
+32,Show home in breadcrumb navgation in Document Library in My Site in SharePoint,sharepoint
+33,Best practices for returning and displaying data from AJAX calls.,ajax
+34,Converting large array of 8 bit binary,matlab
+35,Drupal: The selected file intersection.png could not be uploaded.,drupal
+36,MaskedEditExtender,ajax
+38,Project management: SharePoint vs activeCollab,sharepoint
+39,Selecting the distinct values from three columns with the max of a fourth where there are duplicates,oracle
+40,What's wrong with adding LOBs to an Oracle table?,oracle
+41,Can a custom guard mechanism be defined in Haskell?,haskell
+42,Some SharePoint pages serve as http in https environment,sharepoint
+43,good code dojo question for introductory scala?,scala
+44,Stored Procedures in MS-SQL Server 2005 and Oracle,oracle
+45,legend for group of lines,matlab
+46,What is the correct type declaration for this function?,haskell
+50,"How to ""flatten"" or ""collapse"" a 2D Excel table into 1D?",excel
+51,Drupal: installing it in a subfolder...,drupal
+53,Qestion about spring manning-in-action,spring
+54,Error when calling compiled m-file(.jar) in a multi threaded Java app,matlab
+56,Using stdout/stderr/stdin streams behind haskell's FFI,haskell
+57,add dropdowns to magento,magento
+58,Easy Way to Split a Large Text File?,bash
+59,ASPX or ASHX as ajax server page ?,ajax
+60,Strange type-related error,haskell
+61,Making small haskell executables?,haskell
+62,MAGENTO: welcome page and pricing by city,magento
+63,Return value alternative in Managed Code,visual-studio
+64,Shorten delay when hovering over auto-hide panel / toolbars in Visual Studio '08,visual-studio
+65,Spring  HibernateDaoSupport keep the same Session ?,hibernate
+67,Open two instances of a file in single Visual Studio session,visual-studio
+68,Protect private key in Qt application,qt
+69,Limit Oracle / ASPX Query Time,oracle
+70,Trying to upgrade Python to 3.0 on Mac OS 10.5.8,osx
+74,"Why is this bash prompt acting strangely/disappearing, and how do I fix it (OS X)?",bash
+76,"Parallel processing from a command queue on Linux (bash, python, ruby... whatever)",bash
+77,manually finding the size of a block of text,visual-studio
+79,How to clear the IntelliJ project index?,osx
+81,"""cascading"" a hibernate entity listener?",hibernate
+82,How to make Divide(column1/column2) in hibernate criteria projections,hibernate
+84,How do you modify existing SharePoint sites?,sharepoint
+85,What is the difference between Microsoft AJAX and AJAX Pro?,ajax
+87,"""Live Preview"" of a forum post or comment, like stackoverflow does",ajax
+88,Best method to peek into a Scala Actor's Mailbox,scala
+89,How to automatically refresh excel formulas?,excel
+90,Naming case classes in Scala.,scala
+91,"BASH: Does it support conditional variables like var=""test""?""1"":""2""",bash
+92,how to create & call slot in other class than MainWindow?,qt
+94,QCompleter and QLineEdit for multiple words,qt
+95,Enabling new admin action(button sales_order/view) in ACL,magento
+96,Saving/Associating slider values with a pop-up menu,matlab
+97,Automatically refresh Drupal node after hook_view,drupal
+98,"A list of scala ""global"" functions?",scala
+99,Mapping over IO in Haskell,haskell
+100,QT: having problems responding on QWebView::linkClicked(QUrl) - slot signal issue,qt
+102,When to use a lightbox effect?,ajax
+103,Can FxCop/StyleCop be limited to only analyze selected methods from with Visual Studio?,visual-studio
+104,From iPhone to Mac programming,osx
+105,Exemplary open-source Spring projects,spring
+106,Help functors sink in.,haskell
+107,Using spring to get your service layer - good idea?,spring
+109,bash: Measure disk space of certain file types in aggragate,bash
+110,Hibernate Mapping Package,hibernate
+112,"JQuery, Ajax, JSon, PHP and parsererror",ajax
+114,Visual Studio Add-in QueryStatus() calls,visual-studio
+115,Converting Java collection into Scala collection,scala
+116,Mixing Single and Double Quotations in Bash,bash
+120,Drupal newbie question,drupal
+121,How can i get error message in form:errors tag by using MultiActionController ?,spring
+122,turn globed match from case into an array.,bash
+124,"Doing an AJAX request to a website that might be up, or might be down",ajax
+125,Are there any purely functional Schemes or Lisps?,haskell
+126,Get router mac (without system call for ARP) in Objective-C,osx
+127,AJAX (prototype/java) getting partial status updates during execution,ajax
+128,Scala Programming for Android,scala
+129,"nmake, visualstudio, and .mak files",visual-studio
+130,commands from .bashrc not available in emacs,bash
+132,"in Excel , in my pivot tables when i drop down the row fields, value filter option is disabled",excel
+133,How to load php file using ajax. Some Compatibility Problem,ajax
+134,Sending progress message from Server to Client using Ajax.,ajax
+135,how best to loop through an array taking into account of the index in matlab?,matlab
+136,Compartment items not displayed in DSL diagram,visual-studio
+137,Mixing ON and USING within one join,oracle
+138,Qt use-case for same signal to 2 slots on same object?,qt
+139,Why i get this following error when using dir in Matlab?,matlab
+140,Drupal relative link problems moving from mydomain.com/test to mydomain.com,drupal
+141,Understanding Haskell accessor functions,haskell
+142,Monad trait in Scala,scala
+143,Is there a function for checking whether a matrix is diagonally dominant (row dominance),matlab
+144,calling grep from a bash script,bash
+148,Arrange Log Entries into Dated Files,bash
+149,Bash: Detect if user's path has a specific directory in it,bash
+150,Is it possible to create indices on join table using Hibernate annotations and hbm2ddl?,hibernate
+152,bash script to always answer No to any prompt ?,bash
+155,Add New Group - Access Denied error,sharepoint
+156,How can I get notified when the user finishes editing a cell in an NSTableView?,osx
+157,Spring destroy-method & half injected objects,spring
+159,Is there an Oracle SQL query that aggregates multiple rows into one row?,oracle
+160,How to create unboxed mutable array instance,haskell
+161,Which would you rather use: VisualSVN or AnkhSVN?,visual-studio
+162,How to switch SVN server from one IP address to another,osx
+163,Help getting inserted data after Qt's rowInserted signal,qt
+164,Inserting text to a file with Sed within Bash Script,bash
+165,How to create a lookup column that targets a Doc Lib and uses the 'Name' of the document?,sharepoint
+166,How to create and require completion of a subset of several tasks Workflow Foundation?,sharepoint
+167,"Is there a way to do more ""dynamic"" data constructors in Haskell?",haskell
+168,Append text to stderr redirects in bash,bash
+169,Export to excel in c#,excel
+171,Passing variable through ssh doesnt work,bash
+173,Whats wrong with this FIRST_VALUE query?,oracle
+174,Open a file in Visual Studio at a specific line number,visual-studio
+177,How to parse a binary file using Javascript and Ajax,ajax
+178,Drupal: theming category pages,drupal
+179,How do you add weights together in an oracle text index?,oracle
+180,Network Packet Inspector in Mac OSX,osx
+182,How to stop Visual Studio from automatically creating solution files,visual-studio
+183,Disabling default XML Schemas in Visual Studio?,visual-studio
+184,How do I transpose a vector into the third dimension?,matlab
+185,File read from SharePoint via IE. My app is opened with the temp file; what is the SharePoint URL?,sharepoint
+186,Is there a simple way to restore widget sizes in Qt?,qt
+189,How do I write a bash script to restart a process if it dies?,bash
+190,Spring Open JPA,spring
+191,Vaadin and Spring MVC Integration,spring
+192,How does the NotNull trait work in 2.8?,scala
+193,"Has anyone else seen bugs in Excel's activex combo boxes, (especially when contained in a sheet and when using the listfillrange or linkedcell properties)?",excel
+194,Drupal module development question relating to cookies and redirects,drupal
+196,Representing multiple ordering through Spring @RequestParam,spring
+198,How do I implement a collection in Scala 2.8?,scala
+199,any readings/books recommended for a beginner mobile qt developers?,qt
+201,Problem running my project in IE 6.0 and 7.0,ajax
+202,BASH file attribute gymnastics: How do I easily get a file with full paths and privileges?,bash
+203,How do I inject a single property value into a string using spring 2.5.x ?,spring
+204,add web part to PersonalViews.aspx in sharepoint,sharepoint
+205,"Oracle Date formatting ""2009-02-13T11:46:40+00:00""",oracle
+208,Spring can't see my imported classes,spring
+209,Drupal: show sub-menu in a different block as the parent menu,drupal
+210,how do you normalize a file path in bash,bash
+211,Script to recursively delete CVS directory on server,bash
+212,"Good way to start developing for iPhone, given some experience in Cocoa on Mac",osx
+213,"Using CreateObject(""Excel.Application"") - issues with unsigned control",excel
+214,How to duplicate Magento report? Unable Change action function name,magento
+215,How can Oracle User Profiles be put to practical use?,oracle
+216,How do I tell when a CUPS print jobs has been completed plus info about that job?,osx
+217,Are there any tutorials on building a simple interpreter using Alex + Happy?,haskell
+218,Add axes to an image in matlab ?,matlab
+219,excel programming,excel
+220,2 mysql instances in MAC,osx
+223,Hibernate clear collection with all-delete-orphan and then add to it causes ConstraintViolationException,hibernate
+224,how to set SqlMapClient outside of spring xmls,spring
+225,Visual Studio Memory Usage,visual-studio
+226,Accessing Excel Custom Document Properties programatically,excel
+227,Loading Constants from db and reading them in an include file,spring
+228,Removing javascript created content...,ajax
+230,Patching out CALLL by replacing with NOPs works in user space but not in kernel space,osx
+233,Hibernate: page results AND know the result size,hibernate
+234,Supply Spring managed objects to non Spring managed Objects?,spring
+235,"What are the possible tags of ""global"" tag in Magento ""config.xml"" file?",magento
+236,Looking for a good Spring framework cheat cheet,spring
+237,Which is the best IDE for Scala development?,scala
+238,"Don't understand the typing of Scala's delimited continuations (A @cps[B,C])",scala
+239,"""Beautifying"" an OS X disk image",osx
+240,Sharepoint Workflow Vs. WFF,sharepoint
+241,What is the best way to process all versions of MS Excel spreadsheets with php on a non-Windows machine.,excel
+242,How to add greater than/less than to Hibernate filters,hibernate
+243,BMP2AVI program in  matlab,matlab
+244,SharePoint - How can I customize NewForm.aspx in custom feature?,sharepoint
+245,Selection sort in functional Scala,scala
+246,oracle 11g hibernate problem,oracle
+247,Haskell: Functions that sometimes return a function,haskell
+248,How can I derefence symbolic links in bash?,bash
+250,Excel copy worksheet,excel
+254,Configuring Hibernate logging using Log4j XML config file?,hibernate
+255,Copy document libary sharepoint 2003 include history,sharepoint
+257,JPOX JDO and Castor JDO compared to Hibernate persistence,hibernate
+258,Is it safe to assume that Spring MessageSource implementations are thread-safe?,spring
+259,"Using Min, Max and Count on HQL",hibernate
+260,Drupal menu_primary_links() not returning primary links menu on some pages,drupal
+262,Redirecting browser using AJAX,ajax
+264,How can i include the clicked element's id in an ajax call?,ajax
+265,"Failed to try  function ""permutations"" in ghci , Haskell",haskell
+266,"Hibernate Annotations - Which is better, field or property access?",hibernate
+267,Matlab - show strings and numbers together,matlab
+268,Spring Security Concurrency On Different Browsers,spring
+269,How do I insert sysdate into a column using ODP and an XML dataset?,oracle
+270,Why does bash sometime not flush output to a file,bash
+272,What do I put in the config.xml file to override linkAction in Downloadable (Magento controller)?,magento
+273,What is the maximum number of characters allowed in a Note field in SharePoint?,sharepoint
+274,Put Links at the End of a Page ( Drupal),drupal
+275,Add custom message in Drupal,drupal
+277,Drupal openlayers form,drupal
+278,Mac OS X: Where should I store common application data?,osx
+281,special driver to connect to sql server 2008 express,hibernate
+282,specific format for a  title in a Sharepoint Website?,sharepoint
+283,Hibernate Criteria query on association,hibernate
+284,Better way to make a bash script self-tracing?,bash
+285,How to call a function with Rowtype parameter from a select statement in Oracle,oracle
+286,displaying category on a cms page in magento,magento
+288,Center QGraphicsView in Widget,qt
+290,How to automatically  sort SPListItems based on a field,sharepoint
+291,Better way to access tuple(other than match case),scala
+292,How to convert from from java.util.Map to a Scala Map,scala
+293,QT Regex matches HTML Tag InnerText,qt
+294,spring ioc and JSR168 Portlets,spring
+295,Structural Type Dispatch in Scala,scala
+296,Best way to learn Visual Studio power features,visual-studio
+297,magento blocks postion,magento
+298,problem creating an EhCache Cache from spring,spring
+299,Book / tutorial / reference on Haskell for rusty Haskell but experienced functional programmer,haskell
+300,Extending SharePoint Breadcrumbs across multiple site collections,sharepoint
+301,How can I mix and match custom Spring schema types with traditional Spring schema types?,spring
+303,Haskell pattern matching - what is it?,haskell
+304,"Why doesn't the ""$"" function work consistantly?",haskell
+305,What goes on a WebFrontend and what on the Application Server is Sharepont 2007/WSS 3.0?,sharepoint
+306,Custom bean instantiation logic in Spring MVC,spring
+308,Not showing error messages when validated using @valid(JSR-303) in Spring MVC,spring
+309,Query two tables from different schema,oracle
+310,O(1) circular buffer in haskell?,haskell
+311,Visual Studio - show all calls to a function in source code level,visual-studio
+312,"Drupal problem, how to create a fast content module?",drupal
+313,how to return variable from the function called by onreadystatechange=function(),ajax
+316,Scala combinator parsers - distinguish between number strings and variable strings,scala
+317,jQuery sortable and AJAX question. (sortable not working when the list comes from AJAX),ajax
+319,Save simple data in Magento's DB w/o Model,magento
+320,qt qmake -tp vc to create visual studio project files,qt
+324,Spring JavaMailSenderImpl: where to set the charset?,spring
+325,Linking to matlab generated code,matlab
+326,How do I get the scalaz IDEA live templates working for the symbolic methods?,scala
+329,"Transitioning from WinForms to AJAX, what do I need to know?",ajax
+330,"how to replace the ""disown"" with ""screen""?",bash
+331,Scala in java code : $colon,scala
+332,"Scala: Something like Option (Some, None) but with three states: Some, None, Unknown",scala
+334,Execute method on startup in spring,spring
+336,Modify Address Bar URL in AJAX App to Match Current State,ajax
+337,How to detect which Space the user is on in Mac OS X Leopard?,osx
+338,Matlab on cmd (winxp),matlab
+339,Hibernate: Persist an object as a String?,hibernate
+340,Loading multiple images in Matlab,matlab
+342,My Magento Extension Install Script Will Not Run,magento
+343,Setting the TabIndex property of many form controls in Visual Studio?,visual-studio
+345,cant exchange widget in QSplitter (Qt),qt
+346,How to call MATLAB code from C?,matlab
+347,Why does s ++ t not lead to a stack overflow for large s?,haskell
+348,SharePoint 2007 Analytics Package.,sharepoint
+349,Magento filter product collection by tier price for current customer group,magento
+350,Automatic increment of build number in QT Creator,qt
+351,Editing large files on Mac OS X,osx
+355,How do I log Oracle stored procedure calls with parameter values?,oracle
+358,"How to make a reference to a cell of another sheet, when the sheet name is the value of a cell?",excel
+360,BASH Variables with multiple commands and reentrant,bash
+361,Scala: How to Create Immutable Map/Set from an Seq?,scala
+362,source all files in a directory from .bash_profile,bash
+363,"Visual Studio 2003, Macro, Process.Attach not working always",visual-studio
+365,how to dump (print) an OSDictionary to the console / log?,osx
+366,Bash or Python for extracting blocks from text files,bash
+367,force repaint after button click <- scala,scala
+368,i want to make functionality in magento admin panel that admin upload video,magento
+369,"Ok, enlighten me as usual Stackoverflow: What is Haskell actually useful for?",haskell
+370,Capture sound output on mac,osx
+371,Haskell: Printing out the contents of a list of tuples,haskell
+372,How to create a Visual Studio Setup Project registry value with the application install path?,visual-studio
+373,Sorting a range by the order of another list in Excel,excel
+374,How to automatically spin a 3d hsitogram in matlab?,matlab
+375,Change Sound (or other) System Preferences in Mac OS X,osx
+376,Test view keeps dissapearing in visual studio,visual-studio
+377,Bash: Recursively adding subdirectories to the path,bash
+378,"Ajax Jquery Get, Post mothed issue.",ajax
+382,Run multiple commands in one ExecuteScalar in Oracle,oracle
+383,SQL/Oracle: when indexes on multiple columns can be used,oracle
+384,Where is the Visual Studio layout saved?,visual-studio
+385,how do i change hibernate logging level,hibernate
+386,execute immediate over databse link,oracle
+387,Customizing Drupal user account form,drupal
+388,What does L == 2 mean in MATLAB?,matlab
+390,Debug Qt application among dlls,qt
+391,Drupal Views: Generate xml file,drupal
+394,Splitting applicationContext to multiple files,spring
+395,Drupal 5: Flag module - display user flagged items in a block,drupal
+396,change in admin setting of magento,magento
+397,"Bash condition of the form - [ -n ""${VAR:-x}"" ] gets evaluated even though VAR is set",bash
+398,Which is the best php opensource e-commerce for handle 5 million prducts import daily?,magento
+399,MATLAB MEX file: create N-D double matrix,matlab
+400,PL/SQL Trigger - Dynamically reference :NEW or :OLD,oracle
+402,OS X: bundle location by identifier for newly installed application,osx
+405,Crystal Reports: New Page,visual-studio
+406,HTML type drop down in excel,excel
+408,Scala's for-comprehensions: vital feature or syntactic sugar?,scala
+410,Spring Web Flow,spring
+411,Drupal node_seach,drupal
+412,Sampling sequences of random numbers in Haskell,haskell
+413,Magento - extending the Mage_Catalog_Model_Resource_Eav_Mysql4_Product_Collection class,magento
+414,Rails + MS SQL + Mac OS X,osx
+415,"How to pipe stderr, and not stdout?",bash
+416,spring hibernate: save form object in relation,spring
+417,Hibernate in Glassfish - Ejb3Configuration NoClassDefFoundError,hibernate
+418,Simplifying some Haskell code,haskell
+420,Web test to edit a SharePoint pages properties using Visual Studio Test Suite,sharepoint
+421,"When using Spring Security, what is the proper way to obtain current username (i.e. SecurityContext) information in a bean?",spring
+422,How to get error text in controller from BindingResult,spring
+423,How to extract ID tags from MP3 files in Cocoa?,osx
+425,Remote machines cannot connect to Visual Studio web server,visual-studio
+426,How to allow Users to request access to a particular document in SharePoint?,sharepoint
+427,Excel user-defined function not called on cell update,excel
+428,Sound Generation,matlab
+429,Deterministic Annealing Code,matlab
+430,Safari plugin development,osx
+431,Drupal: Upgrade Node strategy,drupal
+432,VBPROJ / CSPROJ,visual-studio
+433,Error 1325.„SharePointData” is not a valid short file name during Sharepoint uninstalling,sharepoint
+434,Adding a Custom Form Element to an Adminhtml Form,magento
+435,how to apply different shipping method for different country in magento,magento
+436,Preserving whitespaces in a string as a command line argument,bash
+437,Where is my Drupal View pager?,drupal
+438,Conditionally bypassing a Sharepoint 'onWorkflowModified' activity,sharepoint
+439,How to set up OCI to connect to Oracle from PHP?,oracle
+441,Print a string in matlab in color,matlab
+443,What's the best way to export bug tracking data from hosted HP Quality Center?,excel
+445,Magento ignores extra URL parameters set,magento
+446,"How to decode ""application/x-qabstractitemmodeldatalist"" in Qt for drag and drop?",qt
+447,Extracting Filiform Areas using MATLAB,matlab
+448,Magento Store - Best Selling items by Category,magento
+451,How do I write a script to ssh to a computer from a remote computer?,bash
+453,What's the cheapest way to get a Visual Studio 2008 Standard Edition license?,visual-studio
+454,SharePoint WebPart Packages and dlls,sharepoint
+455,Making a plot out of a list of points,matlab
+456,What tablespace are Oracle sequences stored in?,oracle
+457,ls only these file types using grep,bash
+458,"How to increase Oracle CBO cost estimation for hash joins, group by's and order by's without hints",oracle
+459,Changing the root_dir on a magento system,magento
+462,How can I create a search block with Taxonomy terms and Keyword search in drupal 5?,drupal
+463,How to change node languages in batches?,drupal
+464,Mac OS X Debug Error,osx
+465,What does the letter on the Oracle release mean?,oracle
+466,MATLAB: different function returns from command line and within function,matlab
+468,"Handling ""Open Document"" (odoc) events in Snow Leopard",osx
+469,What is the correct way to handle timezones in datetimes input from a string in Qt,qt
+470,How to Prevent SQL Injection in Oracle SQLPlus?,oracle
+471,Hibernate Annotation + AspectJ -> Attributes names pbs in HQL,hibernate
+472,How to return an error from .bat in Visual Studio project?,visual-studio
+473,XDebug produces corrupted files,drupal
+474,addAttributeToFilter not working in magento 1.4,magento
+476,Hibernate Example OneToMany with compositeKey,hibernate
+477,Drupal Exclude taxonomy listing pages from search.,drupal
+478,Oracle 'identifier myschema.mytable must be declared',oracle
+479,Listing ajax data in search engines ?,ajax
+480,What is a good web-based Grid that accepts Excel clipboard data?,excel
+481,J2t_Ajaxcheckout installation,magento
+482,What happens if hibernate_sequences table is accidentally reset?,hibernate
+484,Is it possible to format a NumberField in a page layout?,sharepoint
+485,Page Redirect in SharePoint,sharepoint
+486,Setting a Sharepoint Site Theme through a Web Service?,sharepoint
+488,Drupal: Modifying a User at Registration,drupal
+490,Linux: GNU sort does not sort seq,bash
+492,Negating an arbitrary where clause condition (including the null tests),oracle
+494,get ResultSet from Spring-JDBC,spring
+496,NoSuchMethod exception when using scala Regex class... confused...,scala
+497,MATLAB Sorting by custom condition,matlab
+498,Passing a milliom numbers from java to matlab?,matlab
+500,Process XML returned via Ajax with E4X?,ajax
+501,How to specify javascript to run when ModalPopupExtender is shown,ajax
+502,replacing Matlab with python,matlab
+503,Free SQL Query generator tool for oracle database?,oracle
+505,Ungroup user menu in Drupal,drupal
+506,Running MasterPages from the Layouts directory,sharepoint
+507,ASP Ajax Calendar Extendar and displaying time,ajax
+510,Transforming Scala varargs into Java Object... varargs,scala
+511,Spring - Ways to include a jar which itself is using Spring in a Spring project,spring
+512,How many concurrent AJAX (XmlHttpRequest) requests are allowed in popular browsers?,ajax
+514,uncomplete ezplot drawing,matlab
+515,Type patterns and generic classes in Haskell,haskell
+516,Spring JSON View: ApplicationObjectSupport does not run in an ApplicationContext,spring
+518,How to print integer literals in binary or hex in haskell?,haskell
+520,How can I kill all sessions connecting to my oracle database?,oracle
+524,MFC Control in a Qt Tab Widget,qt
+525,Conversion strategies for bind variables,spring
+526,Spring Properties File,spring
+527,Is there a way of publishing Akka actors with Mina?,scala
+529,Global image threshold in Matlab,matlab
+530,How to automatically mount my portable disk with ntfs-3g driver on Mac OS X,osx
+531,Qt: How to send an event to the operating/window system?,qt
+533,How to call a method before the mehtod of requested controller is executed : magento,magento
+534,Scala: Can I nudge a combinator parser to be locally greedy?,scala
+535,"in Drupal, how to make login state consistent between browser pages and embedded XMLRPC client?",drupal
+537,What are the supportable options for delivering ASP.Net 3.5 capability to SharePoint 2007?,sharepoint
+538,Better (non-linear) binning,matlab
+539,Why does my MATLAB (R2008a) object's class change on a save/load cycle?,matlab
+541,QTabWidget tab context menu,qt
+542,Deploying custom Asp.net applications to same IIS site as Sharepoint,sharepoint
+543,Bind QTcpSocket on dual-homed host,qt
+544,"ZeroC Ice ""checked casts"" in Scala",scala
+545,Magento website payment pro USA,magento
+546,Worth switching to zsh for casual use?,bash
+547,Unable to serve pages on Mac OS X using default Apache Web Server,osx
+550,mac look n feel on other platforms?,qt
+552,What's the best online tutorial for starting with Spring Python,spring
+553,Magento: how to filter the result of Mage::getResourceModel('eav/entity_attribute_collection') by Category,magento
+555,DO NOT TRY THIS! The following bash command will spawn processes to kernel death. Can you explain the syntax?,bash
+556,Spring not restoring tomcat persistent sessions to session registry after restart?,spring
+557,Oracle record history using as of timestamp within a range,oracle
+558,Executing different set of MSBuild tasks for each user?,visual-studio
+559,Using Visual Studio macro names to launch external applications doesn't work?,visual-studio
+560,signal and slots for customized class,qt
+562,ajax calendar hours and minutes,ajax
+563,Visual Studio - Automatically refresh class view when changing class.,visual-studio
+566,"How do I display a counter(ie, no. of times downloaded) in an MS Excel 07 spreadsheet when the spreadsheet(.xls) is downloaded off my webpage?",excel
+567,"my_thread_global_end threads didn't exit, error?",osx
+568,Putting array of arrays into a spring context,spring
+569,What is the proper way to remove elements from a scala mutable map using a predicate,scala
+570,How to export fonts and colors from VS2008 to VS2005?,visual-studio
+571,qt signals & inheritance question,qt
+573,Smaller SpreadsheetML files through Excel 2007,excel
+574,Preferred way to create a scala list,scala
+575,Magento - Google Checkout Free Shipping Problem,magento
+576,No Magento Header & Custom Navigation,magento
+578,Backup and Recovery Scenario,oracle
+579,how AJAX aplication should behave when Javascript is disabled - common practice?,ajax
+580,Excel VBA macro to track changes in separate sheet,excel
+583,Pass Url Parameter web flow,spring
+584,Microsoft Visual Studio: Loading resources in Qt application (without plug-in),qt
+585,Can Spotlight index a MacFUSE filesystem?,osx
+587,Writing an Excel Addin User Guide,excel
+589,QT for cross platform plugin development?,qt
+590,How to map a set of enum type in Hibernate?,hibernate
+593,Magento addFieldToFilter allow NULLs,magento
+595,Lazy evaluation of Oracle PL/SQL statements in SELECT clauses of SQL queries,oracle
+597,Code coverage for PL/SQL,oracle
+598,How do I use multiple where clauses in GHCi?,haskell
+599,Triangulation & Direct linear transform,matlab
+600,How can I keep a file in memory during editing?,bash
+601,What is the XDG_SESSION_COOKIE environment variable for?,bash
+602,Drupal user_hook in custom module,drupal
+603,can i configure a product like this,magento
+605,Would it make sense to have a separate Scala library in Android market?,scala
+607,In Magento how to show custom attribute in product grid ..?,magento
+608,Sharepoint List Definition that binds only to my Custom Content Type,sharepoint
+609,Why can I not insert a QStackedWidget inside a custom widget?,qt
+610,Something special about Safari for Windows and AJAX?,ajax
+611,recently purchased products,magento
+612,initialise a var in scala,scala
+613,How do I map a CHAR(1) to a boolean using Hibernate for Java?,hibernate
+614,Hibernate tutorials,hibernate
+615,Where do theses values come from in this haskell function?,haskell
+616,ajax  html vs xml/json responses - perfomance or other reasons,ajax
+618,Hibernate and Scala,scala
+621,cd option in bash script,bash
+624,Reliable cube root in Haskell,haskell
+626,SharePoint Content Query Web Part,sharepoint
+627,How can i override the default magento cms homepage entry with a custom module?,magento
+628,Magento Home Page Layout,magento
+629,state monad haskell,haskell
+630,Limiting returned record from SQL query in Oracle,oracle
+632,Problem connecting to Oracle database via ASP.NET page under IIS,oracle
+633,Scala Popup Menu,scala
+634,Multiple Haskell cabal-packages in one directory,haskell
+635,Info on type family instances,haskell
+636,Which functional programming language should I use?,haskell
+639,Drupal 5 Search not working on 404 pages.,drupal
+640,sharepoint  - deploy web service without creating a virtual directory,sharepoint
+641,Can Spring @Cacheable be configured to block on a cache miss?,spring
+642,Embed hibernate hbm.xml mappings in jar,hibernate
+643,Setting up the SharePoint+Silverlight Blueprint Colleague View Web Part,sharepoint
+644,Hibernate mapping,hibernate
+646,Visual Studio 2008 source control for small teams,visual-studio
+647,Need a good jQuery/AJAX tutorial (form upload related),ajax
+648,How do I determine the maximum and minimum value for an Oracle NUMBER column?,oracle
+651,Is it safe to use incremental rebuild for generating release build in visual C++ ?,visual-studio
+652,How do I do python-style indent/dedent tokens with alex/haskell?,haskell
+656,Spring Transaction Manager,spring
+657,In Spring can you alter property placeholder values using a BeanDefinitionDecorator?,spring
+658,excel formula : Find uniques in one column depending on value of another column,excel
+659,"binding a function to call on ajax, irregardless of js framework",ajax
+660,Excel VBA: Subtotals?,excel
+662,"+=/*=/etc operators on AnyVal types (Int,Double,etc...) in Scala",scala
+663,Qt4 login window,qt
+664,Retrieving Cell name in Excel,excel
+665,drupal profile date format,drupal
+666,How to make the Excel broken autofilter indicator go away?,excel
+667,Beautifying a SWT application on Mac,osx
+668,How do I change the background color with AJAX?,ajax
+669,Qt GUI app: warning if QObject::connect() failed?,qt
+670,Using drupal batch api with services,drupal
+672,Problem parsing an XLS file with C#,excel
+673,Abstract Types / Type Parameters in Scala,scala
+675,"Spring, Hibernate, Blob lazy loading",spring
+676,Creating a custom Hibernate UserType - What does isMutable() mean?,hibernate
+678,How to map a set of objects in Hibernate without primary keys being equally named?,hibernate
+680,Arial Font doesn't display properly in Mac,osx
+681,"Simple Query of MS SQL 2005 DB from SharePoint, using SSPI authentication?",sharepoint
+682,A bash one-liner to change into the directory where some file is located.,bash
+683,Are monads Writer m and Either e categorically dual?,haskell
+685,Read/Write data from/to a file in PL/SQL without using UTL_FILE,oracle
+686,Scala: Elegant conversion of a string into a boolean,scala
+687,Binding Qt to LLVM,qt
+688,OSX php.ini memory limits,osx
+689,In a meeting workspace get all agenda items from a list programmatically.,sharepoint
+693,Ordering results by computed value in Hibernate,hibernate
+694,"local folder files not taking, taking only core files (magento)",magento
+695,how can i delete test order from magento,magento
+696,Debugging with exceptions: How to work around 'Break when thrown',visual-studio
+697,Drupal » Print taxonomy terms,drupal
+698,hibernate Lazy loading,hibernate
+699,Implementing UpdatePanel manually,ajax
+700,Problems with AJAX control,ajax
+703,Continue on error in loop,oracle
+705,What user context do SharePoint timer jobs run under?,sharepoint
+706,Set dirty dot in mac window using Qt,qt
+707,Advantages and disadvantages of using Ajax update panels in ASP.NET application,ajax
+710,Where is the Content Source Name in the SSP Search Database,sharepoint
+711,Add (collect) exit codes in bash,bash
+712,Drupal: losing images when moving site location;  placeholders point to old absolute path rather than relative path,drupal
+713,Can someone explain Scala's yield?,scala
+714,Scala equivalent of new HashSet(Collection),scala
+715,MATLAB: DLL loaded by mex would not unload?,matlab
+716,"Creating XML for import into Excel, particularly dates",excel
+719,Run an OS X universal binary in 32-bit mode,osx
+721,Haskell Parsing Error,haskell
+723,How to change the language of 'Google News' regarding the GSnewsBar object (Ajax API)?,ajax
+724,How do VBOs/FBOs/DisplayLists work in Haskell's OpenGl bindings?,haskell
+725,How to use Hibernate Full Text Search,hibernate
+726,Best way to distribute Excel spreadsheet with VBA,excel
+727,Magento 1.4.1 issues adding uploaded image to cart in Magento,magento
+728,First steps in Spring Framework,spring
+729,Problem with prototype framework in cake php,ajax
+731,Hibernate convert proxy to real object,hibernate
+732,Enabling mouse and paste support in command line vim,osx
+734,Why does file have to be saved prior to running ?,matlab
+735,Why would you use Oracle database?,oracle
+736,"Oracle: how to enable flashback ""as of"" queries for all developers?",oracle
+737,bash script runs from shell but not from cron job,bash
+738,Customizing gallery layout in Drupal with Views and CCK,drupal
+739,"asp.net(c#)  Create Excel Worksheet, do i need Excel installed on the server?",excel
+740,Loop through each row of a range in Excel,excel
+741,Sharepoint Item Level Access & performance,sharepoint
+742,Add new link to the admin panel and on click this link open a image upload type field in magento,magento
+743,Testing SQL query on Oracle which includes a remote database,oracle
+744,Spawning an interactive telnet session from a shell script,bash
+745,"SharePoint, throwing Exception after impersonation.",sharepoint
+746,reading and writing .txt in matlab,matlab
+748,How do I theme Form API buttons in Drupal?,drupal
+749,How do I alter the #weight of the content generated by the upload.module?,drupal
+751,Has someone used QSockeNotifier (Qt library) to read/write serial ports in Linux?,qt
+752,How to sort a view using Durpal Fivestar average ratings?,drupal
+754,Evaluating and graphing functions in Matlab,matlab
+755,"In a bash script, how can I exit the entire script if a certain condition occurs?",bash
+756,"drupal indexing of uploaded documents (pdf, word, etc)",drupal
+757,Navigating backward and forward with the mouse in Visual Studio 2008,visual-studio
+758,Basics of normalized cross correlation,matlab
+759,Resizing panels in GUIs without changing size of the contents (MATLAB),matlab
+761,Scala semantics of equals/hashCode for case classes with traits,scala
+762,"spring security : Failed to load ApplicationContext with pre-post-annotations=""enabled""",spring
+763,Oracle Java Stored Procedure Command-line Interaction,oracle
+764,How to install a Qt application on a customers system?,qt
+765,java.lang.IllegalArgumentException: Method must not be null,spring
+766,What is the best way to encrypt a clob?,oracle
+767,Is Hibernate entity callback methods are only called by using EntityManager,hibernate
+768,how to write return Haskell,haskell
+771,is JFig language syntax efficient and clear (and better than Spring-Framework's XML DSL)?,spring
+772,Megento vertnav expand one category,magento
+773,Show window in Qt without stealing focus,qt
+774,Haskell: What does it mean to have a typeclass of `Num [a]` vs a typeclass of `(Num a) => [a]`,haskell
+775,What is the mistake in my code. please help,qt
+777,qtreewidgetitem addchild to already present item yields nothing,qt
+778,Hibernate Object Identity Question,hibernate
+782,Is it worth the effort to move from a hand crafted hibernate mapping file to annotaions?,hibernate
+784,Table and List view with single Model in Qt,qt
+785,How to access parent element in Scala XML,scala
+789,Hibernate Embeddable Inheritance,hibernate
+790,sharepoint workflow,sharepoint
+793,Can you turn a Haskell list into a series of do instructions?,haskell
+794,enum in matlab,matlab
+795,"Comet, Tomcat and READ events",ajax
+796,Why is method overloading not defined for different return types?,scala
+797,For our next project I would like to get into some AJAX to improve the user interface.  Guidelines and advice?,ajax
+798,VS2008 Express Editions and Resources,visual-studio
+800,How to change the product display order in magento,magento
+801,"Libraries ""rt"" and ""dl"" in Cygwin",haskell
+802,Viewing files in a remote FTP folder from a webpart,sharepoint
+803,New line characters get submitted differently,ajax
+804,[Haskell] case-insensitive regular expressions,haskell
+805,Crafting .webloc file,osx
+806,Good object structure for results of my Hibernate left outer join,hibernate
+808,How to draw a SURF graph without black edges in Matlab?,matlab
+809,Fixing the size of a GTK Widget.,haskell
+811,The reason for MonadState get and put?,haskell
+812,Scala traits and implicit conversion confusion,scala
+815,Porting Nuclues Grafix GUI to QT,qt
+816,Running script with admin permissions on OS X,osx
+817,Edit excel countifs,excel
+818,version number inside AssemblyInfo.cs update outside visual studio,visual-studio
+820,QTextEdit (QT Control) alternative for MFC Application?,qt
+822,Resharper and ViEmu Keybindings  ( and Visual Assist ),visual-studio
+823,many-to-many the same PK,hibernate
+824,What are stackable modifications?,scala
+826,Scala Raw Strings: Extra tabs at the start of each line,scala
+827,Percentage of white pixel,matlab
+829,Drupal 6.13 Installation - Database Error,drupal
+830,Different Roles for 2 different type user in Drupal,drupal
+831,run oracle sql script from java,oracle
+832,OR operator in Drupal View Filters,drupal
+835,MATLAB + JNI = error?,matlab
+836,iPhone SDK 3.0 not detected by XCode 3.2,osx
+837,In Cocoa do I need to remove an Object from receiving KVO notifications when deallocating it?,osx
+838,How to determine ORACLE_HOME from PL/SQL?,oracle
+839,how to write a custom panel displaying categories in magento,magento
+841,Unable to make a if-else loop for google-books in Bash,bash
+842,"with vsto and excel more and more trying to incorporate visual studio and C#, is VBA dead ??",excel
+843,Reverse Spectrogram A La Aphex Twin in MATLAB,matlab
+844,Excel page breaks via VBA,excel
+845,How do I make bash reverse-search work in Terminal.app without it displaying garbled output?,osx
+846,Dynamically build list comprehension in Haskell,haskell
+848,magento customize onepage checkout process,magento
+849,Is it possible to use VS2008 built libraries from a VS2003 solution?,visual-studio
+850,Visual Studio 2008 - Distribute library with sample-application - ensure no access to the source-code of the library,visual-studio
+851,Add a link to Magento's My Account Page Conditionally,magento
+852,OptimisticLockException when trying to fetch data from postgreSQL,hibernate
+853,how to connect a signal to a slot in a diifferent thread?,qt
+854,Solving for variables in an over-parameterised system,matlab
+857,How do I set selection to Nothing when programming Excel using VBA?,excel
+858,Oracle External Tables: Advanced Flat File Layout,oracle
+860,Haskell linear algebra?,haskell
+861,Remove Characters from EOF while Writing to File in Matlab,matlab
+863,"""cannot do signed 4 byte relocation"" on compile",haskell
+864,What can cause intermittent ORA-12519 (TNS: no appropriate handler found) errors,oracle
+865,Bash Script User Input and Display Data.. pls hlep me??,bash
+866,checking if function is a part of/which toolbox,matlab
+868,What does single appostrophe mean in Scala?,scala
+869,What is a good maintainability index using Visual Studio 2008 code analysis?,visual-studio
+870,Amcharts rendering data incorrectly.,ajax
+871,"How to pass long strings for search and replace in a bash, sed, or rpl script?",bash
+872,Oracle Differences between NVL and Coalesce,oracle
+873,Customize Oracle AWR report,oracle
+874,Jquery AJAX not working on IE 7/8,ajax
+875,lift snippet help,scala
+877,How can I use the clojure REPL together with QT Jambi?,qt
+878,Can't understand type errors in Scala,scala
+879,SharePoint file size limit,sharepoint
+880,"Streaming Data through Spring JDBC, unkown length",spring
+881,Scala: keyword as package name,scala
+882,How to close a file descriptor from another process in unix systems,bash
+883,Reading an Oracle Lite ODB file without Oracle Lite,oracle
+884,Unexpected operator error,bash
+886,Scala XML serialization,scala
+888,Better syntax for Scala anonymous function?,scala
+889,Magento - Aheadworks blog extension WYSIWYG editor,magento
+891,Testing IO actions with Monadic QuickCheck,haskell
+892,Matlab: how to plot a text in 3D,matlab
+893,when using @transactional do i need to use jpatemplate/hibernatetemplate ?,spring
+894,How do I implement such an invertible mapping for curves using MATLAB?,matlab
+895,Daubechies-4 Transform in MATLAB,matlab
+897,"How do I reference to another (open or closed) workbook, and pull values back, in VBA? - Excel 2007",excel
+899,Why doesn't Scala Source close the underlying InputStream?,scala
+900,Oracle: sequence MySequence.currval is not yet defined in this session,oracle
+901,How do you uninstall Visual Studio SP1 w/ .Net 3.5 SP1?,visual-studio
+903,Zip elements with odd and even indices in a list,scala
+904,static factory method (Spring),spring
+905,Is there any way to force TextMate to cache files?,osx
+906,matlab: displaying markup (HTML or other format),matlab
+907,How to fix the HTML Intellisense in ASP.NET AJAX Controls or Pages,ajax
+908,How to interpret scaladoc?,scala
+909,Drupal user_external_login_register,drupal
+910,Reading or loading images from file synchronously in MATLAB.,matlab
+916,limit number of jquery drag and drop id's,ajax
+917,Referencing Oracle user defined types over DBLINK?,oracle
+918,plist bundle version values,osx
+919,Haskell streams with IO effects,haskell
+920,is it possible to make order via phone or using IVR in magento?,magento
+921,Combining JavaFX and Scala - is it possible?,scala
+923,Spring Transactional Parameterized Test and Autowiring,spring
+925,I want to implement right click menus on QTWidgetItems,qt
+926,Avoid expansion of * in bash builtin function let,bash
+927,Visual Studio 2005/2008: How can you share/force all developers to use the same formatting rulles?,visual-studio
+928,run the output of a script as a standalone bash command,bash
+929,How to handle line breaks in data for importing with SQL Loader,oracle
+930,Sending mail from bash shell script.,osx
+933,"Something like mapM, but for arrays? (like arrayMap, but mapping an impure function)",haskell
+934,Annotation-based and xml-based transaction definitions precedence,spring
+935,"Bash in vi-mode: browsing shell history with cursor up/down, cursor position not at the end?",bash
+936,How can I improve the edit-compile-test loop when developing a SharePoint workflow?,sharepoint
+937,Visual Studio&Source Control: How to have shared code?,visual-studio
+939,JSP or .ascx equivalent for Scala?,scala
+940,string formatting in Haskell,haskell
+941,Access Web Datasheet in a webApp,sharepoint
+942,How do you promote blogs to a page other than the home page in drupal?,drupal
+944,Strange visual studio 2008 behavior when pressing keys,visual-studio
+945,Hibernate: constraintName is null in MySQL,hibernate
+946,Oracle Rollback Segments and ADO.NET,oracle
+947,Drupal Tagadelic: creating my own block,drupal
+948,Covnerting variable to integer,bash
+949,"In Mac OS X, is there a programmatic way to get the machine to go to sleep/hibernate?",osx
+951,Replace HTML page with contents retrieved via AJAX,ajax
+952,QT programming tutorials (c++),qt
+953,Scala bug in concurrent program?,scala
+956,"How to add ""Order By"" when loading a Magento Model",magento
+957,Seeking good practice advice: multisite in Drupal,drupal
+958,Can I have a deferrable unique functional index in Oracle?,oracle
+959,how to determine a matrix is empty or not in matlab programming?,matlab
+961,Program not supported on this type of mac computer,osx
+962,MATLAB: Apply a low-pass or high-pass filter to an array,matlab
+963,Hibernate Unable to Start On Large-Scale Database,hibernate
+964,How to get Intellisense on error-marked code in Visual Studio 2005?,visual-studio
+965,"Using Studio's ""Custom Tool"" in MSBuild",visual-studio
+967,Connect to a secure database using JDBC,oracle
+968,What's the right way to divide two Int values to obtain a Float?,haskell
+970,Have you actually convinced anybody to Scala?,scala
+971,ORACLE Rollback and Trigger,oracle
+972,how to disable window close button in OSX using wxpython?,osx
+973,My Drupal secondary menu is not showing up anywhere,drupal
+974,SSRS - Uninstall Trial Version of VS Business Intelligence,visual-studio
+975,Is there a way to have all radion buttons be unchecked,qt
+976,Inserts are 4x slower if table has lots of record (400K) vs. if it's empty,oracle
+977,one line assignment in bash,bash
+978,Visual Studio Move current document to the left.,visual-studio
+979,UnixODBC driver suppot in OSX?,osx
+980,"Compare integer in bash, unary operator expected",bash
+981,Remove project from SCM on Mac,osx
+982,Drupal: How to update display fields after changing the database?,drupal
+983,Monads and custom traversal functions in Haskell,haskell
+984,QT slot get Signaled twice,qt
+985,How scala generic constraints to nullable types work,scala
+986,Oracle converts empty string to null but JPA doesn't update entity cache correspondingly,oracle
+987,How do I get the Click Once Publish version to match the AssemblyInfo.cs File Version.,visual-studio
+989,Changeing scaling of Matlab Figure,matlab
+990,What's the best way to determine which version of oracle client I'm running?,oracle
+991,SQL last insert in Drupal. Is it really threadsafe?,drupal
+993,How to efficiently delete all files in a document library?,sharepoint
+994,Magento: Where is head.php?,magento
+995,Uninstall MacRuby,osx
+996,Hibernate CRUD à la Ruby on Rails' Scaffolding,hibernate
+997,Magento is redirecting to cart when continuing from Billing info,magento
+998,How can I create a cell of strings out of a meshgrid in Matlab?,matlab
+999,Spring HandlerInterceptor or Spring Security to protect resource,spring
+1000,What's the best MATLAB equivalent? (open source or otherwise free),matlab
+1001,Excel VBA custom function with sumif-like criteria functionality,excel
+1002,Multiple QMainWindow instances?,qt
+1003,how i use spring and netbeans,spring
+1004,How to play a sound when <div> is updated,ajax
+1005,Spring Injection - Interfaces and Classes,spring
+1006,2 diiferent layouts of the same content type in drupal 6,drupal
+1007,Magento with Mailchimp -----adding checkboxes programmatically,magento
+1008,Cut Polygon Function in Matlab,matlab
+1009,OpenGL Threaded Tile Texture Loading with Qt 4.5 / 4.6,qt
+1010,Does hibernate's mappedBy automatically makes applications buggy?,hibernate
+1011,How do you debug Qt layout problems,qt
+1012,How can I add properties to an object in IE6?,ajax
+1013,how to view different file extension in different color ib terminal of mac leopard.,osx
+1014,Unicode Basics on Windows,visual-studio
+1015,Can MS Visual Studio compile projects using 2 or 4 cores on CPU?,visual-studio
+1016,Problem with large solutions and service factory,visual-studio
+1018,Excel: Copy every nth line from one sheet to another,excel
+1019,How to find the named range of a cell - VSTO,excel
+1020,Axes background color not rendering properly when exporting videos,matlab
+1023,Strange Oracle problem,oracle
+1027,Why does DBMS_MVIEW.REFRESH have an implicit commit?,oracle
+1028,wtf is a role,qt
+1029,"where can is the product insert funtion , i cannot find the function which inserts the product into database",magento
+1030,can Bash be configured to search string on the current input line?,bash
+1031,AJAX problems in WebKit browsers,ajax
+1032,Haskell Interactive,haskell
+1034,Possible to call Oracle FUNCTION from .Net using Enterprise Library?,oracle
+1036,Which is the best ajax framework for java web development ?,ajax
+1037,Hibernate Criteria API - HAVING clause work arounds,hibernate
+1039,Function computes the mean of a list - Better solution ?,haskell
+1040,MATLAB Subplot Export,matlab
+1041,Spectrogram C++ library,qt
+1043,Simple math statements in bash in a for loop.,bash
+1044,Visual Studio Extension to map Solution Folders to Real Folders,visual-studio
+1045,How to initialize a bash array with output piped from another command ?,bash
+1048,What do I need to re-build my web server?,ajax
+1049,Sharepoint development - Microsoft VPC vs. VMWare,sharepoint
+1050,Problems calling magento API with C#,magento
+1051,What is the difference between scala's case class and class,scala
+1052,Central QWidget [Qt],qt
+1053,Can I reformat HTML in Visual Studio without removing blank lines ?,visual-studio
+1055,Ajax Links and jquery,ajax
+1056,merge with hibernate causing error with dirty objects,hibernate
+1058,"How to keep testing and production e-commerce db in sync when you have ""sales"" updates in production?",magento
+1059,What is the best way to initialize a bean?,spring
+1060,Is QT Jambi dead?,qt
+1063,kext for 10.4 - 10.6,osx
+1064,Is it possible to see more than 65536 rows in Excel 2007?,excel
+1066,Spring custom error message,spring
+1068,MATLAB: vectorized assignment from double array to cell array,matlab
+1070,Basic authentication with Qt (QNetworkAccessManager).,qt
+1071,QT: QSettings on Windows with INI files and comments,qt
+1073,MATLAB syntax of (:),matlab
+1074,Drupal and Google Search Appliance   (Google Mini),drupal
+1075,Scala XML retrieving from optional paths,scala
+1076,matlab - consider preallocating for speed,matlab
+1077,Best way to reload parts of a form,ajax
+1079,SharePoint stsadm addsolution - fails with permission based error (object ref),sharepoint
+1080,Table Lookup in Excel,excel
+1081,Using regular expressions in the Search Core Results web part XSLT,sharepoint
+1084,Filtering list of tuples,haskell
+1085,Vectorizing sums of different diagonals in a matrix,matlab
+1086,How can my-program.hs get its version number from my-program.cabal at build time?,haskell
+1087,Java Script and AJAX,ajax
+1088,Magento 1.3 - Image upload issues with Flash,magento
+1092,Qt: mouseMoveEvent and interfer with hoverEnterEvent of child object,qt
+1093,Best Programmer's Image Editor for OSX,osx
+1094,Instantiating Oracle Driver results in InvocationTargetException,oracle
+1095,List all Alerts within a SharePoint site without using the SharePoint API?,sharepoint
+1096,Plot a data series beneath another one,matlab
+1097,Thinking of new way of building a db page populating data via api calls - are there any issues doing it this way,ajax
+1098,Query string used for AJAX not refreshing.,ajax
+1099,Visual Studio: How to figure out where this type is defined?,visual-studio
+1100,Do I conserve memory in MATLAB by declaring variables global instead of passing them as arguments?,matlab
+1102,Where can I find at least two great online tutorials for building a Web application with the Spring Framework,spring
+1103,How to see the normal tooltip information in Visual Studio instead of the error help,visual-studio
+1104,"Sharepoint, ajax and page title",sharepoint
+1105,"DRUPAL, Views: exposed filter.. how can I unselect all tags ?",drupal
+1106,"Bash: for loop, copy, backup",bash
+1108,Drupal RSS feed links,drupal
+1109,How do I change bash history completion to complete what's already on the line?,bash
+1110,How do I set the color of an individual point in an Excel scatterplot using .NET?,excel
+1111,Drupal section accessible by role.,drupal
+1112,Using a static library in QT Creator...,qt
+1113,"QMetaObjec::invokeMethod returns true, but method is never called",qt
+1114,HTTP GET and POST,ajax
+1116,Safe and polymorphic toEnum,haskell
+1119,Social/Open Log-In: Magento?,magento
+1120,add column that browses on a sharepoint content type,sharepoint
+1121,How do I show graphs and KPIs from an OLAP cube in Sharepoint?,sharepoint
+1123,provision a webpart,sharepoint
+1124,Can I automatically increment the file build version when using Visual Studio?,visual-studio
+1125,describe query with oracle (.Net Connector),oracle
+1126,Scala collection standard practice,scala
+1128,a better way to do ajax in django,ajax
+1129,Ajax.dll causing problem?,ajax
+1130,Using MATLAB For Anything Except Maths,matlab
+1131,Configure Drupal to force login for specific hostname or protocol (HTTP vs HTTPS),drupal
+1132,SharePoint list.items.GetDataTable column names not match field names,sharepoint
+1133,Can't See Product Options on Magento 1.4.2,magento
+1134,Drupal Module Development hook_menu() For Semi Static Pages,drupal
+1135,"How to add ""help""-text to a mex-function?",matlab
+1136,method @Secured suppose to throw error when no user authenticated yet,spring
+1137,passing bash variables to ssh,bash
+1138,Translate an index into an Excel Column Name,excel
+1139,Visual Studio Website Reference Paths,visual-studio
+1140,Magento - Adminhtml - Default website in new customer form,magento
+1141,Excel IQY file - Usage Option question,excel
+1142,Sending multi-part email from Google App Engine using Spring's JavaMailSender fails,spring
+1144,How do you link 2 web parts on a SharePoint Page?,sharepoint
+1145,Handling large datasets with PHP/Drupal,drupal
+1146,"Sending big data to server, Cross-Domain",ajax
+1148,Is this implementation correct?,oracle
+1149,What is the best way to separate UI (designer/editor) logic from the Package framework (like Visual Studio Package),visual-studio
+1152,how can this src vs. build tree timestamp comparison be faster? (bash),bash
+1153,"In Haskell, I want to read a file and then write to it.  Do I need strictness annotation?",haskell
+1154,How to get QGraphicsScene report item move events,qt
+1155,When is the cache updated in the CrossListQueryCache?,sharepoint
+1157,Best way to save extra data for user in Drupal 6,drupal
+1158,Best strategy to multiple CRUD with jsf,hibernate
+1159,Please specify the product's option(s) in Magento.,magento
+1160,overriding a magento block in multiple modules (and how to ignore the other ones),magento
+1162,Can Haskell's Parsec library be used to implement a recursive descent parser with backup?,haskell
+1163,ajax in each time or load everything at once,ajax
+1164,Code review addin for Visual Studio,visual-studio
+1165,Running python code from standard Cocoa application,osx
+1166,Understanding this matrix transposition function in Haskell,haskell
+1167,How to work around the [1] IE bug while saving an excel file from a Web server ?,excel
+1168,Error : Not all products are available in the requested quantity !! what does this mean?,magento
+1169,Hibernate default joining for nullable many-to-one,hibernate
+1170,Hibernate + Postgresql with case insensitive searching,hibernate
+1172,Matlab: how do I force ode45 to take steps of exactly 0.01 on the T axis?,matlab
+1175,How can you have SharePoint Link Lists default to opening in a new window?,sharepoint
+1176,Excel validation range limits,excel
+1177,How accurate is Oracle's EXPLAIN PLAN?,oracle
+1178,.Net XML comment into API Documentation,visual-studio
+1179,Excel 2007 VBA and WMI - Current DOMAIN\USER,excel
+1180,Haskell vs. procedural programming in the real world,haskell
+1181,Password hash function for Excel VBA,excel
+1183,How to reuse dynamic columns in an Oracle SQL statement?,oracle
+1184,Dependency in traits inheritance,scala
+1185,"Suggested content for a lunch-time ""Introduction to Scala"" talk",scala
+1186,ajax postback in jquery,ajax
+1187,how to evaluate a given path within a bash shell,bash
+1189,MATLAB: How do you insert a line of text at the beginning of a file?,matlab
+1191,Hibernate Criteria: Left Outer Join with restrictions on both tables,hibernate
+1193,oracle procedure returns integer,oracle
+1194,"Supress ""save changes"" when creating a document via Excel automation.",excel
+1195,Editing history in bash,bash
+1196,PostScript files from latex blurred,osx
+1197,QT: show result of Color selection?,qt
+1198,SharePoint forms authentication sites,sharepoint
+1199,A list of things from Java that we will now happily bid good-bye after Scala,scala
+1200,"Magento AND Prestashop, what better??",magento
+1201,sharepoint development,sharepoint
+1203,resize qwidget in a layout manually on runtime,qt
+1204,Need a explanation for the matlab code snippet,matlab
+1206,Performance running ClearContents is very slow when WrapText is enabled in Excel,excel
+1207,Why does Visual Studio keep building my C++ project?,visual-studio
+1208,Question about spring transaction propagation,spring
+1209,Reading large csv files with strings containing commas as one field,matlab
+1210,Can we change the day and time of  a schedule task which is already created,bash
+1211,Loading images from various sources in QTWebKit,qt
+1212,Learning ASP.NET MVC on Mac OS X,osx
+1213,Drupal node form | Have a .tpl theme file for each node type?,drupal
+1214,How do I force unix (LF) line endings in Visual Stuido (Express) 2008?,visual-studio
+1215,Enumerations in Hibernate,hibernate
+1216,Haskell: Inserting every line from a file into a list,haskell
+1217,optional arguments in haskell,haskell
+1218,Anyway to use AJAX when my server does not and can not have the AJAX extensions Installed?,ajax
+1219,Magento Set discount code for  specific product on fly.,magento
+1221,No suitable MySQL driver found for JBoss application,hibernate
+1222,How to perform date operations in hibernate HQL,hibernate
+1223,Properties framework in java apps,spring
+1224,ContextLoaderListener problem while spring is loading up,spring
+1225,How should one start learning web applications development?,ajax
+1226,what can I use to replace sleep and usleep in my Qt app?,qt
+1227,Best way to reference an external library in multiple projects in a Visual Studio solution,visual-studio
+1228,Hibernate doesn't work anymore... why?,hibernate
+1229,Kill a Ajax Request in between,ajax
+1230,How do you prevent printing dialog when using Excel PrintOut method,excel
+1232,Multiple commands in an alias for bash,bash
+1234,UberCart statistics on products added.,drupal
+1235,"How do I simplify bash's 'eval ""$TIME $BIN_FILE $BIN_OPTS &> $LOG_FILE""' and keep it working?",bash
+1236,How to manage column based access control in Sharepoint lists?,sharepoint
+1239,"Using Scala, how does one differentiate XML elements having elements as children, or having text?",scala
+1240,Excel Autofilter in VB.NET,excel
+1241,Question about Oracle locking and summarisation,oracle
+1242,Move files to directories based on first part of filename?,bash
+1243,SAAS per seat authentication,ajax
+1244,Hibernate Table per Hierarchy How to,hibernate
+1245,How do I write a qmake project file(.pro) that I can set project name when opening it in VS-addin?,qt
+1247,SharePoint... is a Web Services interface for my app worth it?,sharepoint
+1249,"Spring, log4j and JBoss4",spring
+1250,MATLAB gui loads old settings,matlab
+1251,Change position of currency selector in Magento,magento
+1253,ORA-12154: TNS: Could not resolve service name,oracle
+1254,Is there a PHP IDE that can handle Magento's code base?,magento
+1256,Scala and interfaces,scala
+1257,"Designing an AJAX commenting system, a point in the right direction?",ajax
+1258,search through a range of directories bash script,bash
+1261,Firing a Drupal Rule (or any PHP logic) based on a threshold,drupal
+1262,How to configure Spring Security PasswordComparisonAuthenticator,spring
+1263,Inheritence to extend a data structure in Haskell,haskell
+1266,How to use enums in Oracle?,oracle
+1267,Matlab:K-means clustering,matlab
+1268,Visual Studio & SubVersion : What about Machine Specific Files,visual-studio
+1269,How To: debug Scala code when outside of an IDE,scala
+1270,Importing and normalising XML with Hibernate,hibernate
+1272,Running Oracle stored procs from C#,oracle
+1273,How can I automatically quote or group commandline arguments for alias in bash?,bash
+1274,"Fresh Rails install on OSX gives me ""Rails requires RubyGems >= 1.3.2""",osx
+1276,JavaScript charts - dynamically adding data points,ajax
+1279,Is there a comparison between Scala and Google 'Go' language (feature by feature)?,scala
+1281,Drupal programattically creating forms - defualt selected index of a select,drupal
+1283,Need help understanding several MATLAB statement,matlab
+1284,How to disable a programmatical breakpoint / assert?,visual-studio
+1285,Please Help Me With Mysql Slow Query Analysis.,hibernate
+1287,What's the equivalent of SHGetFolderPath on OSX?,osx
+1288,Truncating a table in a stored procedure,oracle
+1289,Oracle connections in Spring,oracle
+1290,Drupal 6: custom profile fields and saving data to a DB,drupal
+1291,Hibernate with relations,hibernate
+1292,Matab - Trace contour line between two different points,matlab
+1293,Embedding an AHAH form element into a theme_table-generated table (Drupal),drupal
+1294,"Source.getLine - the line index, first line is 1",scala
+1295,programmatically retrieve Visual Studio install directory,visual-studio
+1296,Spring-samples don't understand the templates,spring
+1298,Drupal 6 Views - Left Join issues,drupal
+1299,Using Magento just for checkout,magento
+1300,Ownnership of QState. Do I need to delete all QStates?,qt
+1301,Criteria to HQL,hibernate
+1304,Drupal Views Multiple values being returned when using a relationship,drupal
+1305,scala: why does underscore (_) initialization work for fields but not method variables?,scala
+1306,"Ajax.request throws a syntax error, but returns the correct value",ajax
+1308,Visual studio - is there a way to select multiple files and wrap a namespace around each of them?,visual-studio
+1309,Why is cross-domain Ajax a security concern?,ajax
+1310,Can I write components in Haskell to be used on a Django site?,haskell
+1311,Adding forced preview to node and change submit button value in Drupal?,drupal
+1312,HIbernate Query taking very long time,hibernate
+1314,Which CodePlex/Google code project to study in order by learn SharePoint best practices,sharepoint
+1316,How are Scala closures transformed to Java objects?,scala
+1317,Qt QTreeWidget preserve sort,qt
+1318,How to see Oracle Table Logs ?,oracle
+1319,Fixing warnings from Hibernate,hibernate
+1320,Magento: Catalog Page 1 different from other pages,magento
+1321,Problem with drawing focus frame in Qt,qt
+1323,Check if Screensaver is Active using Mac Bash Script Command,osx
+1324,How to display CSS backgroundImage when the source redirects?,ajax
+1327,Free SCM for Matlab 64 bit version on Windows,matlab
+1328,A way to add pictures to Excel sheet programmtically but not from file,excel
+1329,Looking to start SharePoint alert after a field change in InfoPath Form,sharepoint
+1331,Mac OS X: trying to link (ld) against a framework.,osx
+1332,Implementing Audit Trail- Spring AOP vs.Hibernate Interceptor vs DB Trigger,hibernate
+1333,Why is Visual Studio 2005 so slow?,visual-studio
+1334,Magento Duplicating Custom Block,magento
+1335,SharePoint and Enterprise Library 4.0,sharepoint
+1336,cannot reach readystate=4,ajax
+1337,Scala as the new Java?,scala
+1338,Software development  on Mac,osx
+1339,bus error in simple Mac OSX C program,osx
+1340,How to get OpenID authentication on SharePoint Services?,sharepoint
+1341,Table view not updating according to bindings - Part Deux,osx
+1343,how to play a video after uploading videos in drupal,drupal
+1345,Haskell: Parsing error with 'where' and a guard,haskell
+1349,Resources for an Oracle beginner,oracle
+1350,Is it possible to insert a mult-line code snippet relative to the cursor position in Visual Studio?,visual-studio
+1353,How practical is it to embed the core of a language with an effectful function space (like ML) into Haskell?,haskell
+1355,Bash: For Filename do......,bash
+1357,Infoshare: Encrypted source code partition for MacOS X,osx
+1358,What is the current state of the Scala Eclipse plugin?,scala
+1360,Finding per-process bandwidth usage on the mac?,osx
+1361,SharePoint admin,sharepoint
+1362,Get function value of a instance method in Scala,scala
+1363,Is scala functional programming slower than traditional coding?,scala
+1364,How to organize PHP handlers for AJAX in an MVC site?,ajax
+1365,Storing MATLAB structs in Java objects,matlab
+1366,SharePoint Default View Ignores Custom Title DisplayName,sharepoint
+1367,How do you call a function defined in .bashrc from the shell?,bash
+1370,modem.oqpsk with half sine wave,matlab
+1372,Excel Macro Match and Copy/Paste,excel
+1373,"How can I implement a ""natural"" sort?",oracle
+1374,How to place multiple content types on a page??,drupal
+1375,Find all nodes that have an attribute that matches a certain value with scala,scala
+1377,How to efficiently processing 300+ Files concurrently in scala,scala
+1378,Mono on a Mac - what database to use?,osx
+1379,Extracting time zone from Oracle JDBC TIMEZONETZ object,oracle
+1380,Visual Studio 2008 Window layout annoyance,visual-studio
+1381,PropertyPlaceholderConfigurer vs Filters -- Spring Beans,spring
+1383,Spring/Hibernate: InvocationTargetException when deleting entity,spring
+1384,When is it OK to use an IORef?,haskell
+1386,How to obtain codesigned application certificate info,osx
+1388,What is the maximum length of a table name in Oracle?,oracle
+1389,Using scala-2.8.0.RC1 with Maven and Intellij 9.0.1,scala
+1390,Building a scala app with maven (that has java source mixed in),scala
+1391,"Access to restricted URI denied"" code: ""1012",ajax
+1392,Hibernate ManyToMany with Join table problems on update,hibernate
+1394,MOSS Alternate Access Mappings,sharepoint
+1395,CAS Policy for Sharepoint Application Page,sharepoint
+1396,List folders and subfolders from a directory in Excel with hyperlinks?,excel
+1397,Skipping exceptions when using map in Haskell,haskell
+1398,Oracle: Variable number of parameters to a stored procedure,oracle
+1400,Problem with Excel to Gridview C# ASP.NET,excel
+1401,Oracle Populate backup table from primary table,oracle
+1402,Explicit Type Conversion in Scala,scala
+1403,magento extension installtion,magento
+1404,spring mvc: detect if an exception has been thrown while loading the context,spring
+1407,Best Way to Synchronize Multiple Excel Files to MS Access Table,excel
+1408,Extract all matching substrings in bash,bash
+1410,Is there is any way to protect the password in .xml using spring,spring
+1411,magento import image attribute not inserting in table,magento
+1412,Drupal Cache & Stylesheet Switch,drupal
+1413,Direct Path Load of TimeStamp Data With SQL*LDR,oracle
+1414,Extract filename and extension in bash,bash
+1416,Idiomatic table cell renderers in Scala,scala
+1417,How can I add scala actors to an existing program without interfering with the normal termination behavior?,scala
+1418,Haskell compilation problem,haskell
+1419,qt moc.exe not generating *.moc file,qt
+1421,compute child table values in formula field of hiberntate,hibernate
+1422,Magento - Determine id order was placed through admin,magento
+1425,How can I find last row that contains data in the excel sheet with a macro?,excel
+1428,SharePoint Web Part Parameters Mysteriously Disappearing,sharepoint
+1429,Should I port Linux Driver to Mac OS X OR Should I Rewrite it,osx
+1431,Scala Array constructor?,scala
+1432,IPhone dev on mac Mini,osx
+1433,Magento: Get Image Gallery in list.phtml,magento
+1434,Using a Hibernate MapKey that's not unique within a table,hibernate
+1435,Install sqlite3 on mac osx?,osx
+1437,How can I download Java SE 1.5 for Mac OS 10.6,osx
+1438,Hibernate: How to exclude a class which is part of a join using the Criteria API,hibernate
+1439,Contextual Menu Item development for OSX (Leopard and Snow Leopard),osx
+1440,Keyboard fails in IE8 after AJAX call,ajax
+1441,Can I insert multiple copies of a widget in a form at runtime?,qt
+1442,Problem installing QT on Vista,qt
+1443,How do sychronized static methods work in java?,hibernate
+1444,How do I make a Microsoft Word document “read only” within a SharePoint document library?,sharepoint
+1446,What's the most abused features in Visual Studio / C#?,visual-studio
+1448,Form is removed from AJAX response,ajax
+1449,lists find algorithm,matlab
+1450,magento show subcategory,magento
+1452,setTabChangesFocus(bool) has no effect Qt,qt
+1453,Trying to get signals to work in my QT. I need some advice and help,qt
+1454,Bash: How do I truncate an array?,bash
+1455,"echo ""-e"" doesn't print anything",bash
+1456,Hide console for Tkinter app on OSX,osx
+1457,front-end configurable products from simple products in magento?,magento
+1459,How do I use gdbmacros.cpp in QtCreator?,qt
+1460,MATLAB: draw centroids,matlab
+1461,Getting the index of the substring on solaris,bash
+1462,Finding a specific character in a string in Matlab,matlab
+1464,Using EnvDTE.Solution - How to Remove Source Control Bindings,visual-studio
+1465,Find the corners of a polygon represented by a region mask,matlab
+1468,Issues with maps and their entries in Scala,scala
+1469,Usng enum in drupal,drupal
+1470,"In Oracle, is it possible to ""insert"" a column into a table?",oracle
+1474,how to import from MS excel into MYSQL DB,excel
+1475,running pythoon code in matlab?,matlab
+1476,How best to convert a SharePoint multi-user field string into an array of SPUsers?,sharepoint
+1477,How can I create a ddl for my jpa entities from java code?,hibernate
+1478,How to do GUI for bash scripts?,bash
+1479,Drupal (+CCK) permissions based on related node field,drupal
+1480,How do I get my Visual Studio Test Suite web test to iterate over my data source,visual-studio
+1481,How to get a variable value if variable name is stores as string?,bash
+1482,read file line by line in bash expands special characters,bash
+1483,Mac OS X Tiger vs Leopard usage pervasiveness - any study?,osx
+1484,Using Haskell's type system to enforce modularity,haskell
+1485,Change compilation flags in QT under Mac OS X?,qt
+1486,How do I store the window size between sessions in Qt?,qt
+1487,Updating a checkbox in Excel 2003 from a background thread in C# fails sometimes,excel
+1488,Can anyone explain why files cant be uploaded using AJAX?,ajax
+1490,preserve empty cells when saving excel as xml,excel
+1491,how to translate email template in magento?,magento
+1492,How to autowire factorybean,spring
+1495,Change Edit Control Block link in WSS,sharepoint
+1496,What can cause an intermitent ORA-12560: TNS:protocol adapter error?,oracle
+1497,What is a good GUI text editor for the Mac?,osx
+1498,Dynamically add where clauses to a cursor in oracle,oracle
+1499,How to change hibernate's default fetching strategy?,hibernate
+1500,Using polyfit to predict where the object falls ?,matlab
+1501,Setting mime type for excel document,excel
+1502,QWebPage triggers loadFinished() several times,qt
+1504,arrow key via stdin,bash
+1505,Tutorial to disassemble the Haskell Cont monad?,haskell
+1506,Produce permutations of arbitrary number of sequences,haskell
+1507,Scala script to copy files,scala
+1508,Mac Excel 2008: Macros?,osx
+1509,Visual Studio Debugger + Break when a value changes?,visual-studio
+1510,How do I gather data from the same collumn in multiple worksheets in a single workbook?,excel
+1512,I Need to  have a field where you can show an hour in Sharepoint 2007,sharepoint
+1513,Get the path of the .dmg from the mount point,osx
+1515,"printing 4""x6"" cards in OSX (cocoa)",osx
+1516,Visual Studio and dual/multiple monitors: how do I get optimized use out of my monitors?,visual-studio
+1517,Is porting qt to another OS as simple as this?,qt
+1518,Content replacement from external website,ajax
+1521,Are there reasons not to use JSONP for AJA~X requests?,ajax
+1522,Qt4 QMenu items sorting,qt
+1525,Spring: Setting up a simple PropertyPlaceholderConfigurer example.,spring
+1526,Pulling date and time values from excel (CSV) to C#,excel
+1527,Does Qt support OpenMP?,qt
+1528,error while sending mail,sharepoint
+1529,Fetching an image and associated metadata with an AJAX request,ajax
+1531,Unable to make Firefox open Ack's output,osx
+1535,how to pass a java object as a parameter to a matlab function,matlab
+1536,How can I get the selected VALUE out of a QCombobox?,qt
+1539,Why won't the following haskell code compile?,haskell
+1540,magento customers insertion,magento
+1541,"Resolving ORA-4031 ""unable to allocate x bytes of shared memory""",oracle
+1542,handling  servlet output in ajax,ajax
+1543,Value object or entity object in my Hibernate mapping?,hibernate
+1544,Disadvantage of Ajax,ajax
+1545,"I can't ""Create or Extend Web Application"" in SharePoint?",sharepoint
+1546,How to add custom Modules in magneto,magento
+1548,How to set output path in a Qt project,qt
+1549,Recurring Profile and Bundled Item,magento
+1550,Creating Drupal CCK content programatically/ via API,drupal
+1551,"What are your favorite, but less obvious, Visual Studio 2008 tips and tricks?",visual-studio
+1552,excel: charting with unknown number of data,excel
+1553,VS 2008 - Objects disappearing?,visual-studio
+1554,Querying the connecting device for usb devices in OS X,osx
+1555,How to handle DataIntegrityViolationException in Spring?,spring
+1556,How are lists implemented in Haskell (GHC)?,haskell
+1559,Matlab tutorial for programmers,matlab
+1560,Capture Screen Image in C++ on OSX,osx
+1562,Iterating over Java Collections in Scala,scala
+1563,Magento Set Grid to Filter Automatically by Current Day using Existing Datetime Column in Grid,magento
+1564,how to show products at magento homepage.,magento
+1566,bash: tee output AND capture exit status,bash
+1567,Scala list recursion performance,scala
+1568,ASP.NET => Spring Web Flow: How do I get up to speed fast?,spring
+1571,Any have a Visual Studio shortcut/macro for toggling break on handled/unhandled exceptions?,visual-studio
+1572,Add web part to sharepoint page in aspx markup,sharepoint
+1573,Hibernate for ontologies?,hibernate
+1574,Storing files inside BASH scripts,bash
+1575,Common Files in Visual Studio Solution,visual-studio
+1576,Magento - Communication between 2 blocks,magento
+1577,$Body_Classes Variable in Drupal,drupal
+1579,Retrieving value (not display item) of DropDown,ajax
+1580,How do I reuse paintings in Qt,qt
+1582,Best ajax framework for drag and drop support,ajax
+1583,"Is there a Snow Leopard compatible ""sudden motion sensor"" API available?",osx
+1584,Getting Product or ProductID in magento,magento
+1585,Browser Plug-ins Not Loading in WebView Implementation,osx
+1586,Bash alias query,bash
+1587,Hibernate not throwing exception when openSession is called and the connection to DB cannot be established,hibernate
+1588,"Bash case syntax - meaning of ""-@""",bash
+1589,relations in oracle objects?,oracle
+1590,SCALA  Generic Function Values ( Anonymous Function ) - Missing Parameter Type ( Error ),scala
+1593,Applying a function that may fail to all values in a list,haskell
+1594,MVC - Ajax form - return partial view doesnt update in <div> target,ajax
+1595,Haskell function taking a long time to process,haskell
+1596,Type error while trying to implement the (>>=) function in order to create a custom monad transformer.,haskell
+1597,Do you know a Haskell package for dirent.h on Windows?,haskell
+1598,Hibernate getting Id from createCriteria() result,hibernate
+1600,facebook footer bar ajax!,ajax
+1602,"Sending messages to objects while debugging Objective-C in gdb, without symbols.",osx
+1603,imap_open mbox windows,drupal
+1604,Is it reasonable to use small blobs in Oracle?,oracle
+1605,.NET: How to retrieve the body of an Oracle 9i PL/SQL procedure or function,oracle
+1607,Spring controller setup question?,spring
+1608,Assign different products to different stores and display products per store in backend,magento
+1609,How to set the default value of a user defined column in SharePoint depending on the content type that uses it,sharepoint
+1610,What is .net framework ?,visual-studio
+1611,How to get t4 files to build in visual studio?,visual-studio
+1612,-bash: ./configure: No such file or directory   - mysql install on OSX10.6,osx
+1613,Looking for MacOS Threaded Networking sample code,osx
+1616,Why Scala is Very Complex,scala
+1618,How can I use the /home directory on Mac OS X,osx
+1619,How to stop NSScrollView from scrolling to top when horizontally resizing contained NSTextView?,osx
+1620,Bash - How to call a fuinction declared in a parent shell?,bash
+1621,Two server setup for online store(Magento),magento
+1622,Improving MVP in Scala,scala
+1624,Recipe for upgrading JBoss 5.x Hibernate to 3.5.x?,hibernate
+1625,Problem with PNG Fix  for 2 overlapping images,drupal
+1627,How can you have a xEmacs-like-Auctex in MacVim?,osx
+1630,upsells in custom Magento template,magento
+1631,What is the easiest approach to exporting a Sharepoint list in xml format?,sharepoint
+1632,"Running an MVC application through IIS results in ""Directory listing denied""",visual-studio
+1637,What am I doing wrong with the styling in this sharepoint masterpage?,sharepoint
+1638,Magento - Multiselect color attribute,magento
+1639,Spring Connection Pooling,spring
+1640,Visual Studio 2008 Unnecessary Project Building,visual-studio
+1641,Checking Drupal authentication from external PHP,drupal
+1642,"What happens if I forget to mark the Spring SessionStatus as ""Complete""?",spring
+1643,Visual Studio: default settings,visual-studio
+1644,Caret search and replace in Bash shell,bash
+1645,How do I use a file grep comparison inside a bash if/else statement?,bash
+1647,Dow do you set ASP.NET Development Web Server to not cache any content?,visual-studio
+1648,Spring Security Redirect if no access on page,spring
+1649,Drupal Module - Form in Block not applying template,drupal
+1650,Excel - Worksheet_Activate Code for New Sheets,excel
+1651,Limiting autoshape movement in Excel.,excel
+1652,magento working of paypal express checkout,magento
+1653,Excel VBA SVN Client / Integration,excel
+1654,Nhibernate fires SQL commands,hibernate
+1655,Magento Installation error..redirects to localhost ?!,magento
+1656,Ms Excel -> 2 columns into a 2 dimensional array,excel
+1658,"What does ""Optimize Code"" option really do in Visual Studio?",visual-studio
+1660,Visual Studio tip,visual-studio
+1661,Default HTML style for controls,qt
+1662,Declaring multiple variables in scala,scala
+1663,Finding 99% coverage in Matlab,matlab
+1664,Is there a way to use VS with a remote site accessible only by sftp?,visual-studio
+1665,Qt's pragma directives,qt
+1666,What does this snippet mean?,drupal
+1668,Query about design guidelines for application development.,osx
+1669,QPainter fails when calling begin,qt
+1670,Bash substituion; remove everything after the string,bash
+1671,"Python+Qt, QScrollArea problem: what's wrong with this code?",qt
+1674,Fundeps and GADTs: When is type checking decidable?,haskell
+1675,Writing a web application in excel? Why not?,excel
+1676,Does opencv have a function similar to size and bwperim in matlab?,matlab
+1677,How do I query for objects with a value in a String collection using Hibernate Criteria?,hibernate
+1679,Importing txt files to excel makes linebreaks disappear,excel
+1682,SharePoint site security:  how can I monitor changes?,sharepoint
+1683,Getting MATLAB variable (string) from C,matlab
+1686,Using Range Values with Find,excel
+1687,Array of Matrices in MATLAB,matlab
+1688,Matlab / Java API callback,matlab
+1689,"Is using ""global"" user in Drupal dangerous?",drupal
+1690,How to solve symbolic equation with double coefficients in matlab?,matlab
+1691,scala actors and persistence context,scala
+1693,Is there a reference for the SharePoint XSLT extension functions?,sharepoint
+1694,How do you bound an event receiver to a *specific* custom content type?,sharepoint
+1696,How to get Custom Options Programmatically in Magento,magento
+1698,What is the best client from Windows to Mac for VNC?,osx
+1699,best way to programmatically modify excel spreadsheets,excel
+1700,Stack Overflow whilst cascade saving nhibernate entity with custom generator,hibernate
+1701,How can i wire-up  org.springframework.transaction.interceptor.TransactionProxyFactoryBean  and org.springframework.orm.hibernate3.HibernateInterceptor ?,spring
+1702,Visual Studio plugin to allow opening 2005 solutions with 2008?,visual-studio
+1703,"Unable to transition state to ""payment_pending"" for user cancelled sales order",magento
+1705,Drupal CSS URL Problem,drupal
+1708,lift CalendarMonthView sample fails with Lift 1.1-SNAPSHOT,scala
+1709,Scala: comparing fresh objects,scala
+1711,Magento 1.4 Display Individual Product on Homepage,magento
+1714,How to set OS X Terminal's default home?,osx
+1716,Saving QPixmap to JPEG failing (Qt 4.5),qt
+1718,How to use dependencies of C++ libs in Visual Studio regarding the header path,visual-studio
+1720,qt trouble overriding paintEvent,qt
+1721,How can I have multiple fields with the same taxonomy on Drupal's node creation form?,drupal
+1722,How to add a web part zone in SharePoint using SharePoint Designer,sharepoint
+1723,How to set background color of cell with NSButtoncell type in NSTableView ?,osx
+1724,Apparent memory leak in web application (maybe from AJAX?),ajax
+1725,SVN commit problems on Mac OSX Terminal,osx
+1726,"Parsing an Excel file in C#, the cells seem to get cut off at 255 characters... how do I stop that?",excel
+1728,Bash shell scripting - csv parsing,bash
+1729,Bzip2 Tomcat Output,spring
+1730,deducing type of multi-parameter type class,haskell
+1732,Whats the best way to send QStrings in a function call?,qt
+1734,PWM/clock signal generation from a USB-1024HLS DAQ board,matlab
+1735,What are the best practices for permissions on a publishing site within MOSS 2007 Standard?,sharepoint
+1736,Excel parsing and converting text,excel
+1737,Spring Webflow: cannot get flow execution url at action phase of portlet,spring
+1741,Getting the bounding box of a constant size item in Qt graphics views,qt
+1743,The best 3rd party component for generating excel from asp.net,excel
+1746,div loading is not proper while using ajax,ajax
+1749,Problem in Copying the data one Excel to another Excel using VBSCript,excel
+1750,How can I get the Hibernate Configuration object from Spring?,spring
+1751,Resolving relative resources in AJAX content,ajax
+1752,I need a simple custom authentication in spring,spring
+1753,"Getting strange characters in text in Drupal...probably encoding issues, but how to solve",drupal
+1754,"A general way to get the front page of another language, in multi-lingual drupal?",drupal
+1755,"Need help with Continuations-Error ""found cps expression in non-cps position""",scala
+1756,What are the merits of using the various VCS (Version Control Systems) that exist to track Drupal projects?,drupal
+1757,How to compare literals in COUNTIF,excel
+1758,Deriving arbitrary functions in Haskell,haskell
+1759,Finding whether or not an item is contained within an k-ary tree,haskell
+1760,Do you think the Spring WebFlow Flow Definition format would be suitable for externalising a Web Flow for a non Spring framework?,spring
+1761,"QT: creating an ""svg image button""",qt
+1762,Incorrect MacOSX select() behaviour on non-blocking connect,osx
+1763,How do I enable Platform Builder mode in VS2008,visual-studio
+1764,copying a document to another library and incrementing version,sharepoint
+1765,SpringJunit4ClassRunner -- can I change the lifetime of the injected resources?,spring
+1766,Excel VBA hide/show row code speed.,excel
+1767,can't login magento in local system in firefox,magento
+1768,AJAX Response not working in FF,ajax
+1769,Drupal permissions not showing for custom content type,drupal
+1771,Bash Script Calls another bash script and waits for it to complete before proceeding,bash
+1772,Newlines and Spring's SimpleUrlHandlerMapping,spring
+1773,How do I get the path of the current drupal theme?,drupal
+1775,"Excel VBA ""Autofill Method of Range Class Failed""",excel
+1777,Magento add to cart quantity update problem..,magento
+1778,Sync File Modification Time Across Multiple Directories,bash
+1779,How to pass multiple parameters to tests that share the same setup code in Matlab xUnit?,matlab
+1780,How to get/set unique id for cell in Excel via VBA,excel
+1781,Unable to make a tab completion file for MacPorts in Bash?,osx
+1782,"Hibernate ""PreInsertEvent.getSource()"" NoSuchMethodError.",hibernate
+1784,connecitnf to ms sql through hibernate,hibernate
+1785,"In Scala, how do you define a local parameter in the primary constructor of a derived class?",scala
+1786,First column of a matrix given as a list of rows in Haskell,haskell
+1787,Mac eclipse xdebug firefox issue,osx
+1788,mapping list of different types implementing same function?,haskell
+1789,Adding Existing Form to C++/CLI WinForms Project,visual-studio
+1790,magento non object in search,magento
+1791,How to auto-resize qt widget?,qt
+1792,Open and read Excel from a Linux based C program?,excel
+1793,WSS/MOSS Development ... Where to draw the line?,sharepoint
+1794,Does anyone know the shortcut to open a file within your solution,visual-studio
+1800,use oracle cursor within a sys_refcursor,oracle
+1801,Mac os x; fast text editor for RTF format with colors and change background,osx
+1802,"BASH, escaping single-quotes inside of single-quoted strings",bash
+1803,How do I add a form to a view with drupal 6.x views 2?,drupal
+1805,QtPython Qtreewidget Problem,qt
+1811,Passing properties to a Spring context,spring
+1812,How to rewrite Collection?,magento
+1813,What are the benefits of proxying by class as opposed to proxying by interface (Spring)?,spring
+1814,VB.NET COM Server implementing Excel UDF not callable with optional Excel.Range,excel
+1815,Is there a maven 2 archetype for spring 3 MVC applications?,spring
+1816,Hibernate  -gett the size of a list in a property,hibernate
+1817,Hibernate one-to-one mapping problem.,hibernate
+1818,Modifying a spreadsheet using a VB macro,excel
+1820,Customizing Spring concurrent-session-control configuration,spring
+1822,Using Application.Run in Excel VBA when workbook name contains spaces,excel
+1823,Check whether stderr is a pipe in bash,bash
+1824,Sort Excel Grouped Rows,excel
+1825,Tortoise SubWCRev.exe Pre-Build Event,visual-studio
+1826,Create a temporary directory in Haskell,haskell
+1827,How do you write the function 'pair' in Haskell?,haskell
+1829,Excel: How can I return the results of a function to a cell,excel
+1830,Spring - handle multiple forms submit with one controller,spring
+1831,Importing HTML Table into Excel via clipboard,excel
+1832,Is ODP.NET required for Oracle 11g Client?,oracle
+1834,how to call functions/methods within CMS block or page?,magento
+1837,Oracle Builtin String Character Classes,oracle
+1838,Built in colormaps in Matlab,matlab
+1839,How to read bytes from a Socket in Haskell,haskell
+1840,"Drupal - After each user log in, how to direct to each user's specific page?  - Thanks in Advance",drupal
+1841,How to make this if statement in bash,bash
+1842,Excel to .csv problem,excel
+1843,Bash reg-exp substitution,bash
+1844,Automatic hyperlinking in Excel,excel
+1845,Oracle DB: How can I write query ignoring case?,oracle
+1846,QPlainTextEdit for single line of input,qt
+1847,Haskell: Can I use a where clause after a bloc with bind operators (>>=)?,haskell
+1848,"Add option value to product, then to cart with Magento",magento
+1849,Drupal theming stop using panels for mobile site,drupal
+1850,Changing the type of an entity preserving its ID,hibernate
+1852,Hibernate parent-child modeling,hibernate
+1853,Spring MVC Web PetClinic Tutorial?,spring
+1854,How do I slice an array in Excel VBA?,excel
+1855,SharePoint Default Styles,sharepoint
+1856,Projections.count() and Projections.countDistinct() both result in the same query,hibernate
+1857,Drupal 6 increase user login time.,drupal
+1858,Possible to create Oracle regular expression that's able to match NULL?,oracle
+1860,how can i use sharepoint (via soap?) from python ?,sharepoint
+1861,MS Excel 2003 - Anyone know how to delete rows that contain duplicate data?,excel
+1863,How to cluster and load balance a Sprint + OSGi app,spring
+1864,How to write Tetris in Scala? (code review),scala
+1866,Spring applicationcontext loading hooks,spring
+1867,Creating a custom field that requires unique values,sharepoint
+1868,"In a bash script/command how can I make a PC beep noise, or play a sound file?",bash
+1869,jQuery and AJAX response header,ajax
+1870,Creating executable for windows using QT program in Linux,qt
+1871,Am I understanding Drupal regions and views correctly?,drupal
+1873,Visual Studio 2008 - Customise right click menu,visual-studio
+1874,How to pipe a command result to a -<character><argument> option? (Without spaces),bash
+1876,Drupal contact form not displaying a theme?,drupal
+1878,"Using Spring, mapping to root in web.xml, static resources aren't found",spring
+1879,Displaying build times in Visual Studio?,visual-studio
+1880,How can I efficiently copy 2-dimensional arrays of bytes into a larger 2D array?,haskell
+1881,Accelerating saving plot figures as bitmap image  in MATLAB,matlab
+1882,Automatic Hibernate Transaction Management with Spring?,spring
+1883,Spring Web Flow,spring
+1888,How to click a button in a out-of-focus widget without changing the current focus to it,qt
+1891,Does the ClientScriptmanager work when called in a partial postback?,ajax
+1894,User Interface for creating Oracle SQL Loader control file,oracle
+1895,Haskell Type Error,haskell
+1896,Effective Entity Update In Hibernate ?,hibernate
+1897,No mapping for LONGVARCHAR in Hibernate 3.2,hibernate
+1898,Scala and HttpClient: How do I resolve this error?,scala
+1899,Why is it recommended to avoid unidirectional one-to-many association on a foreign key?,hibernate
+1901,rearranging string containing repeating patterns of variable length,haskell
+1903,haskell global var,haskell
+1904,Using a Qt-based DLL in a non-Qt application,qt
+1905,SharePoint Solution Package Deploy Random Failures,sharepoint
+1906,Problem with ajax modal popup extender,ajax
+1907,How to return a 200 ok status programmatically to ajax request in PHP?,ajax
+1909,Programmatically set a specific bean object - Spring DI,spring
+1911,Detecting Ajax in PHP and making sure request was from my own website.,ajax
+1912,druapl form alter to populate url arguments,drupal
+1913,"Ajax, Check for updates,  Same_origin_policy",ajax
+1914,Haskell Target Architecture,haskell
+1915,What tool do you use for counting lines of source code in Visual Studio Projects ?,visual-studio
+1916,Hibernate Tool for Weblogic 9.2.1,hibernate
+1917,Oracle Form Builder: Switching between tabs in a form,oracle
+1918,Group by month with criteria in Hibernate,hibernate
+1920,spring 3.0 and JSRI68 support,spring
+1921,Matlab - matrix combinations,matlab
+1922,What are some good techniques for performance testing SharePoint web parts and controls?,sharepoint
+1925,Programmatically exclude page items in olap pivot,excel
+1926,"Simultaenous connections, excel",excel
+1927,Most efficient AJAX toolkit?,ajax
+1928,Haskell lazy I/O and closing files,haskell
+1929,Create hibernate collection on two columns,hibernate
+1930,How to talk to Sharepoint: If I only got Full Name,sharepoint
+1931,nHibernate SchemaUpdate Failing,oracle
+1932,Problem with detecting phone orientation change in Symbian/Qt,qt
+1933,Magento Checkout - Unsecure Image,magento
+1934,Static testing for Scala,scala
+1935,Drupal: Grabbing the node reference,drupal
+1939,Excel XML Line Breaks within Cell from PHP DOM,excel
+1941,suppress start message of Matlab,matlab
+1942,[Spring] Using beans from other modules?,spring
+1944,Excel 2003 Charting: Chart Data Too Complex,excel
+1945,SO how to make MAC recognize linux BASH?,bash
+1946,How does visual studio determine what to copy to the output directory with multi-project solutions?,visual-studio
+1947,Help explain this chunk of haskell code that outputs a stream of primes,haskell
+1950,Reasonably secure way to allow table name access on client side,ajax
+1951,New products by category in Magento,magento
+1953,Animation with QTimeline,qt
+1954,Looping over a function in Haskell,haskell
+1955,"Newbie Question: AJAX not ""capturing"" event without refresh",ajax
+1957,BindingResult.rejectValue does not find value from ValidationMessages.properties,spring
+1959,How to limit the number of users that can access a SharePoint site collection?,sharepoint
+1960,select in HQL (hibernate),hibernate
+1961,Avoiding too many configurations for a Visual Studio project,visual-studio
+1962,Run code in Hibernate Filters,hibernate
+1963,Customize SharePoint:FormFields to a specific height..,sharepoint
+1964,Hibernate group by time interval,hibernate
+1965,setting up a wysiwyg editor for drupal site users,drupal
+1966,How do I reorder the fields/columns in a view?,sharepoint
+1967,Echo spaces in bash script,bash
+1968,drupal rpx module openid,drupal
+1969,How to add javascript to page on login and logout in Drupal 6,drupal
+1970,(QT/kdelib)  how to know the end of a command in KTerminalInterface?,qt
+1971,SharePoint 2007 Approval Workflow - Any other person can approve requirement,sharepoint
+1972,Custom OneToOne Hibernate/JPA Association,hibernate
+1973,Excel chart component recommendations,excel
+1974,magento limiting number of returned items in product collection call,magento
+1976,How do I set the don't cache header for an html file using apache?,ajax
+1977,attribute select magento query,magento
+1978,What are the major issues to look for when moving an application built in Qt for a Symbian platform to a Windows Mobile platform?,qt
+1979,Hibernate query cache - for objects not in the 2nd level cache - risky? usefull? bad practice?,hibernate
+1980,Will Oracle retire 10gAS in favor of WebLogic?,oracle
+1981,Programmatically block screen saver in Mac OSX,osx
+1982,Magento grouped product options,magento
+1984,How to hide Services item in QMenubar on Mac OS X?,qt
+1985,Drupal 6 forms and optgroup arrays,drupal
+1986,make AppleScript program that listens systemwide for shortcuts,osx
+1987,Trying to improve efficiency of array formula,excel
+1988,How to connect to Oracle from far Computer in LAN ?,oracle
+1989,Disable and later enable all table indexes in Oracle,oracle
+1991,Permissions problems with Excel Services in SharePoint,sharepoint
+1992,Map a list of strings with JPA/Hibernate annotations,hibernate
+1993,Handling transactions spanning across database servers,spring
+1995,Sharepoint: Web Part vs. ASP.NET User Control,sharepoint
+1997,Override of an hibernate validator annotation ?,hibernate
