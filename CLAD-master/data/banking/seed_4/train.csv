@@ -1,0 +1,1398 @@
+,text,label
+6,What is the procedure for depositing a virtual card,get_disposable_virtual_card
+7,i have a pending top-up,pending_top_up
+12,My top up was denied,top_up_failed
+13,Do I need to verify the top-up?,verify_top_up
+26,"Hello, I am buying a flat and need the inital payment for the mortgage to go through. It keeps showing up as error, what is going on? Can you please help me make this transfer?",failed_transfer
+37,Would I be charged any fees if I added money to my account using an international card?,top_up_by_card_charge
+41,"What do I do with my ""decline"" message on a transfer?",declined_transfer
+66,I didn't see the money I added to my card.,top_up_failed
+86,"My wallet was stolen, along with my cards. How do I put a freeze on my cards and order a new one?",lost_or_stolen_card
+94,What top up charges are there for US cards?,top_up_by_card_charge
+96,"I could not get a top-up to work, why?",top_up_failed
+98,"I would like a disposable virtual card, could I get one?",get_disposable_virtual_card
+100,I have been trying to make transfers to another account but I keep getting a declined notice. I have checked all of my information more than once and my information is accurate.,declined_transfer
+102,Verifying top-up cards necessary?,verify_top_up
+104,What would be a reason my transfer got declined?,declined_transfer
+123,"I need to set up an account for my daughter, how would I do that?",age_limit
+125,My top up has failed,top_up_failed
+128,What method do you use for the exchange rate?,exchange_rate
+132,"I have a Visa and Mastercard, can I use these?",visa_or_mastercard
+141,"I'm trying to move money from my account to elsewhere, but it's giving me an error message.",declined_transfer
+142,I really need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or try an alternative,top_up_failed
+143,My top up is still pending,pending_top_up
+144,"i have tried everything to complete a transfer but can't, what should i do next",declined_transfer
+149,Should my top-up be completed by now?,pending_top_up
+152,Please send me a disposable virtual card.,get_disposable_virtual_card
+158,What is the verification code for my top up card?,verify_top_up
+159,Can you tell me why my transfer declined?,declined_transfer
+164,Can I get a Visa instead of a MasterCard?,visa_or_mastercard
+165,My money I added isn't on my card.,top_up_failed
+166,I think there has been a mistake with my transfer,declined_transfer
+169,"Transfer was declined, could not complete request.",declined_transfer
+179,How do I unblock my card?,pin_blocked
+183,Are there any disposable virtual cards?,get_disposable_virtual_card
+185,"The transfer keeps failing , I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, Would you please check the issue?",failed_transfer
+190,"I have made 5 attempts to make a very standard survey, yet I can't get it to work. What is the problem? Is there an issue related to your system?",failed_transfer
+197,Why am I getting declines when trying to make a purchase online?,declined_transfer
+208,"If my salary is in GBP, do I need to do something?",receiving_money
+212,I tried to do a transfer and it's saying it declined.,declined_transfer
+213,How long should it take for my top-up to finish? I've been waiting a while.,pending_top_up
+219,Are there still fees for european top-ups?,top_up_by_card_charge
+223,From which age can my kids use your service?,age_limit
+225,Trouble with my top up,top_up_failed
+231,This transaction needs both a Visa and a Mastercard.,visa_or_mastercard
+233,Why does top-up require verification?,verify_top_up
+240,How come my transfer got declined,declined_transfer
+252,Hello. I'm trying to transfer some money to a friend but it keeps getting rejected. can you help me?,failed_transfer
+257,I topped up about half an hour ago and the charge is still pending. I'm a new customer and today is my first time doing this. Can you fix it? It doesn't seem to be working.,pending_top_up
+263,What are Interbanks current exchange rates?,exchange_rate
+269,Is it possible for me to set up separate accounts for my kids?,age_limit
+271,"
+How do I unblock my PIN?",pin_blocked
+275,I tried to make a transfer like five different times. Why won't your system let me? Is it broke?,failed_transfer
+281,Do you have the best exchange rate?,exchange_rate
+307,Please explain why my top-up hasn't been processed yet?,pending_top_up
+317,How do i find my top-up card's verification code?,verify_top_up
+319,There is a top up that has been pending for an hour and I don't know why.  I was expecting it immediately and need it now!,pending_top_up
+326,Can I choose whether I receive a Visa or a Mastercard card?,visa_or_mastercard
+330,I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?,get_disposable_virtual_card
+350,What are the charges for topping up US card?,top_up_by_card_charge
+353,I can't see a top-up top-up verification code.,verify_top_up
+354,I attempted to top up my account but it's been frozen in a pending state for well over an hour now! Is this normal? I'm a new customer and this is my first time doing this. I assumed it would be done quicker than this.,pending_top_up
+355,What are these disposable cards meant for?,get_disposable_virtual_card
+361,"I received a ""declined"" message when doing a transfer",declined_transfer
+370,I need a disposable virtual card. Please tell me how to order one.,get_disposable_virtual_card
+373,My credit card seems to have been declined for top up. Why is it not going through? Can you tell me what's going on?,top_up_failed
+382,"Hello, I trying to top up with my card today but it didn't work. When I tried last time it worked but today it isn't. Could you take a look at it for me?",top_up_failed
+388,How do I verify the top-up?,verify_top_up
+389,I entered the pin incorrectly too many times and now it is blocked. Can you help?,pin_blocked
+392,"My card keeps getting declined when I try to use it.  I would like to top-up, but it is not going though.",top_up_failed
+396,"My transfer failed, why?",failed_transfer
+402,Can I transfer money using a different currency?,receiving_money
+403,"Why do you keep declining my transfers? It's been working well so far, but when I just tried to buy something, the card got declined. I tried it a few times, but same thing happened every try.",declined_transfer
+409,I received my salary in the wrong currency. How do I change this?,receiving_money
+419,I need to report a stolen card,lost_or_stolen_card
+421,I would like a Visa card.,visa_or_mastercard
+423,I got a message that my transfer was declined.,declined_transfer
+426,Why are my transfers not going through.  I have tried over 4 times to get it to work.  This is just a simple transfer.  Is something else causing this in the system?  Is it broken?,failed_transfer
+442,What are your exchange rates calculated from?,exchange_rate
+448,"I have used all my PIN tries, what now?",pin_blocked
+464,Would I be able to get an account for my child?,age_limit
+465,I've made more than one attempt to make a purchase and the card keeps getting declined. Why do you keep denying my transfers?,declined_transfer
+467,Is there any way for you to find my card?,lost_or_stolen_card
+475,Is it possible to get both Mastercard and Visa card from you?,visa_or_mastercard
+478,"Can you point me in the right direction of where to go to roder a disposable virtual card, I can't seem to find it.",get_disposable_virtual_card
+484,What do I do if my card is stolen?,lost_or_stolen_card
+485,"When I attempted to make a transfer, it failed.",failed_transfer
+491,Will you charge me more if I top up with an international card?,top_up_by_card_charge
+508,Is it acceptable to use either Visa or Mastercard?,visa_or_mastercard
+510,I received a transfer in GBP how do I change it to a different currency?,receiving_money
+513,What are the exchange rates?,exchange_rate
+530,Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.,lost_or_stolen_card
+531,Where can I find the top up verification code?,verify_top_up
+533,Do I have a Visa card as an option?,visa_or_mastercard
+534,Top up did not work on the app.,top_up_failed
+536,How do I create a disposable virtual card?,get_disposable_virtual_card
+538,How are the exchange rates determined?,exchange_rate
+563,What do I have to do to get my PIN unblocked?,pin_blocked
+566,are there age requirements,age_limit
+570,Are there any charges for European bank card for top up?,top_up_by_card_charge
+574,I can't figure out how to unblock my pin number. Can you help me?,pin_blocked
+581,I need mastercard as well as visa,visa_or_mastercard
+585,What is the appropriate age for my child to be able to open an account?,age_limit
+586,Is there a reason why top-up needs verifying?,verify_top_up
+598,Is there a reason that my top-up is still pending?,pending_top_up
+599,I requested for a top-up but it has not reflected,top_up_failed
+603,Can my salary be received and transferred to my current currency in my country?,receiving_money
+613,Help me unblock my PIN.,pin_blocked
+617,Where do i verify a top-up card?,verify_top_up
+618,Are there ways for other people to send me money?,receiving_money
+629,"new customer and filling gas for the first time today, not working,",pending_top_up
+633,Please tell me how to verify my top up card.,verify_top_up
+639,How are your exchange rates calculated?,exchange_rate
+644,How many times can I enter a wrong PIN before it is blocked?,pin_blocked
+645,"My card has been stolen. I reported it with the police, but I need to report it with you as well.",lost_or_stolen_card
+652,Help Me!  I lost my card.  What should I do?,lost_or_stolen_card
+653,Can I choose between Mastercard and Visa?,visa_or_mastercard
+657,What's a verification code?,verify_top_up
+658,"How long is a top up supposed to be pending, because an hour is too long! Can you fix this to go through?",pending_top_up
+661,Is it possible to get a Visa and Mastercard from you?,visa_or_mastercard
+664,I don't think that my top-up worked.,top_up_failed
+675,No Visa please. I want to continue with Mastercard.,visa_or_mastercard
+680,I lost my card n need a new one.,lost_or_stolen_card
+694,Seems like my top-up has not gone through,pending_top_up
+703,What does top-up verification do?,verify_top_up
+711,Where does the exchange rate stand right now?,exchange_rate
+713,Can someone assist me with explaining how I can unblock my pin?,pin_blocked
+716,Please check and let me know why my transfers are getting declined.,declined_transfer
+724,How do I replace a stolen card?,lost_or_stolen_card
+731,My card has been lost / stolen,lost_or_stolen_card
+732,I topped up but it isn't in my account,pending_top_up
+733,"i need help, i lost my card",lost_or_stolen_card
+736,"I got a transfer fail message, but no explanation of why-- what happened?",failed_transfer
+742,can you tell me where to find the top-up verification code?,verify_top_up
+757,Help me unblock my account.  I entered the PIN wrong too many times.,pin_blocked
+758,What do I need to know about topping up?,top_up_by_card_charge
+762,Can you please explain disposable virtual cards for me?,get_disposable_virtual_card
+765,What is the age limit?,age_limit
+769,Could you tell me what your exchange rates are?,exchange_rate
+771,Where can I find the exchange rate for my transfer?,exchange_rate
+783,My top up card needs verification and I don't know how to do it,verify_top_up
+790,Will I get Visa or MasterCard?,visa_or_mastercard
+793,Hold old do my kids have to be to use the service?,age_limit
+800,Why does a top- up need to be verify?,verify_top_up
+801,Why would you cancel my transfer?,declined_transfer
+803,My PIN was entered wrong and now I am blocked.  Please unblock.,pin_blocked
+822,I tried to top up with my card but it's not working. I had just done this a couple days previously and it worked. Can you tell me what's going on here please?,top_up_failed
+824,How do I transfer funds if I am paid in GBP?,receiving_money
+825,"My top up has been pending for an hour already, and I really need this to go through as soon as possible.  Can you help?",pending_top_up
+830,Where is the top-up verification code sent?,verify_top_up
+837,Why is it failing to top-up?,top_up_failed
+841,Could you please freeze my card immediately?,lost_or_stolen_card
+848,Can you look into why my most recent top-up is showing as pending? I thought it was supposed to be instantaneous.,pending_top_up
+855,How old do you need to be to have an account?,age_limit
+861,I would like to get an account for my child.,age_limit
+867,I believe my top up did not work.,top_up_failed
+871,"Hello.  I ran into a problem with a transfer this morning.  I was trying to send money to some friends but when I tried to send it, the transfer failed.  I don't know what is causing the transfer to be rejected.  Please let me know what is causing the problem.  Thanks.",failed_transfer
+881,My credit card did not go through. Can you see if it has insufficient funds?,top_up_failed
+895,What do I need to do to get my salary through this?,receiving_money
+902,Should my top up still be pending?,pending_top_up
+905,May I get my salary paid out in a different currency?,receiving_money
+907,Why do transfers get declined?,declined_transfer
+919,Is the verification number on the top up card,verify_top_up
+922,"I'm trying to verify my top-up card, but I can't find the code...?",verify_top_up
+928,Can my teenager have an account?,age_limit
+935,My top up doesn't work,top_up_failed
+936,My card has gone missing.,lost_or_stolen_card
+940,from where are coming your exchange rates?,exchange_rate
+944,Where can i top my card for free?,top_up_by_card_charge
+946,I have transfered to my account before but it is being declined now?,declined_transfer
+948,"Which card would I get, Visa or Mastercard?",visa_or_mastercard
+950,Do I get  a mastercard and visa?,visa_or_mastercard
+953,How is the exchange rate doing?,exchange_rate
+971,Guide me on how to unblock my PIN,pin_blocked
+980,How old does one need to be?,age_limit
+987,Looks like my top up failed.,top_up_failed
+988,I need to know what is going on. I'm attempting to purchase a flat and need the money to pay on my initial mortgage payment. I'm only getting an error. Can you find out what's going on and help in making the transfer?,failed_transfer
+990,why was a transfer declined,declined_transfer
+1004,How do I go about unlocking a pin?,pin_blocked
+1005,"I think something is wrong with your top up.  I've been waiting a little over an hour for this to go through, can you send it through for me?",pending_top_up
+1015,When will my top-up happen?,pending_top_up
+1025,Can this app take my salary?,receiving_money
+1029,I would like to know how exchange rates are calculated when transferring funds.,exchange_rate
+1031,Seems like my transfer was declined how come?,declined_transfer
+1040,Too many times I entered the incorrect PIN.  How can I get my account unblocked?,pin_blocked
+1048,Is there a disposable virtual card option?,get_disposable_virtual_card
+1050,I have tried 5 times at this point to complete a transfer that's simply standard. What appears to be the problem? Is your system messed up?,failed_transfer
+1051,Do you have any age limit?,age_limit
+1052,Where is my top-up verification code?,verify_top_up
+1057,"I have the funds, why can I not use my top-up?",top_up_failed
+1059,What are disposable virtual cards?,get_disposable_virtual_card
+1061,Can you tell me what are disposable cards for?,get_disposable_virtual_card
+1065,Why would my transfer be declined?,declined_transfer
+1067,How do I get unblocked?,pin_blocked
+1069,Im trying to top up my card but it's still pending and it's been an hour. Is there any way to make it go through faster? Do I not have enough?,pending_top_up
+1070,Can I receive my salary with this in another currency?,receiving_money
+1076,I'm getting an error when trying to make a payment. I want to purchase a flat but my mortgage payment needs to go through. Can you help me?,failed_transfer
+1079,Can you tell me about these disposable virtual cards?,get_disposable_virtual_card
+1081,Is there a certain age I need to be?,age_limit
+1084,Why hasn't my transfer gone through,failed_transfer
+1089,If I top up using a European card is there a charge?,top_up_by_card_charge
+1093,Please help me unblock my pin which I put the wrong one too many times.,pin_blocked
+1100,My card was stolen,lost_or_stolen_card
+1101,How do I use the disposable cards?,get_disposable_virtual_card
+1115,Please can i get a disposable virtual card as well?,get_disposable_virtual_card
+1116,My transfer didn't complete. Why can't I access funds?,failed_transfer
+1117,why do you verify the top up,verify_top_up
+1120,What are the reasons that my mortgage payment won't go through? I'm getting an error and don't know how to correct to get this transfer to go through.,failed_transfer
+1128,I need assistance completing a transfer. I'm trying to purchase a flat and need the money for the initial mortgage payment. I keep getting an error and the transfer is not going through. What is going on here?,failed_transfer
+1130,"I desperately need to top-up my card, so why is it being declined? Can you solve this for me? I need to use my card immediately!",top_up_failed
+1131,Where Is the top up verification code found?,verify_top_up
+1132,I want to get a Visa,visa_or_mastercard
+1133,I would like to know what exchange rates you use?,exchange_rate
+1135,Is it possible to get a disposable virtual card as well?,get_disposable_virtual_card
+1167,Please help me.  My card is missing.,lost_or_stolen_card
+1177,How long does a top-up take to go through?,pending_top_up
+1181,Are you going to charge me to top up my card?,top_up_by_card_charge
+1188,What steps do I take to unblock my PIN?,pin_blocked
+1192,"So, I am in the middle of purchasing a flat. I need the money for the first mortgage payment and it is not going through. I keep receiving an error. Can you find out what's going on and help me complete this transfer?",failed_transfer
+1194,Why isn't my topup working?,top_up_failed
+1198,what currencies can I receive my salary in with this?,receiving_money
+1199,How do I go about verifying the top-up card?,verify_top_up
+1200,"Sort your top up out please! It's been pending since an hour already, can you please make this go through asap I really need the money",pending_top_up
+1206,"I did a bank transfer to top up, but the money is not available.",top_up_failed
+1207,What does it mean if my top-up has not gone through?,pending_top_up
+1211,How do the foreign exchange rates work?,exchange_rate
+1216,"I tried topping up my account but it failed, can you help me?",top_up_failed
+1223,I don't have any idea what's going on but all of my transfers keep getting declined. I have double-checked over all of my recipient names and they are correct.,declined_transfer
+1225,What does the decline message mean,declined_transfer
+1227,"On a card top-up, where can I verify?",verify_top_up
+1232,What can I do with a disposable virtual card?,get_disposable_virtual_card
+1233,Is it ok for a friend to send me money?,receiving_money
+1238,Can I transfer my paycheck to the account?,receiving_money
+1239,"Something is wrong with the top up! I'm a regular customer and use your service all the time, usually this works but now it just shows up as pending",pending_top_up
+1246,When will my top up be approved?,pending_top_up
+1255,I tried to top up but the app rejected it.,top_up_failed
+1260,Is there a top-up fee if you add money in USD?,top_up_by_card_charge
+1261,What fees to you have for top ups?,top_up_by_card_charge
+1262,"It is still pending, I am still waiting. Your system just shows my top-up as pending. What is happening?",pending_top_up
+1264,Will you tell me how I am supposed to use the disposable cards?,get_disposable_virtual_card
+1276,Problems with my top up,top_up_failed
+1297,Is there a disposable virtual card?,get_disposable_virtual_card
+1304,I want to know your exchange rates.,exchange_rate
+1308,Can I unblock my PIN in the app?,pin_blocked
+1314,How can my boss pay me directly to the card?,receiving_money
+1319,Why can't I topup my account?,top_up_failed
+1322,How can disposable cards be used?,get_disposable_virtual_card
+1328,Can I transfer my payroll to the bank?,receiving_money
+1334,How are exchange rates calculated at this bank?,exchange_rate
+1341,My transfer was rejected,declined_transfer
+1350,Will I get a Visa card or Mastercard?,visa_or_mastercard
+1360,My top-up was declined,top_up_failed
+1368,How old can one use your service?,age_limit
+1388,What is my money worth in other countries?,exchange_rate
+1392,Would I get a Visa or Mastercard?,visa_or_mastercard
+1394,"I can't make any transfers, they won't go through, the details are correct as I checked them.  Can you look in to this please?",declined_transfer
+1398,Do you charge if I use a European bank card for top up?,top_up_by_card_charge
+1415,How do I get selected for a visa card?,visa_or_mastercard
+1417,"Hello, I'm a brand new customer and tried topping up for the first time today. It has been pending for half an hour and doesn't seem to be working. Please resolve this.",pending_top_up
+1430,We want to start a college fund for my daughter.,age_limit
+1449,I tried to transfer money but it didn't go through,failed_transfer
+1457,Can you unblock my blocked pin?,pin_blocked
+1477,I tried my PIN too many times and now my card won't work!,pin_blocked
+1478,"I just topped up, and the app denied it.",top_up_failed
+1487,I have tried a couple of times to make a purchase and my card keeps getting declined. Why do you keep denying my transfers? I have already tried a couple of times and it's not working.,declined_transfer
+1488,Can you please explain why my transfer failed?,failed_transfer
+1491,What went wrong when I tried to do my transfer?,failed_transfer
+1507,Is there a charge for topping up by card?,top_up_by_card_charge
+1513,Why didn't this transfer work?,failed_transfer
+1518,I topped off my card is that something you will charge me for?,top_up_by_card_charge
+1529,Please help me find my top-up verification code,verify_top_up
+1539,Can I use app to unblock my card?,pin_blocked
+1544,What foreign exchange rate will I get?,exchange_rate
+1546,What about my children?,age_limit
+1552,Is USD free to top up with a US card?,top_up_by_card_charge
+1554,What age do you have to be?,age_limit
+1557,Why are my transfers and purchases keep getting declined?,declined_transfer
+1559,Do you only use Visa or do you have Mastercard too?,visa_or_mastercard
+1564,Will you charge me if I top up by card?,top_up_by_card_charge
+1566,Are there virtual disposable cards?,get_disposable_virtual_card
+1573,Why was my transfer request decline?,declined_transfer
+1574,Can my daughter make an account?,age_limit
+1578,How do you determine exchange rates?,exchange_rate
+1588,What is the source of your exchange rates?,exchange_rate
+1598,I tried to buy something over the Internet yesterday and got a declined error. I tried again today and got the same message. What is the issue?,declined_transfer
+1604,Do I need to verify my top-up?,verify_top_up
+1613,If I want my son to have his own account is that possible?,age_limit
+1621,Why is my card being declined when I try to do a top-up? How can this be immediately resolved?,top_up_failed
+1636,Do I need a disposable card?,get_disposable_virtual_card
+1641,How old do you need to be to use the banks services?,age_limit
+1644,Please explain the exchange rates.,exchange_rate
+1645,Shopping on line I was declined when trying to buy something.,declined_transfer
+1650,How can I tell what foreign exchange rate I will get?,exchange_rate
+1657,"Hi there, I've tried to make a transfer 5 different times and its not working. Is your system down or something?",failed_transfer
+1665,I entered in the wrong PIN.  Please help me unlock my account.,pin_blocked
+1666,Where is the top-up card verification code?,verify_top_up
+1671,How old do my kids need to be to use your service?,age_limit
+1686,My bag got stolen with all my cards. Can you please cancel my card and send a new one?,lost_or_stolen_card
+1691,Do I need to convert my currency from GBP before transferring?,receiving_money
+1693,I can't get the top-up to work! What's going on here.,top_up_failed
+1695,How do I order a disposable virtual card?,get_disposable_virtual_card
+1700,Can I obtained a Visa Card,visa_or_mastercard
+1708,why do i have a failed transfer,failed_transfer
+1717,"My top up keeps showing pending?  How long will things be like this?  Days, weeks, months?  I need the money quite urgently for an important coffee purchase, can you please let me know when top up will work?",pending_top_up
+1724,how should i add money to my card,top_up_by_card_charge
+1743,How to receive transfers from my employer when I get paid in GBP?,receiving_money
+1745,Can I have a friend send money directly to me?,receiving_money
+1749,How does a disposable virtual card work?,get_disposable_virtual_card
+1765,What is the charge for using a Top up card in the US?,top_up_by_card_charge
+1768,Is there an age limit to get an account?,age_limit
+1782,Where can I find the verification code for a top-up?,verify_top_up
+1784,It says the transfer wasn't accepted.,declined_transfer
+1788,I have a problem with a transfer. It didn't work. Can you tell me why?,declined_transfer
+1804,What is the verification process for my card?,verify_top_up
+1809,Do you have to be 18 to make an account?,age_limit
+1814,Can I open up an account for my child?,age_limit
+1826,Why can't I make a transfer?,failed_transfer
+1835,I have no idea why but my transfers keep getting declined. I have double checked all the recipient details several times already and they're definitely correct.,declined_transfer
+1837,Why do I need to verify the top-up?,verify_top_up
+1846,What are the requirements to open an account for a minor?,age_limit
+1847,Can I open an account for my children?,age_limit
+1849,How can correct Top up with the app to work correctly?,top_up_failed
+1851,I've lost my card. What can I do about that?,lost_or_stolen_card
+1863,"I've tried to send money to my friends and I keep getting rejected. Can you please tell me why, I don't understand.",failed_transfer
+1870,Can my friend send me money if it is not in US dollars?,receiving_money
+1876,What is the top up code for?,verify_top_up
+1882,"My friend wants to send me money, can she?",receiving_money
+1883,Can I choose my Visa or Mastercard?,visa_or_mastercard
+1890,At what age can a person open an account?,age_limit
+1893,Is there a reason my top-up has not gone through?,pending_top_up
+1907,How do you calculate exchange rates?,exchange_rate
+1908,Why has my top up failed?,top_up_failed
+1926,How do I know what the exchange rate will be when I make an exchange.,exchange_rate
+1927,Help!  My card is stolen.,lost_or_stolen_card
+1956,I really need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives,top_up_failed
+1972,How can I report that my card was stolen? I made a police report first.,lost_or_stolen_card
+1973,Can I get a Visa or does it have to be something else.,visa_or_mastercard
+1975,Can I choose between Visa and Mastercard?,visa_or_mastercard
+1976,May I get an account for my daughter?,age_limit
+2000,Can I get a Visa from you?,visa_or_mastercard
+2006,Do i need to verify my top up?,verify_top_up
+2009,I need to get visa and mastercard,visa_or_mastercard
+2019,I need help finding the verification code on the top up card.,verify_top_up
+2021,Why does my card continually get declined? I thought I had enough money in there but I've tried several times now and it still isn't working.,declined_transfer
+2052,My card was stolen. What do I need to do?,lost_or_stolen_card
+2055,My top-up hasn't happened yet.,pending_top_up
+2059,Would you give me a mastercard and visa?,visa_or_mastercard
+2063,"My card couldn't complete a transfer, why?",failed_transfer
+2072,I am having trouble finding the top-up card verification code.,verify_top_up
+2073,"I just tried to top-up and now I'm getting an additional verification message, why?",verify_top_up
+2077,The app has rejected my top up.,top_up_failed
+2080,Says that my top-up is incomplete?,pending_top_up
+2087,Verifying the top-up seems like a hassle.,verify_top_up
+2100,What age do you have to be to open an account?,age_limit
+2106,How do you do exchanges?,exchange_rate
+2107,I would like to receive my salary in a different currency. How does that work?,receiving_money
+2114,What is the first step that I should take after my card has been stolen?,lost_or_stolen_card
+2119,Are visa and mastercard accepted,visa_or_mastercard
+2136,I don't think my top up worked,top_up_failed
+2141,"I am blocked now because I entered the wrong pin, need help.",pin_blocked
+2147,I cannot use my PIN.,pin_blocked
+2158,When I add money to my international card do you charge a fee to do so?,top_up_by_card_charge
+2165,What was the issue with my topping up?,top_up_failed
+2167,Why has my top-up not worked?,top_up_failed
+2172,Will you assess me more fees if I top up with an international card?,top_up_by_card_charge
+2178,"Hi, My card is getting declined during top-up. As it urgent, could you please resolve this issue, or guide me with other alternatives if any.",top_up_failed
+2179,I am travelling and I was wondering what your exchange rates are,exchange_rate
+2197,Is the exchange rate the same on weekends as the weekdays?,exchange_rate
+2206,The app says my transfer failed,failed_transfer
+2214,Where do I unblock my PIN?,pin_blocked
+2231,What is the process to create a disposable virtual card?,get_disposable_virtual_card
+2237,How can people transfer money to me?,receiving_money
+2254,"Hello, there was an error while attempting top-up with my card this morning. I was able to use the card two days ago with no issues. Could you please assist?",top_up_failed
+2259,I would like to get both Mastercard and Visa card from you if that's possible.,visa_or_mastercard
+2261,I'm interested in what your exchange rates are based on.,exchange_rate
+2264,Are there any charges for top ups?,top_up_by_card_charge
+2275,Will my card be a MasterCard or a Visa?,visa_or_mastercard
+2286,Please explain how I use the disposable cards?,get_disposable_virtual_card
+2289,"help, lost my card",lost_or_stolen_card
+2290,I think my top up is still pending?,pending_top_up
+2294,How can you transfer my salary to my correct currency?,receiving_money
+2297,I believe that my transfer hasn't gone through.,failed_transfer
+2301,Does the top-up need verified?,verify_top_up
+2309,Does it cost money to top up?,top_up_by_card_charge
+2324,I think my wallet fell out on the Tube today! I realized as soon as I got to my desk. How do I cut off the card?,lost_or_stolen_card
+2332,Will the card be a Mastercard or a Visa?,visa_or_mastercard
+2335,How's the exchange rate looking right now?,exchange_rate
+2356,Is there a way to reset my PIN?,pin_blocked
+2377,How old does my daughter need to be to have her own account?,age_limit
+2381,Is there a limit for age?,age_limit
+2384,I did a transfer earlier but see that it failed to go through.,failed_transfer
+2412,I entered my pin wrong  too many times.,pin_blocked
+2422,Can my 8 year old grandson open an account at the bank?,age_limit
+2424,Is there a fee for european bank cards?,top_up_by_card_charge
+2425,I can't input my pin again.,pin_blocked
+2429,"On my transfer there was a ""decline"" message",declined_transfer
+2440,Why should I verify the top-up?,verify_top_up
+2444,"Hi I've been trying to top up my card for the past day but it gets declined, I need it topped up urgently! Can somebody get back to me to resolve this or explain any different ways I can top up my card?",top_up_failed
+2454,I attempted to enter my pin to many times.,pin_blocked
+2456,"How come my top-up didn't go through instantly, like it usually does?",pending_top_up
+2460,Is it free for top ups?,top_up_by_card_charge
+2462,Is there an age limit to open an account,age_limit
+2472,Do I need to add my salary?,receiving_money
+2475,How much does it cost to top up a US-issued card?,top_up_by_card_charge
+2483,How can get a Visa card?,visa_or_mastercard
+2492,What is the fee for topping up a US card?,top_up_by_card_charge
+2494,How long does it take for a top-up?,pending_top_up
+2495,Will there be any fees for top ups?,top_up_by_card_charge
+2499,is there a reason i need to verify top up,verify_top_up
+2501,"Hi, I am currently in the process of buying a flat and I am waiting for the mortgage to go through but it keeps showing up as an error.  Do you know what could be causing this and can you help me get the money over.",failed_transfer
+2504,"After putting in the wrong PIN too many times, I was blocked. Can you assist me in changing it?",pin_blocked
+2510,Do you supply both Visa and Mastercard?,visa_or_mastercard
+2522,Is the exchange rate current?,exchange_rate
+2524,"If I can, I would like to get both Mastercard and Visa from you.",visa_or_mastercard
+2527,My top-up failed to go through.,top_up_failed
+2528,"I was blocked by using the wrong pin too many times, can you help me?",pin_blocked
+2549,My topping up didn't go through.,top_up_failed
+2553,What do I do to unblock my PIN?,pin_blocked
+2554,Mastercard is preferred to me.,visa_or_mastercard
+2574,Am I allowed to get an account for my daughter?,age_limit
+2583,Tell me your opinion on the exchange rate.,exchange_rate
+2585,"I just want to top-up, why do I need to verify anything?",verify_top_up
+2598,Does it matter which card I use,visa_or_mastercard
+2608,I need to know what foreign exchange rate I can get.,exchange_rate
+2626,I hope to get a Visa card,visa_or_mastercard
+2630,What are the uses for disposable cards?,get_disposable_virtual_card
+2632,Do I need to do anything special for my friend to send money to my account?,receiving_money
+2644,Can you show me how to verify the top-up card?,verify_top_up
+2645,Is there a charge for top-ups?,top_up_by_card_charge
+2656,How can I get disposable virtual cards?,get_disposable_virtual_card
+2670,Tell my why my top-up is pending.,pending_top_up
+2679,How can I unblock my PIN?,pin_blocked
+2682,Can I make an account for my kids?,age_limit
+2692,"Hey, I attempted to top up my card today and for some reason it didn't work. When I did it the other way it worked just fine. Could you help me figure out why this is happening please?",top_up_failed
+2695,Whats the minimum age to have an account,age_limit
+2696,I don't know why my credit card was declined while I was trying to top-up. Was it something on my end or was there something wrong with the top-up function?,top_up_failed
+2701,I can't find my card!  What should I do?,lost_or_stolen_card
+2705,Do you know how I can verify that I did a top-up to my card?,verify_top_up
+2706,disposable virtual card can be ordered where?,get_disposable_virtual_card
+2709,Can I use my salary for this?,receiving_money
+2711,I tried to top-up but it got denied.,top_up_failed
+2723,How do I verify the top-up card?,verify_top_up
+2724,How long does it take for a top up to be approved?,pending_top_up
+2726,The transfer that I was trying to complete was declined. What was the cause?,declined_transfer
+2727,Can you tell me why my pop-up is still pending?,pending_top_up
+2729,How many years old do I have to be?,age_limit
+2730,is it just visa or can i also use mastercard?,visa_or_mastercard
+2737,Do I have to verify the top-up?,verify_top_up
+2748,What are the fees for using a European bank card?,top_up_by_card_charge
+2754,I can't find my card! Can you help?,lost_or_stolen_card
+2755,how long should i expect to wait when i add money,pending_top_up
+2762,When will my top-up be completed?,pending_top_up
+2764,It looks like my top up didn't work.  Why?,top_up_failed
+2774,What can I do to verify my card?,verify_top_up
+2780,I have a top-up that's still pending and wanted to know about it.,pending_top_up
+2785,I would like to get both a Visa and MasterCard?,visa_or_mastercard
+2790,Is there a fee for topping up a card?,top_up_by_card_charge
+2802,Where can I get your exchange rates from?,exchange_rate
+2804,Can you tell me how to get a disposable virtual card?,get_disposable_virtual_card
+2806,I would prefer a Mastercard.,visa_or_mastercard
+2810,I forgot my PIN and now it is blocked.,pin_blocked
+2812,How's the exchange rate?,exchange_rate
+2817,I am trying to make a transfer to a different account but they keep getting declined. I have double checked all the details and the information is correct.,declined_transfer
+2819,I would like to know more about what a disposable virtual card is?,get_disposable_virtual_card
+2824,"While doing a transfer, it says declined.",declined_transfer
+2826,can I be charged for topping up by card,top_up_by_card_charge
+2835,"Hello, I am a new customer, and just tried topping up for the first time. According to your information, the transaction should be instant - why does it still show as pending?",pending_top_up
+2838,"I need to deposit my virtual card, how do i do that.",get_disposable_virtual_card
+2843,Help me verify the card used on a top-up.,verify_top_up
+2844,How are foreign exchange rates determined?,exchange_rate
+2847,How do I verify my top up?,verify_top_up
+2855,I have kids and I'm curious at what age could they start to use your service.,age_limit
+2861,Will I be charged any fees if I want to add money with an international card?,top_up_by_card_charge
+2862,Tell me why my topup wouldn't go through?,top_up_failed
+2866,I forgot my pin and am blocked now. Can I reset it somewhere?,pin_blocked
+2873,My top-up has not posted.,pending_top_up
+2876,Is there a reason that my transfer failed?,failed_transfer
+2877,What can I use to receive my salary?,receiving_money
+2878,My preference is Mastercard.,visa_or_mastercard
+2896,"I locked myself out of my account, how do I unblock my PIN?",pin_blocked
+2898,I tried topping up for the first time today since I am a new customer. It doesn't appear that it's working. It has been pending for at least half an hour. Please take care of this.,pending_top_up
+2919,"Help!  I fear that my card was stolen,",lost_or_stolen_card
+2950,Do I need to verify my top-up card?,verify_top_up
+2958,What type of card can I get?,visa_or_mastercard
+2963,How can my friend give me money?,receiving_money
+2968,My top up is pending still,pending_top_up
+2970,I was making a purchase and it was declined and I wanted to know why.,declined_transfer
+2976,I can't add any more money.,top_up_failed
+2977,How do I know how much money I will have when I travel abroad?,exchange_rate
+2983,I need help reapplying my top-up. It seems it isn't working.,top_up_failed
+3001,What do I do if my card has been lost or stolen?,lost_or_stolen_card
+3014,"Visa and MasterCard, can I get them both?",visa_or_mastercard
+3015,"Please give me both Visa and MasterCard, is it possible?",visa_or_mastercard
+3019,What is the exchange rate for EUR?,exchange_rate
+3020,Can you make sure I get a MasterCard and not a Visa?,visa_or_mastercard
+3021,Why hasn't my top-up gone through?,pending_top_up
+3022,Can I tell if my top off didn't work?  It doesn't seem to have.,top_up_failed
+3031,How do I request a disposable virtual card?,get_disposable_virtual_card
+3035,I can't see a verification code anywhere,verify_top_up
+3040,I got my card a few days ago but am unable to top up. I'm thinking about closing my account because of this. What is going on?,top_up_failed
+3051,Why wont the other bank take my money?? Is it not good enough?? There's sufficient funds but I keep getting denied a standard transfer. Ive tried 5 times!,failed_transfer
+3057,I tried to top up with my card but it was declined. I was able to a couple days ago and it worked. Is something wrong? Can you check it for me please?,top_up_failed
+3058,I added money but my top-up wasn't processed by the app.,top_up_failed
+3061,I have heard about these disposable virtual cards but don't understand how they work.,get_disposable_virtual_card
+3069,I want to open an account for my child.,age_limit
+3070,I left my card at a restaurant and now its missing.,lost_or_stolen_card
+3071,What do I do if my PIN was blocked?,pin_blocked
+3072,I need information explaining why my top-up failed to go through,top_up_failed
+3073,I just made a top-up but it shows as pending! I use your service all the time and have never had a problem before. Why does it keep showing up as pending?,pending_top_up
+3087,"I topped up last night but don't have any funds, why not?",pending_top_up
+3100,"Hello, my transfers are getting failed continuously, in spite of the fact that all the recipient details are correct. Please advise.",declined_transfer
+3107,I am paid by my employer in GBP; do I need to do anything in the app to indicate this?,receiving_money
+3121,What is the fee if I use a European bank for a top up?,top_up_by_card_charge
+3122,"I have obtained the salary in GBP, will it need to be configured?",receiving_money
+3134,My top-up is still pending,pending_top_up
+3136,I topped up my card but the app rejected it.,top_up_failed
+3144,Can I get paid for this in another currency?,receiving_money
+3149,"Your system is broken. My transfers keep failing, 5 times now.",failed_transfer
+3151,Been trying to transfer money this morning but keep getting rejected. I don't understand why this is happening.,failed_transfer
+3155,I would like to receive instructions showing the verification process for top up cards..,verify_top_up
+3161,I entered the wrong pin too many times and now I think it's blocked. What do I do?,pin_blocked
+3165,What if my top up doesn't go through?,pending_top_up
+3170,the bank transfer was declined,declined_transfer
+3171,i want to get my salary deposited as pesos?,receiving_money
+3173,My transfer is failing when I try to do it.,failed_transfer
+3178,What can I do if I lost my card?,lost_or_stolen_card
+3180,I used my card to top up but it's saying it is still pending. What does this mean?,pending_top_up
+3181,top up is still pending,pending_top_up
+3200,Can I order a disposable virtual card?,get_disposable_virtual_card
+3202,My top up isnt working,top_up_failed
+3214,Will you guys do Visa or Mastercard?,visa_or_mastercard
+3215,In what way can I use the disposable cards?,get_disposable_virtual_card
+3216,Do you charge a fee for topping up a card?,top_up_by_card_charge
+3220,I received a decline message on a transfer,declined_transfer
+3225,am i able to receive my salary this way?,receiving_money
+3237,Why did you decline my transfer?,declined_transfer
+3242,Can I unblock my pin using the app?,pin_blocked
+3248,Can both Visa and Mastercard be chosen?,visa_or_mastercard
+3250,Will I get a visa or Mastercard?,visa_or_mastercard
+3270,"I need to top up, but I have to use an international card.  Is there a cost for that?",top_up_by_card_charge
+3277,My PIN was blocked.,pin_blocked
+3287,"I tried to top up, but it didn't finish.",pending_top_up
+3288,How do I make my transfer go through,declined_transfer
+3291,Which type of card will I receive?,visa_or_mastercard
+3292,"While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?",pin_blocked
+3300,Please tell me about disposable cards.,get_disposable_virtual_card
+3310,Problem with my top up going through,pending_top_up
+3318,I'm trying to purchase a flat but i need my first payment for my mortgage to go through first. I keep getting an error. I'm not sure what is going on but i need help making this transfer.,failed_transfer
+3369,I just noticed my transfer was declined and I don't know why. Can you help me?,declined_transfer
+3372,My transfer didn't work! Help!,failed_transfer
+3373,What are the age requirements for service?,age_limit
+3374,Where can I find your exchange rates?,exchange_rate
+3379,I'd like to apply for a Visa Card.,visa_or_mastercard
+3383,Can my children open an account?,age_limit
+3384,how much do you charge to top up US cards?,top_up_by_card_charge
+3386,what is the fee for topping up by card?,top_up_by_card_charge
+3387,Is there a fee to add money to an international card?,top_up_by_card_charge
+3390,I'd prefer Mastercard.,visa_or_mastercard
+3391,My top-up didn't go through,top_up_failed
+3398,Are there fees for adding money with an International card?,top_up_by_card_charge
+3400,Yesterday I topped up my card. Why didn't it complete as it still pending?,pending_top_up
+3422,where is the code for verifying the top up card?,verify_top_up
+3426,I tried to buy something online yesterday but it kept saying declined. Tried again today but same thing happened. What's wrong?,declined_transfer
+3441,My card has been stolen what do I do?,lost_or_stolen_card
+3444,Why did my payment get declined?,declined_transfer
+3445,What are the exchange rates you assign?,exchange_rate
+3447,How long will it take for my money to be deposited?,pending_top_up
+3451,I want to get a Visa card,visa_or_mastercard
+3455,What do I need to do to correct this failed transfer?,failed_transfer
+3465,Why are my transfers getting declined?  I havent had a problem in the past.,declined_transfer
+3472,I really need some help to understand why my transfer keeps failing. I'm trying to send money to a friend. Please help.,failed_transfer
+3479,"Hi, My card is getting declined continuously when i am trying to top-up. Request you to look into this issue or tell me any other alternatives.",top_up_failed
+3480,Will I get charged for topping up with an international card?,top_up_by_card_charge
+3486,Where is the top-up verification code?,verify_top_up
+3487,My PIN tries have run out. Now what?,pin_blocked
+3492,I'm being asked for a verification code. Where do I find it?,verify_top_up
+3512,How old do you need to be to open an account?,age_limit
+3513,Can you help me retrieve my card?,lost_or_stolen_card
+3516,What are the steps for my friend to send me money?,receiving_money
+3518,I tried my PIN too many times,pin_blocked
+3529,What are the steps I need to do if I have a stolen card?,lost_or_stolen_card
+3546,"Would you please unblock my pin? I don't know why, but it's blocked.",pin_blocked
+3547,My top-up didn't go through; it still says pending. What's up with that?,pending_top_up
+3554,Isn't my top-up supposed to mean its complete?,pending_top_up
+3561,I think the top up failed,top_up_failed
+3566,The disposable cards - what are they for?,get_disposable_virtual_card
+3579,I am interested in a Visa or Mastercard. Do you offer them?,visa_or_mastercard
+3586,What are the reasons for a declined transfer?,declined_transfer
+3606,Why is top-up verified?,verify_top_up
+3610,Verify top-up card help?,verify_top_up
+3611,I have a top up card. Where is the verification code?,verify_top_up
+3612,"My pin needs unblocking, unblock it please?",pin_blocked
+3613,Which US cards have top up charges?,top_up_by_card_charge
+3638,I'm not sure if my pop-up went through.,top_up_failed
+3657,How old do you have to be to open an account?,age_limit
+3668,Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined . I tried couple of times already  but same thing is happening .,declined_transfer
+3684,Is there a way to use this app with a disposable virtual card?,get_disposable_virtual_card
+3686,Who can send me money?,receiving_money
+3705,I am sure I have plenty of money to transfer but my transfer is being declined.,declined_transfer
+3708,"I want a Mastercard, instead.",visa_or_mastercard
+3717,top up not completed,pending_top_up
+3730,How do I make my PIN work again?,pin_blocked
+3739,What are the top up charges for all US cards?,top_up_by_card_charge
+3750,Mastercard is my preferred company.,visa_or_mastercard
+3754,Can someone help me unblock my pin?,pin_blocked
+3762,"Hi, I'm buying my son Bertie a starter home in London.  I'm just trying to send the 5% deposit over to the agent. It's only £200,000 but seems to be throwing an error.  What is going on?  If I wait any longer the house prices might rise, can you look in to it please?",failed_transfer
+3764,Can I top up for free using a European card?,top_up_by_card_charge
+3771,I got a declining message during a transfer? please tell me why,declined_transfer
+3777,How can I get a disposable virtual card?,get_disposable_virtual_card
+3780,My card is missing.,lost_or_stolen_card
+3783,is there a way to fix my top up,top_up_failed
+3795,Can I choose what card I can use,visa_or_mastercard
+3810,My top up is not working,top_up_failed
+3812,"My transfers keep on getting declined. My card was working fine up until now, however it has suddenly stopped working. Why is this?",declined_transfer
+3815,Can you help me transfer money into my friend's bank account? I tried to do it but it keeps rejecting me. I need to get the money in there asap. I have enough and all the account info is correct.,failed_transfer
+3816,I added funds to my account but the app didn't process it.,top_up_failed
+3817,Is there a possibility to open an account for my sons and daughters?,age_limit
+3818,Why did the top-up fail?,top_up_failed
+3822,Why is my PIN blocked?,pin_blocked
+3823,How much are the rates of exchange?,exchange_rate
+3826,Will you charge me for topping up with a European card?,top_up_by_card_charge
+3829,I need help making this transfer. I keep getting an error. I'm trying to purchase a flat but i need my mortgage payment to go through first. Can you help?,failed_transfer
+3842,How does the exchange rate work on this app?,exchange_rate
+3843,What happens if I forget my PIN?,pin_blocked
+3855,Why did I get declined during a transfer?,declined_transfer
+3863,How do you come up with your exchange rate,exchange_rate
+3875,Do you charge extra for topping up with a debit or credit card?,top_up_by_card_charge
+3876,why is top up pending,pending_top_up
+3889,As my kids get older are they able to get set up with their own accounts?,age_limit
+3897,Do you have any fees if I want to add money using an international card.,top_up_by_card_charge
+3902,"My transfer failed, why did that happen?",failed_transfer
+3903,Do you offer disposable virtual cards too?,get_disposable_virtual_card
+3904,How do I open an account for my children?,age_limit
+3912,How do you determine the exchange rate?,exchange_rate
+3913,Can I choose my card scheme?,visa_or_mastercard
+3919,I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives,top_up_failed
+3928,What factors effect the exchange rate?,exchange_rate
+3929,Are there charges for using a bank card to top up,top_up_by_card_charge
+3936,How do I set up an account for my children?,age_limit
+3951,How do I know if my top-up went through?,pending_top_up
+3957,What's the deal with verifying the top-up?,verify_top_up
+3976,I have a transfer that was declined.,declined_transfer
+3979,What are the disposable cards used for?,get_disposable_virtual_card
+3980,I have young kids. Can they use this service?,age_limit
+3987,Why are you keeping my money from me by declining my card? What is going on?,top_up_failed
+3994,I added money to the card but the transaction didn't go through,pending_top_up
+4003,What do I do if my card was stolen.,lost_or_stolen_card
+4011,Does this app have the same exchange rate as third parties?,exchange_rate
+4013,"Needed gas, been delayed for half an hour.Please fix it!",pending_top_up
+4022,"My PIN seems to be blocked, help me access it?",pin_blocked
+4027,I want a mastercard,visa_or_mastercard
+4031,I think my top-up has failed.,top_up_failed
+4047,What should I do if I exceed my PIN tries?,pin_blocked
+4058,Do you accept Visa or Mastercard?,visa_or_mastercard
+4070,My first choice would be Mastercard.,visa_or_mastercard
+4074,how do i find out about transfers,receiving_money
+4084,I mistook my pin and now I am locked.  Can you unlock me?,pin_blocked
+4087,My top up did not complete.,pending_top_up
+4089,The top-up is broken.,pending_top_up
+4101,"Even though I added money ey to the card, I couldn't use it",pending_top_up
+4106,What are the top-up fees for my card?,top_up_by_card_charge
+4131,I'm not sure how disposable virtual cards work. Please help.,get_disposable_virtual_card
+4138,What do the disposable cards do?,get_disposable_virtual_card
+4139,My top-up is taking a very long time to complete.,pending_top_up
+4144,How do I know what exchange rate I will get?,exchange_rate
+4145,I wanted to top up my account and it doesn't look like it worked,top_up_failed
+4149,I tried the wrong PIN too many times.,pin_blocked
+4153,"Hello. My credit keeps being declined, last night and again today, as I try to buy something. What is the status of my card?",declined_transfer
+4160,I don't think my transfer wen through. Why?,failed_transfer
+4161,"Hi, I am experiencing problems while trying to top-up with my card. I have never experienced any problems doing this before. Could you please help me?",top_up_failed
+4176,I'm happy with Mastercard and want to stick with just that credit card.,visa_or_mastercard
+4186,"My salary is received in the form of GBP. Is it necessary to configure this? If so, where is this done?",receiving_money
+4193,Please explain why my transfer attempt was declined. Thank you.,declined_transfer
+4197,I got declined when attempting a transfer,declined_transfer
+4209,what is the age limit for opening a new account,age_limit
+4212,"I topped up and went to buy something, but it says that my funds are pending. Is there a way to quicken this process?",pending_top_up
+4213,Why didn't my transfer work?,failed_transfer
+4219,It appears my top-up is still pending.,pending_top_up
+4221,My credit card for was not approved for a top-up transaction.  What happened?,top_up_failed
+4233,Do you know the rate of exchange?,exchange_rate
+4237,I didn't see any reason why my transfer was declined. What gives?,declined_transfer
+4241,My transfer failed,failed_transfer
+4243,Tell me how I can verify a card top-up.,verify_top_up
+4246,If I can't choose my card type will I be able to use it everywhere?,visa_or_mastercard
+4250,What went wrong with my transfer?,declined_transfer
+4253,Can my children have an account?,age_limit
+4267,How about disposable virtual cards?,get_disposable_virtual_card
+4275,Are there any charges for topping up a US-issued card?,top_up_by_card_charge
+4280,How do you decide what your exchange rates are?,exchange_rate
+4306,Transfer isn't working?,failed_transfer
+4322,"Hi, during online shopping payment is getting declined yesterday and today as well. Please check the issue.",declined_transfer
+4333,"I get a ""decline"" message when doing a transfer",declined_transfer
+4339,I have been trying unsuccessfully to top-up my card.  Is the system down or not working properly?,top_up_failed
+4342,I can't find the money I just added to my account.,pending_top_up
+4349,Why is the top-up I made still pending.,pending_top_up
+4355,Will you accept my salary if it's in another currency?,receiving_money
+4358,unsupported transfer declined,declined_transfer
+4378,My card has been lost! help!,lost_or_stolen_card
+4383,Who can purchase a disposable virtual card?,get_disposable_virtual_card
+4388,Please explain your exchange rate policy.,exchange_rate
+4397,Do you have an age limit?,age_limit
+4399,"I can't transfer any money from my account to my friend's account, it keeps rejecting it. Can you tell me why? I have enough funds in my account to transfer.",failed_transfer
+4402,Can I directly deposit my salary to this account?,receiving_money
+4406,I anticipate getting a Visa card,visa_or_mastercard
+4407,"Hi, I'm in progress of purchasing a flat and am trying to make to make a payment.  An error is appearing, and I need assistance.",failed_transfer
+4423,I lost my wallet and all my cards were in it.,lost_or_stolen_card
+4425,I put the wrong pin too many times and now it is blocked. Can you help me unblock it?,pin_blocked
+4430,It does not appear that my message went through.,top_up_failed
+4439,"I blocked my card by mistake, how do I unblock it?",pin_blocked
+4440,I forgot my PIN number.,pin_blocked
+4441,How to unblock my PIN?,pin_blocked
+4444,I believe my top up is still pending,pending_top_up
+4450,I've been waiting for over an hour for a top up to go through.  How long is this supposed to take?  I really need this money.,pending_top_up
+4452,Please explain why my top-up didn't go through.,top_up_failed
+4458,Why did my transfer not work?,failed_transfer
+4471,My top-up was rejected by an app.,top_up_failed
+4472,How long will my top-up stay pending?,pending_top_up
+4481,How can I reset my darned PIN number?,pin_blocked
+4504,Please give me both a visa and a mastercard.,visa_or_mastercard
+4505,Transfer has failed.,failed_transfer
+4507,What do you use to figure out the exchange rate for the card?,exchange_rate
+4516,what are your exchange rates at?,exchange_rate
+4527,Can i receive transfers from my employer to this account?,receiving_money
+4558,Is there a way I can have a mastercard?,visa_or_mastercard
+4562,I would like to know if you use Visa or Mastercard.,visa_or_mastercard
+4564,Where can I find the verification code for the top up card?,verify_top_up
+4571,What are you exchange rates?,exchange_rate
+4574,My daughter needs to open account.,age_limit
+4582,I would like to know what your exchange rates are.,exchange_rate
+4589,What do I do if I forgot my PIN?,pin_blocked
+4593,Transfer was declined.,declined_transfer
+4597,How do i verify my card?,verify_top_up
+4603,Can my children get an account?,age_limit
+4608,Tell me how to verify a top up.,verify_top_up
+4611,i don't see the top-up verification code anywhere,verify_top_up
+4616,Where to check top ups pending?,pending_top_up
+4632,Top up keeps failing,top_up_failed
+4635,should i add money via bank transfer instead,top_up_by_card_charge
+4649,How can I verify my top-up card?,verify_top_up
+4652,I would like to have a Mastercard.,visa_or_mastercard
+4654,Fix my top up,top_up_failed
+4659,How long do top-ups take to go through,pending_top_up
+4670,Your exchange rates are coming from where?,exchange_rate
+4676,What is your age limit?,age_limit
+4677,Why verify the top-ups?,verify_top_up
+4678,What caused my transfer to fail?,failed_transfer
+4687,Why do you ask for top-up verification?,verify_top_up
+4688,How is the current exchange rate?,exchange_rate
+4691,can i get a virtual card,get_disposable_virtual_card
+4695,"I'm having issues with my card. You guys keep declining it for some reason. I haven't had any issues up until this point. What is going on? I've tried a handful of times with the same, unfortunate, result!",declined_transfer
+4701,I need my payment in another currency,receiving_money
+4708,My top up says it is still pending,pending_top_up
+4710,"Why can't I transfer my money into someone else's account? I should be able to do so right? Why does it keep rejecting my transfer? There's no reason, all my info is correct and the money is there.",failed_transfer
+4713,When will my top up be applied?,pending_top_up
+4717,"
+I put the wrong pin too many times and now it is blocked. Can you help me unblock it?",pin_blocked
+4718,Can you tell my why my funds transfer did not work properly?,failed_transfer
+4728,why do i have to verify top up?,verify_top_up
+4729,How can I receive my salary in another currency?,receiving_money
+4738,Are there any charges for using a bank card to top up,top_up_by_card_charge
+4743,How is the exchange rate calculated?,exchange_rate
+4744,"How do I know what my account is set to, I am paid in GBP?",receiving_money
+4745,My transfer was not approved,declined_transfer
+4746,why verify the top up? it doesnt make sense,verify_top_up
+4759,Do you know what your exchange rates are?,exchange_rate
+4765,What is the formula for your exchange rate?,exchange_rate
+4769,What methods are available for my friend to send me money?,receiving_money
+4773,I think youre system may be broken because I have tried transfer money 5x and it isnt working!  I'm not doing anything complicated it is what I usually do.,failed_transfer
+4778,Is my child too young to sign up?,age_limit
+4791,how do you get exchange rates,exchange_rate
+4793,I see my transfer was declined.,declined_transfer
+4799,Someone stole my card!,lost_or_stolen_card
+4801,Where do I find the verification code for the card I'm topping up?,verify_top_up
+4807,"Hi, Yesterdays i was unable to do online shopping as it was getting declined. Today I am facing the same issue. Please help me in this respect.",declined_transfer
+4811,Can you tell me where I can order a disposable virtual card?,get_disposable_virtual_card
+4814,I was wondering if you will take any fees in exchange for top ups?,top_up_by_card_charge
+4815,How are exchange rates determined?,exchange_rate
+4830,What could possibly be the cause of my failed transfer?,failed_transfer
+4834,Is there a charge to use a Top up card in the US?,top_up_by_card_charge
+4838,"Why did my transfer not work, it says it was declined?",declined_transfer
+4839,Please give me a Mastercard instead.,visa_or_mastercard
+4840,How do i secure a top-up card?,verify_top_up
+4848,What is an exchange rate?,exchange_rate
+4849,Is topping up free?,top_up_by_card_charge
+4850,Why do we need to verify top-up?,verify_top_up
+4851,Could you please tell me your exchange rates?,exchange_rate
+4861,"My son has just turned 13, is he old enough for an account?",age_limit
+4872,What is the process for unlocking the pin?,pin_blocked
+4884,How do your exchange rates factor in?,exchange_rate
+4885,"If I add money with an international card, are there any fees?",top_up_by_card_charge
+4888,What can you use the disposable cards for?,get_disposable_virtual_card
+4901,What do I have to do to get a Visa card?,visa_or_mastercard
+4903,What should I do if I have used all of my PIN tries?,pin_blocked
+4913,I'm pretty sure my top up is still pending.,pending_top_up
+4914,Can i get payed through this system?,receiving_money
+4918,Why has my top up not gone through yet?,pending_top_up
+4920,"So my top-up failed, could you tell me why?",top_up_failed
+4921,"My card got blocked, how do I reset?",pin_blocked
+4936,Does it cost to top up my card?,top_up_by_card_charge
+4939,What options do I have when topping up a US card?,top_up_by_card_charge
+4943,"I'm waiting on a top-up, its still pending",pending_top_up
+4971,Why won't my top up work,top_up_failed
+4972,How can I choose between Visa and Mastercard?,visa_or_mastercard
+4986,How long will it take for my top up to work? It's still pending,pending_top_up
+4992,I think someone stole my card because I can't find it.,lost_or_stolen_card
+5012,What are the current exchange rates?,exchange_rate
+5041,My transfer was declined. What might the reason be?,declined_transfer
+5042,I won't be pleased unless I get a Mastercard.,visa_or_mastercard
+5043,What is the function of the disposable cards?,get_disposable_virtual_card
+5050,Will you charge an extra fee for top ups?,top_up_by_card_charge
+5053,How do I know if my top up worked?,top_up_failed
+5063,Please sort your top up! My top up has been pending for an hour already. Can you please make it go through as soon as possible. I really need the money.,pending_top_up
+5065,I saw that my transfer was declined.,declined_transfer
+5070,"The transfer keeps failing - I tried to transfer some money to friends this morning but it keeps getting rejected for some reason, I have no idea why",failed_transfer
+5075,Is there a charge for using an European bank card for top up?,top_up_by_card_charge
+5076,What's the foreign exchange rate I will receive?,exchange_rate
+5086,why did i get declined transfer,declined_transfer
+5102,Explain to me why a transfer would be declined.,declined_transfer
+5104,My credit card was just denied for top up! Can you tell me why this happened and what's going on?,top_up_failed
+5113,Do I get charged for a top up from a European bank?,top_up_by_card_charge
+5115,Do you take both Visa and Mastercard?,visa_or_mastercard
+5120,What's the phone number to freeze a card?,lost_or_stolen_card
+5126,My recent transfer didn't go through - why not?,declined_transfer
+5128,I lost track of my card,lost_or_stolen_card
+5129,Tell me why my transfer is declined.,declined_transfer
+5141,Do I have to pick a creditcard brand?,visa_or_mastercard
+5143,"It seems you keep declining my transfers. Before, it's always worked very well.Just now when I tried to buy something the card was declined. I tried more than once and it was the same thing each time.",declined_transfer
+5144,Can I receive money in a different countries money?,receiving_money
+5154,How do i authenticate a top-up card?,verify_top_up
+5158,Will you charge me more if I use a European bank card for a top up?,top_up_by_card_charge
+5161,Will I know which exchange rate I will get?,exchange_rate
+5173,I have a problem with my account. I tried to transfer some funds and the message came back declined. Can you help me?,declined_transfer
+5174,Why was my transaction not approved?,failed_transfer
+5177,Can my friend send me money?,receiving_money
+5183,Where do I find my code to verify my top-up card?,verify_top_up
+5192,How to a go about ordering a disposable virtual card?,get_disposable_virtual_card
+5195,Can I get a Visa or Mastercard?,visa_or_mastercard
+5196,i put money on my card and i dont see it on the balance,pending_top_up
+5201,Someone took my card without permission,lost_or_stolen_card
+5204,I use GBP for my salary deposits. Must I set this up somewhere?,receiving_money
+5205,I'd prefer a Mastercard.,visa_or_mastercard
+5223,Your exchange rates come from where?,exchange_rate
+5235,"My PIN is not working, can you help?",pin_blocked
+5243,I cant find my card.,lost_or_stolen_card
+5251,"My top-up hasn't gone through, what happened?",top_up_failed
+5254,Can I transfer my salary onto here?,receiving_money
+5270,Will I get charged fees when I add money with an international card?,top_up_by_card_charge
+5277,"I want to add money to my international card, so are there any fees charged to do this?",top_up_by_card_charge
+5295,What is the process for setting up and account for my child?,age_limit
+5304,Can you please tell me why my transfer failed?,failed_transfer
+5317,What may be the reason that my transfer did not go through?,failed_transfer
+5318,Does it cost anything to top up?,top_up_by_card_charge
+5319,Can you tell me the status of my new card?,lost_or_stolen_card
+5330,Is there any age limit?,age_limit
+5331,I tried to do a transfer but it didn't go through.,failed_transfer
+5338,I couldn't make a transfer,failed_transfer
+5343,How do I get a disposable virtual card as well?,get_disposable_virtual_card
+5346,My top-up never worked,top_up_failed
+5356,My salary is deposited in GBP. Do I need to choose the currency?,receiving_money
+5367,why is my top up failing,top_up_failed
+5378,"I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.",lost_or_stolen_card
+5386,I can't seem to figure out why my transfers are getting declined.,declined_transfer
+5397,How long will my top-up be pending?,pending_top_up
+5408,"Um, my top up didn't work",top_up_failed
+5413,"Hi, I am on vacation in Spain and someone stole my bag with my phone and wallet with cards and everything. Can you block it ASAP and then I want to order a new one also ASAP.",lost_or_stolen_card
+5417,Can i receive transfers from my employer this way?,receiving_money
+5419,"If my PIN number is rejected, how do I solve it?",pin_blocked
+5421,Hi I'm sending some money over to an investment bank I do business and the transaction is being rejected. I'm not sure why as I think I have the right details.,failed_transfer
+5431,Is my daughter eligible to open an account?,age_limit
+5434,Can I verify my top-up card?,verify_top_up
+5439,Why does it say my transfer failed?,failed_transfer
+5442,I want to apply for a Visa card.,visa_or_mastercard
+5450,I am worried about fees for top up cards?,top_up_by_card_charge
+5453,Is it possible to get both Visa and Mastercard from you?,visa_or_mastercard
+5455,How old do kids have to be to open an account?,age_limit
+5456,Can I start an account for my kids?,age_limit
+5457,"I can't find my card, it is lost.",lost_or_stolen_card
+5462,I prefer mastercard.,visa_or_mastercard
+5463,how do I find the code to verify the top up card?,verify_top_up
+5472,I couldnt transfer money from my account.,failed_transfer
+5477,Why did the transfer fail when I attempted to do it earlier?,failed_transfer
+5482,For what reason did my top-up fail?,top_up_failed
+5490,Why can't I see my funds after I topped up?,pending_top_up
+5505,"I already paid to top-up but the funds aren't available yet, where are they?",pending_top_up
+5506,Can I get an account for my daughter?,age_limit
+5507,How will I know what the exchange rate is?,exchange_rate
+5509,Will there be extra charges regarding to adding money into my international card?,top_up_by_card_charge
+5511,What's the youngest I can be to open an account?,age_limit
+5515,I can't access my money. Is it because somethings wrong with the top-up? I set it up correctly.,top_up_failed
+5525,What are the age limits for your service?,age_limit
+5540,What happened to my Top-Up? It's not reflected.,pending_top_up
+5542,My account is  new  why can I  not top up,pending_top_up
+5553,When will my top-up go through?,pending_top_up
+5555,I am having problems with a top-up.,top_up_failed
+5556,Can I use visa or mastercard with your service,visa_or_mastercard
+5561,"I attempted to top up my car today, it failed! I just got it a couple of days before and it worked then. What is going on with it?",top_up_failed
+5578,"Help, I don't see my money i just added.",pending_top_up
+5579,How can I configure what currency my salary is in if it's in GBP?,receiving_money
+5603,I attemped a transfer and it didn't go through.,failed_transfer
+5604,What should I do?  My card has been stolen!,lost_or_stolen_card
+5637,What is the point of verifying a top up?,verify_top_up
+5642,How can I obtain a disposable virtual card?,get_disposable_virtual_card
+5644,Did  my transfer fail?,failed_transfer
+5658,My transfer failed when I tried.,failed_transfer
+5661,where do you find your exchange rates?,exchange_rate
+5671,"My PIN can't access my card, can you help?.",pin_blocked
+5687,Will I be able to get both a visa and a mastercard?,visa_or_mastercard
+5691,Can you tell me what the disposable cards are used for?,get_disposable_virtual_card
+5692,Do I have to pay extra if I use an international card to top up my account?,top_up_by_card_charge
+5693,Seems like my top-up has failed,top_up_failed
+5694,How old do my kids need to be to open an account?,age_limit
+5699,Tell me why my transfer was declined.,declined_transfer
+5701,Is there a reason behind why my transfer did not work?,failed_transfer
+5712,I tried to make a transfer but it failed. will you tell me why?,failed_transfer
+5717,I prefer Mastecard.,visa_or_mastercard
+5728,Is there a way I can get a Visa card?,visa_or_mastercard
+5729,Is there an exchange rate?,exchange_rate
+5742,What would the age limit be?,age_limit
+5747,"After inputting the wrong pin too many times, can you now help me unblock my pin?",pin_blocked
+5752,"My card was lost on vacation, I don't know where it is. Can you help me take care of this immediately?",lost_or_stolen_card
+5754,Tell me why I need top-up to be verified?,verify_top_up
+5758,At what age can I open an account?,age_limit
+5762,Can friends send me money?,receiving_money
+5765,I tried to do a transfer but I got a message that it was declined.,declined_transfer
+5766,I need to make a transfer but it keeps getting declined I need Help!,declined_transfer
+5770,I have double-checked all of my recipient details but for some reason all of my transfers keep getting declined. I have no clue as to why.,declined_transfer
+5775,How do I report my card as lost or stolen?,lost_or_stolen_card
+5781,"Could not complete transfer, states 'declined'",declined_transfer
+5788,How can I go about getting a disposable virtual card?,get_disposable_virtual_card
+5790,"Can you send me a Mastercard, instead of a Visa?",visa_or_mastercard
+5802,What does my daughter need to open an account?,age_limit
+5807,Can I get both a Visa and a Mastercard from you?,visa_or_mastercard
+5811,Why was I unable to finish this transfer?,failed_transfer
+5820,Do you offer account's for minors?,age_limit
+5825,What is the system for determining the exchange rate?,exchange_rate
+5846,"I'm trying to verify my top up card, how do I do that?",verify_top_up
+5849,What do you use disposable cards on?,get_disposable_virtual_card
+5860,I think that the card is stolen.  What are my next steps?,lost_or_stolen_card
+5863,What is the present state of the exchange rate?,exchange_rate
+5873,How can I receive my salary with a different currency?,receiving_money
+5879,How can I get a virtual card for a one-time transaction?,get_disposable_virtual_card
+5889,I used my pin too many times.,pin_blocked
+5890,I am under the impression that my top up is still pending,pending_top_up
+5893,I don't know what's going on but all of my transfers keep getting declined. I have checked over the recipient details twice. These details are all correct.,declined_transfer
+5901,What should I do if my card is stolen?,lost_or_stolen_card
+5902,Are there top up charges for US cards?,top_up_by_card_charge
+5904,What are these disposable virtual cards all about?,get_disposable_virtual_card
+5905,how come my transfer declined,declined_transfer
+5909,Do I have a choice for a Mastercard?,visa_or_mastercard
+5913,Will my money be of equal value when I travel abroad?,exchange_rate
+5922,How can I receive money from my friend?,receiving_money
+5928,Is there a number to call to get my pin unblocked?,pin_blocked
+5933,Can my salary be received here?,receiving_money
+5939,How do I contact customer support about my declined transfer?,declined_transfer
+5951,Can I get information on topping up?,top_up_by_card_charge
+5955,What's taking my top-up so long?,pending_top_up
+5957,Could you please recommend what I should do if my card keeps getting declined?  I planned to top-up today but I am unable to get it to work.  I need a fast solution to this problem.,top_up_failed
+5960,"I am looking to get a Visa credit card, what must I do to achieve this?",visa_or_mastercard
+5971,Is it possible to get both a Visa and a Mastercard?,visa_or_mastercard
+5984,Can you provide information for freezing my card immediately?,lost_or_stolen_card
+6004,how much does it cost to add money,top_up_by_card_charge
+6005,I can't find the top-up card verification code.,verify_top_up
+6006,The transger I tried to make failed.,failed_transfer
+6017,The top-up I ordered didn't process.,top_up_failed
+6023,I've been trying to do a transfer multiple times and have failed? Is the system down?,failed_transfer
+6028,Is there a way to verify a card top-up?,verify_top_up
+6034,My friend would like to send me money. What are the options available to them?,receiving_money
+6038,Do you have a children account available?,age_limit
+6043,"I don't understand what a disposable virtual card is, can you help?",get_disposable_virtual_card
+6061,"Unable to complete transfer, states 'declined'",declined_transfer
+6071,I don't see a code anywhere on my top-up card? Where can I find it? I need to verify!,verify_top_up
+6072,For what reason must I authenticate the top up?,verify_top_up
+6074,What is the reason my top-up is still pending?,pending_top_up
+6075,Why is  my  top  up for  my  new account  not  instant,pending_top_up
+6086,Why did my transfer fail?  What can I do?,failed_transfer
+6103,"I tried to buy something and it was declined and my transfers keep getting declined, Why?",declined_transfer
+6110,The transfer I tried to make failed.,failed_transfer
+6115,Tell me about verifying top-up,verify_top_up
+6116,is it free to add money to my card,top_up_by_card_charge
+6122,How much does top up fees cost?,top_up_by_card_charge
+6127,Is there a minimum age for having an account?,age_limit
+6153,What cards do you offer?,visa_or_mastercard
+6154,"My PIN is locked, how do I unlock it?",pin_blocked
+6157,Can I open an account for my offspring?,age_limit
+6158,How long do I need to wait til my top up isn't pending?,pending_top_up
+6164,My top-up didn't work.,top_up_failed
+6181,I need to get a disposable virtual card?,get_disposable_virtual_card
+6187,"I have been doing some online shopping, but when checking out, it keeps getting declined. I tried a few times and it wouldn't work. What could be wrong?",declined_transfer
+6194,I am looking for my top-up verification code and cannot find it.,verify_top_up
+6200,Why would my transfer result in a decline message?,declined_transfer
+6205,Is there any way to get my salary in a different currency?,receiving_money
+6213,how do I get a disposable virtual card?,get_disposable_virtual_card
+6228,Why do the top-ups need to be verified?,verify_top_up
+6234,How would I use a disposable card?,get_disposable_virtual_card
+6238,How long does it take for my top up to clear?,pending_top_up
+6246,Can you tell me why my transfer is failing and help resolve?,failed_transfer
+6248,My transfer has been declined.,declined_transfer
+6251,"My transfer did not work, what was the reason?",failed_transfer
+6255,I need to know what charges I will incur for using a European card for top up.,top_up_by_card_charge
+6273,"My PIN got blocked, help.",pin_blocked
+6280,Can you explain why my transfer was unsuccessful?,failed_transfer
+6282,How are top-ups verified?,verify_top_up
+6285,I would like to know how my friend would be able to send me money,receiving_money
+6289,What if I need my salary in another currency?,receiving_money
+6291,How can I verify the top-up card?,verify_top_up
+6296,Are there going to be fees from adding money with an international card?,top_up_by_card_charge
+6306,Why do I need top-up to be verified?,verify_top_up
+6308,Why can't my transfer complete?,failed_transfer
+6312,Do you have an age requirement when opening an account with your service?,age_limit
+6315,How old do you have to be?,age_limit
+6322,Can you tell me why my credit card was declined while trying to top-up?,top_up_failed
+6326,I believe that my card has been stolen!,lost_or_stolen_card
+6327,A mortgage payment I'm making is giving me an error message.  This is the first time I'm making this payment and want to know what's wrong.,failed_transfer
+6329,Where's my top up code?,verify_top_up
+6330,Am I able to order a disposable virtual card?,get_disposable_virtual_card
+6337,Can you unblock my pin because I put the wrong one too many times.,pin_blocked
+6343,"Declined, transfer not completed.",declined_transfer
+6345,I've already tried 5 times to complete a transfer that's just standard. What's the deal? Is your system down at this time?,failed_transfer
+6347,"My salary is in GBP, do I need to exchange it before putting it into my account?",receiving_money
+6350,"My transfer was declined, why is that?",declined_transfer
+6356,can i use both visa and mastercard,visa_or_mastercard
+6364,I'm still waiting for my top-up to go through,pending_top_up
+6371,Can I select my card scheme or do you choose it for me?,visa_or_mastercard
+6376,Can friends transfer money to each other?,receiving_money
+6384,Can both a Visa and Mastercard be received from you?,visa_or_mastercard
+6388,Can I get an account for my son?,age_limit
+6392,My card is missing.  Please help.,lost_or_stolen_card
+6421,"Hi, I have been transferring money to my friends since morning, but all my transactions were getting failed. Can you please look into this issue.",failed_transfer
+6424,"If US cards have a top up charge, what is it?",top_up_by_card_charge
+6430,How can I receive money from someone?,receiving_money
+6432,Can you tell me why my top-up failed?,top_up_failed
+6440,How long after a failed topup will funds refurn to account,pending_top_up
+6447,I am unable to transfer money. I believe it is not working because it states it was declined.,declined_transfer
+6449,Why has my top-up failed?,top_up_failed
+6452,Can you tell me what is wrong ? I top-up with you all the time but this time it just shows my top-up as pending. What is happening?,pending_top_up
+6462,Why are top-ups being verified?,verify_top_up
+6465,"When I tried to transfer funds to my friend today I was unable to do so, why?",failed_transfer
+6477,"After I attempted a transfer, it failed.",failed_transfer
+6510,please help my transfer go through,failed_transfer
+6513,Are you Visa or Mastercard?,visa_or_mastercard
+6515,Why do we need to verify a top-up card?,verify_top_up
+6516,Is there a fee to top up a US card using a debit or credit card?,top_up_by_card_charge
+6517,How do I make sure my transfer isn't goin to an unsupported merchant?,declined_transfer
+6525,I accidentally exceeded my PIN tries.  Please advise.,pin_blocked
+6527,I may have entered the PIN wrong and the account is blocked.  What do I have to do to get it unblocked.,pin_blocked
+6540,Which foreign currencies can I get transferred into my account?,receiving_money
+6548,"I logged in wrong and am blocked, how do I log in?",pin_blocked
+6558,Can you explain to me the way to verify my top up has gone through?,verify_top_up
+6561,Do you guys have any age restrictions?,age_limit
+6570,Why is it necessary to verify the top up?,verify_top_up
+6572,"I want a disposable virtual card, how do I do that?",get_disposable_virtual_card
+6575,I was trying to top-up and my credit card was declined. Can you tell me why?,top_up_failed
+6577,"Hi, can you tell me why my transfer keeps being rejected? I've been trying to send money to my friends this morning but failed every time and I have no idea why?",failed_transfer
+6579,I tried entering my pin several times incorrectly. Why isn't my pin working?,pin_blocked
+6592,My top up is incomplete.,pending_top_up
+6597,What factors determine your exchange rate?,exchange_rate
+6598,What is your opinion on the exchange rate?,exchange_rate
+6603,I went to do a transfer and it was declined.,declined_transfer
+6607,How can my friend send money to me?,receiving_money
+6616,I have exceeded all my PIN tries,pin_blocked
+6617,My top-up is taking a while to process!,pending_top_up
+6622,Someone stole my wallet with my card in it while vacationing in Spain. I really need my card blocked and a new one ordered.,lost_or_stolen_card
+6623,Why hasn't my top up gone through?,pending_top_up
+6626,My top-up was rejected,top_up_failed
+6647,"My top up hasn't gone through yet, why?",pending_top_up
+6650,My transfer failed to process correctly. Is there a reason this would happen?,failed_transfer
+6655,I'm interested in learning more about disposable virtual cards.,get_disposable_virtual_card
+6657,how long does it take to reflect in my balance a top up,pending_top_up
+6673,What exchange rate will I receive?,exchange_rate
+6674,I think that my card has been stolen!,lost_or_stolen_card
+6682,I tried to make a transfer and it didn't work.,failed_transfer
+6683,Won't let me top my card up!! Who can get it sorted out for me? It's urgent! How do I find out what the problem is with my card and how else to top it up?,top_up_failed
+6694,My credit card was declined for top-up. Can you see if there is enough funds in my account?,top_up_failed
+6700,Can you tell me more info about virtual disposable cards?,get_disposable_virtual_card
+6710,How long does my top up pending last?,pending_top_up
+6719,Can you find out why my credit card didn't process payment? It was declined for top up so what's the deal?,top_up_failed
+6721,I'm panicking!  I lost my card!  Help!,lost_or_stolen_card
+6725,"My top-up does not seem to have worked, what  went wrong?",top_up_failed
+6729,I have been trying to make a transfer and it won't go through. I have checked all the receipts and its all correct but still won't let me do it.,declined_transfer
+6731,The top-up verification code is not visible.,verify_top_up
+6736,Who can I speak with regarding a lost card?,lost_or_stolen_card
+6739,I'm trying to make a bank transfer but It's not going through. Could there not be enough funds to transfer or something? Have I done it too many times?,failed_transfer
+6747,Could I get a mastercard if that's reasonable?,visa_or_mastercard
+6748,Why use a disposable card?,get_disposable_virtual_card
+6763,My top up did not go through yet.,pending_top_up
+6778,I tried to make a transfer and it failed.,failed_transfer
+6783,Help! I lost my card!,lost_or_stolen_card
+6786,Where is the verification code display?,verify_top_up
+6795,"Errors keep showing up every time I try to make this transfer and I am on a time crunch,  could you please help.",failed_transfer
+6813,I've tried completing a very standard transfer and have already attempted it 5 times. What's going on here? Is there a problem with your system?,failed_transfer
+6814,"If I want to get an account for my daughter, can I do that?",age_limit
+6825,this verifying the top up is annoying,verify_top_up
+6829,Visa or Mastercard?,visa_or_mastercard
+6832,Is my top up not working?,pending_top_up
+6843,Do you give out Visa or Mastercards?,visa_or_mastercard
+6844,"I need assistance finding out why I am unable to top-up my card, it keeps getting refused.  It is extremely imperative I get this resolved quickly.",top_up_failed
+6873,The app rejected my top up,top_up_failed
+6874,"Hello, I tried to top up with my card, but it didn't work. I just got it a couple days before and it works fine. What's the deal? Can you check into this?",top_up_failed
+6876,Why did my transfer get declined?,declined_transfer
+6883,What will my exchange rate be?,exchange_rate
+6887,When will my top up go through?,pending_top_up
+6890,My credit card got declined for top up! What's going on? Can you check on why it didn't go through?,top_up_failed
+6894,Can I have a mastercard?,visa_or_mastercard
+6897,What exchange rates do you use?,exchange_rate
+6899,How old must I be to open an account?,age_limit
+6904,"Given a choice, I'd rather have Mastercard.",visa_or_mastercard
+6908,"I'd like to get a Visa card, please.",visa_or_mastercard
+6918,"I had everything lined up to make a transfer, and then it rejected it.",declined_transfer
+6926,What do I do if I have exceeded all my PIN tries?,pin_blocked
+6935,Why did the app deny my top-up?,top_up_failed
+6949,On what do you base your exchange rates?,exchange_rate
+6971,Help me. My transfer was declined. How could this happen?,declined_transfer
+6995,Why would I need a disposable card?,get_disposable_virtual_card
+6999,Is there a problem with your system being down or something? I have already tried 5 times to issue a standard transfer but I'm getting nowhere.,failed_transfer
+7040,What is the current exchange rate?,exchange_rate
+7048,I'm still waiting for the top-up!,pending_top_up
+7051,Do you have any card fees if I want to add money using an international card?,top_up_by_card_charge
+7052,Could I get a MasterCard and Visa from you?,visa_or_mastercard
+7056,"I needed to send my friends some money urgently.  I tried multiple times to transfer the money this morning, but the transfer keeps failing.  Can you tell me why the transfer is getting rejected?",failed_transfer
+7059,I have exceeded the number of PIN attempts,pin_blocked
+7065,Will I see fees from adding money with an international card?,top_up_by_card_charge
+7069,Is there a reason my transfer would have been declined?,declined_transfer
+7071,Are you able to guide me to my card's location?,lost_or_stolen_card
+7072,Can I have a Visa card?,visa_or_mastercard
+7074,Why won't my transfer go through?,failed_transfer
+7083,I've been trying to make a transfer and it doesn't seem to be working. (5 times) What is wrong with your system?,failed_transfer
+7084,My card is lost!  Please help me!,lost_or_stolen_card
+7088,When I was drunk I got my card stuck in your machine because i mis-typed my PIN. What do I need to do to get it restored?,pin_blocked
+7100,How do you determine your exchange rates?,exchange_rate
+7116,I cannot try my PIN anymore.,pin_blocked
+7122,Why didn't my transfer complete?,failed_transfer
+7126,I managed to drunken block my card :(( Help!,pin_blocked
+7144,I am locked out from entering my pin.,pin_blocked
+7146,What is happening?  I have tried to transfer money 5x already.  Is the system down?  This shouldnt be happening as this is a basic transfer.,failed_transfer
+7156,My top-up seems to be pending for a long time?,pending_top_up
+7164,Transfer declined.,declined_transfer
+7168,Will my employer be able to pay me with this service,receiving_money
+7172,How long should I wait for top up go go through ?,pending_top_up
+7189,can i get a virtual card online,get_disposable_virtual_card
+7198,I want a virtual card that is disposable,get_disposable_virtual_card
+7205,I do not think the pop up went through yet.,pending_top_up
+7209,Why do we need to verify top-ups?,verify_top_up
+7212,How to verify top up card?,verify_top_up
+7213,I accidentally put in the wrong pin too many times and now I need to unblock it. Can you assist with this?,pin_blocked
+7224,My salary is in GBP. Do I need to configure this somewhere?,receiving_money
+7226,"If I need to cash foreign transfers, how does that work?",exchange_rate
+7235,What is needed for my daughter to open an account?,age_limit
+7239,Why do my transfers keep failing?,failed_transfer
+7242,What would cause a transfer failure?,failed_transfer
+7243,Why does top-up need to be verified?,verify_top_up
+7249,Why is my top-up pending?,pending_top_up
+7255,What are the top up fees for using an European bank card?,top_up_by_card_charge
+7258,I'm confused as to why my top-up did not go through.,top_up_failed
+7274,What value can I get for my currency?,exchange_rate
+7276,I topped up but the app denied it,top_up_failed
+7287,Top-up is loaded into the card and no update.,pending_top_up
+7297,My card was stolen last night.,lost_or_stolen_card
+7299,I tried to buy something online yesterday but it kept saying declined. Tried another time today but same thing happened. What's Broken?,declined_transfer
+7300,I'm wanting to get a Visa card today.,visa_or_mastercard
+7304,"Please tell me, do you use Visa or Mastercard?",visa_or_mastercard
+7317,Will it cost extra to add money to an international card?,top_up_by_card_charge
+7334,i need to know about exchange rates,exchange_rate
+7348,My money hasn't been deposited yet. When will it be?,pending_top_up
+7383,I forgot what my pin number is and now am blocked can you help me get in?,pin_blocked
+7384,how much for topping up by card?,top_up_by_card_charge
+7392,I seem to have lost my card.,lost_or_stolen_card
+7402,How do I receive money from someone?,receiving_money
+7408,I tried to top up my account and it didn't work,top_up_failed
+7409,What is the minimum age required to open an account with your service?,age_limit
+7411,At what age can my children use your service?,age_limit
+7420,I'm having problems making a transfer to another account. I keep getting a declined message. I know that the information I'm putting in is accurate because I have checked it more than once.,declined_transfer
+7423,How old do my kids have to be use this?,age_limit
+7431,What are age requirements for opening an account?,age_limit
+7437,I am 16 and just started working at McDonalds can I deposit my checks at your bank?,age_limit
+7438,Do you offer account services for children and teens?,age_limit
+7443,Why did my top-up fail?,top_up_failed
+7445,I wanted to know why my transaction didn't go through.,declined_transfer
+7459,Why is my top up not completing?,pending_top_up
+7482,"I tried to top up, but the funds show up as pending. I thought it was instant?",pending_top_up
+7493,Why was my PIN blocked?,pin_blocked
+7495,"Hey, I'm buying a flat and I need my mortgage to go though. However, every time I check I get an error message. Is there any way you can help me with this transfer.",failed_transfer
+7519,is the a reason why my transfer has failed?,failed_transfer
+7526,"I am having trouble doing a transfer. A ""Decline "" message appears after making the transfer.",declined_transfer
+7527,Why was my top-up rejected?,top_up_failed
+7530,How do I deactivate a stolen card?,lost_or_stolen_card
+7548,My PIN isn't working.,pin_blocked
+7549,Why wouldn't a transfer go through?,failed_transfer
+7550,What do you charge to top up US cards?,top_up_by_card_charge
+7554,"I tried and tried, but I could not complete my transfer. Tell me what is wrong.",failed_transfer
+7572,My credit card transaction was declined for a loan payment.  Can you tell me why?,top_up_failed
+7577,How can I create a disposable virtual card?,get_disposable_virtual_card
+7583,what's my top-up verification code?,verify_top_up
+7585,"Transfer unable to be completed, states 'declined'",declined_transfer
+7589,Can I choose between Visa or MasterCard?,visa_or_mastercard
+7608,I need to know what your exchange rates are.,exchange_rate
+7610,What  is the verification process for a top up card?,verify_top_up
+7633,The top-up did not go through.,top_up_failed
+7637,The attempted transfer failed.,failed_transfer
+7655,What is the charge for topping up a card?,top_up_by_card_charge
+7657,European bank card for top up will come with any extra fees?,top_up_by_card_charge
+7666,I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?,lost_or_stolen_card
+7667,How much does it cost to us US cards?,top_up_by_card_charge
+7674,Does the exchange rate change?,exchange_rate
+7677,Is there an age limit for opening an account?,age_limit
+7678,Is there a problem with the top up system? My transaction hasn't gone through properly,pending_top_up
+7683,"Do I need to select a preference to receive my salary payments in GBP and, if so, where?",receiving_money
+7692,What is wrong with my top-up?,pending_top_up
+7702,Can you explain your exchange rates basis?,exchange_rate
+7703,Can I reset my PIN if it is blocked?,pin_blocked
+7704,My salary is in GBP - what should I do?,receiving_money
+7722,I tried to transfer but it was declined,declined_transfer
+7731,I couldn't make a transfer because it was declined,declined_transfer
+7732,What is the exchange looking like?,exchange_rate
+7735,How is an exchange rate calculated?,exchange_rate
+7737,Please help me get a Visa card.,visa_or_mastercard
+7738,I CAN NOT FIND THE TOP-UP VERIFICATION CODE.,verify_top_up
+7740,My account is blocked because I entered the wrong pin too many times.  Help me unblock.,pin_blocked
+7749,What do I do to verify a top-up?,verify_top_up
+7760,Is there a top charge for US cards?,top_up_by_card_charge
+7761,What is the minimum age limit?,age_limit
+7765,My top is still pending.,pending_top_up
+7766,Where do I order a disposable virtual card?,get_disposable_virtual_card
+7768,Please tell me how disposable virtual cards work?,get_disposable_virtual_card
+7771,What do you think of the exchange rate?,exchange_rate
+7778,Can I use a Visa or Mastercard?,visa_or_mastercard
+7780,Did I do something incorrectly? Where is my top-up?,pending_top_up
+7788,Where are my funds? I topped off my car but it didn't seem to complete.,pending_top_up
+7793,My top-up hasn't gone through,pending_top_up
+7798,Is there a fee for adding funds with a credit card?,top_up_by_card_charge
+7799,Has there been any activity on my card today?,lost_or_stolen_card
+7802,I have lost my card! What is my next step?,lost_or_stolen_card
+7805,What's up with verifying top-ups?,verify_top_up
+7820,"My PIN is unlocked, what do I do?",pin_blocked
+7826,What fees are charged when I top up,top_up_by_card_charge
+7832,"The disposable cards, what are they for?",get_disposable_virtual_card
+7833,Can I use a different currency with my salary?,receiving_money
+7857,I am unsuccessfully trying to make a transfer can you help?,failed_transfer
+7865,may I have a Visa and a Mastercard from you.,visa_or_mastercard
+7866,Why was one of my transfers declined?,declined_transfer
+7873,I need a Visa card,visa_or_mastercard
+7883,Where do I get a disposable virtual card?,get_disposable_virtual_card
+7888,How can my friend pay me?,receiving_money
+7906,How do I unlock my account after typing in the wrong PIN too many times?,pin_blocked
+7913,What type of card will I receive?,visa_or_mastercard
+7914,Why does my transfer keep failing? I've tried 5 times and they all failed.,failed_transfer
+7929,Can I use a disposable virtual card for any purchase?,get_disposable_virtual_card
+7932,why isn't my top-up going through?,pending_top_up
+7949,Why has my payment not transferred?,failed_transfer
+7954,"I was doing a transfer and received a ""decline"" message.",declined_transfer
+7955,The top-up card is verified how?,verify_top_up
+7958,How do I get money from friends?,receiving_money
+7974,I need my PIN unlocked.,pin_blocked
+7976,What credit cards do you carry,visa_or_mastercard
+7988,Am I able to open an account for my children?,age_limit
+7995,How can I receive money?,receiving_money
+7996,Are there fees for using an international card to top up?,top_up_by_card_charge
+8007,What are the disposable cards for?,get_disposable_virtual_card
+8010,Is there any way i get a disposable virtual card as well?,get_disposable_virtual_card
+8011,I have tried sending a standard transfer five times and it hasn't gone through. What is the problem?,failed_transfer
+8022,explain the interbank exchange rate,exchange_rate
+8027,What is minimum age for an account?,age_limit
+8034,I do not want a VISA card.,visa_or_mastercard
+8037,I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.,top_up_failed
+8041,My transfer failed.  Help!,failed_transfer
+8050,How long does it take for a top up to go through,pending_top_up
+8053,Looks like my top-up has been cancelled,top_up_failed
+8054,Would I be able to open an account for my daughter?,age_limit
+8063,How come I got blocked for entering wrong pins?,pin_blocked
+8076,I tried to buy something online yesterday and got a message saying declined. I tried again today and got the same message. What's the problem?,declined_transfer
+8084,Can I get a disposable virtual card?,get_disposable_virtual_card
+8087,I think my transfer failed. What do I do now?,failed_transfer
+8091,What's the web address to unblock my pin?,pin_blocked
+8093,"I attempted to top-up with my card this morning, but the transaction was unsuccessful. I received the card two days ago and was successful using it previously. Could you please help me?",top_up_failed
+8101,I lost my card. Can you help me?,lost_or_stolen_card
+8102,How many incorrect attempts cause card to be blocked?,pin_blocked
+8104,Is there any reason why my card didn't work when I tried to top up?,top_up_failed
+8121,Does it cost to add money to my card?,top_up_by_card_charge
+8136,Do I get charged if I top up with my European bank card?,top_up_by_card_charge
+8141,"My PIN number was incorrect, and I can't access it.",pin_blocked
+8146,How would my friend be able to send me money?,receiving_money
+8148,Can you tell me where to find my top-up verification code?,verify_top_up
+8158,Why did I get a different card then requested?,visa_or_mastercard
+8170,Can you help me get a disposable virtual card?,get_disposable_virtual_card
+8179,My top-up is not working. Why is that?,top_up_failed
+8180,What is the significance of verifying the top-up?,verify_top_up
+8188,why do i need to verify the top up?,verify_top_up
+8207,What foreign exchange rate will I get on weekdays and on the weekends?,exchange_rate
+8225,Top-up is not working,top_up_failed
+8227,"I tried to top-up, why didn't it work?",top_up_failed
+8232,I would like to get a Visa card,visa_or_mastercard
+8237,"I need to add more funds to my card today because it keeps being declined, and I need to use it immediately. Can you fix this or tell me alternatives?",top_up_failed
+8248,"I tried again to top up my card after doing it a couple days ago when it had worked. Now, it doesn't seem to be working. Can you tell me what the deal is here please?",top_up_failed
+8249,"Hi, I tried topping up for the first time today (I'm a new customer), and the transaction has shown as pending for the last half an hour. Can you fix it?",pending_top_up
+8260,"Is there something wrong with my top up I did an hour ago? it's still pending. I need that money, i cant afford to wait or have it come back to me.",pending_top_up
+8261,I must have entered my PIN wrong.,pin_blocked
+8264,How much are the fees for adding funds using an international card?,top_up_by_card_charge
+8267,I entered a wrong PIN too many times. How can I fix this?,pin_blocked
+8285,What if I type in the wrong PIN too many times?,pin_blocked
+8286,How can I get a Visa and Mastercard?,visa_or_mastercard
+8289,Can you tell me your exchange rates?,exchange_rate
+8293,I don't see the verification code for my card transfer.,verify_top_up
+8294,"What stopped my transfer, from being accepted?",failed_transfer
+8298,Transfer could not be completed due to being declined.,declined_transfer
+8303,What should I do if I think my card was stolen?,lost_or_stolen_card
+8304,Am I allowed to use different currencies?,receiving_money
+8305,My salary comes in GBP can I change my options somewhere?,receiving_money
+8348,What are the steps for getting money from a friend?,receiving_money
+8351,What is the disposable card for?,get_disposable_virtual_card
+8353,I want to open an account for my children,age_limit
+8361,Why can't I complete the transfer?,failed_transfer
+8365,"I tried to make a transfer, but it didn't work.",failed_transfer
+8368,How can I check for an unsupported merchant for my transfer request?,declined_transfer
+8375,How do you find the exchange rate?,exchange_rate
+8376,How old does my daughter have to be to open an account?,age_limit
+8377,What systems do you have in place for my security when using my card for everyday purchases?,get_disposable_virtual_card
+8399,Does it matter if I use Visa or Mastercard?,visa_or_mastercard
+8412,My transfer was declined. Why did this happen?,declined_transfer
+8413,Can I use a transfer to receive my transfer?,receiving_money
+8423,Why is your exchange rate different on different days?,exchange_rate
+8424,When will my top up process?,pending_top_up
+8429,I think my card is stolen!,lost_or_stolen_card
+8435,It appears my top-up has not gone through.,pending_top_up
+8447,Can my job deposit my wages directly into the account.,receiving_money
+8461,"I am wanting to refill my card, is there a charge?",top_up_by_card_charge
+8480,Need help with a stolen card.,lost_or_stolen_card
+8484,Could I open an account for children?,age_limit
+8493,What's the problem? My card keeps getting declined for top up. I need to know what is going on.,top_up_failed
+8513,"Hi, I'm trying to purchase a flat and I'm needing the first payment for the mortgage to go through on the flat I'm trying to buy. For some reason I keep getting an error.can you assist in making this transfer? What is going on?",failed_transfer
+8520,My transfer didn't work how come?,failed_transfer
+8528,Is there a fee when I add money to my international card?,top_up_by_card_charge
+8534,I am having a huge problem with my card being declined and it's really important that I top-up today.  Would you please look into this further and let me know how I can get this fixed?,top_up_failed
+8537,Could my daughter open an account?,age_limit
+8544,I need a disposable virtual card.,get_disposable_virtual_card
+8551,Can you issue both a Visa and a Mastercard to me?,visa_or_mastercard
+8563,would a visa or mastercard be more suited to me?,visa_or_mastercard
+8565,I need to find the top up verification code,verify_top_up
+8588,What will I need to configure if my salary is in GBP?,receiving_money
+8594,I need to order a new card as my other one was stolen.,lost_or_stolen_card
+8597,Do you have any accounts for children ?,age_limit
+8610,Do you charge a fee for adding money in USD?,top_up_by_card_charge
+8617,How do you do currency exchanges?,exchange_rate
+8644,What if my top up didn't work?,top_up_failed
+8647,I don't know where the top-up verification code is.,verify_top_up
+8650,how much is the fee for topping by card,top_up_by_card_charge
+8656,Why did my top-up not work?,top_up_failed
+8657,"I lost my card, what do I do now?",lost_or_stolen_card
+8660,Can you please sort out your top up? I need this to go through asap because I really need the money. It's already been pending for an hour.,pending_top_up
+8667,Will I be charged a fee for topping up using a European card?,top_up_by_card_charge
+8674,Could you assist me in finding my lost card?,lost_or_stolen_card
+8684,Help me figure out why my transfer was declined,declined_transfer
+8685,I'm a new customer and tried topping up today for the first time. It's still pending and doesn't seem to be working. I need to get this fixed.,pending_top_up
+8691,It's been some time since refilled the top-up.,pending_top_up
+8693,"I topped-up my account, but I don't think it went through.",pending_top_up
+8694,What is the reason that my top-up is still pending?,pending_top_up
+8704,Can you tell me where to go to get a disposable virtual card?,get_disposable_virtual_card
+8719,I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives,top_up_failed
+8723,Which one are you?  Visa or Mastercard?,visa_or_mastercard
+8726,Where are you getting your exchange rates from?,exchange_rate
+8727,Do I get Visa or Mastercard?,visa_or_mastercard
+8733,Do you let me choose between Visa and Mastercard?,visa_or_mastercard
+8739,I believe my top up has failed,top_up_failed
+8742,How are the exchange rates for transfers calculated?,exchange_rate
+8745,What is the age limit for an account?,age_limit
+8755,What is the basis of your exchange rates?,exchange_rate
+8761,Is there a fee for topping off a US card?,top_up_by_card_charge
+8762,Do I have an option between Visa and MasterCard?,visa_or_mastercard
+8763,Where can i find my top-up verification code?,verify_top_up
+8774,can my husband open an account and transfer money,receiving_money
+8793,Can you unblock my account?  I entered the PIN wrong.,pin_blocked
+8799,Can I transfer my salary if its in GBP?,receiving_money
+8801,I tried to do a transfer and it hasn't worked!,failed_transfer
+8806,What is the youngest age for an account?,age_limit
+8816,I need a new PIN number.,pin_blocked
+8833,What are the benefits of a disposable card?,get_disposable_virtual_card
+8838,"I want to get a Visa and Mastercard, is it possible to get both from you?",visa_or_mastercard
+8848,Please show me how my friend can send me money.,receiving_money
+8853,Are their fee's for top ups?,top_up_by_card_charge
+8863,Why has my transfer been declined?,declined_transfer
+8866,Is it possible for a friend to personally send me a payment?,receiving_money
+8870,How is this transfer supposed to work? It's not working for me.,failed_transfer
+8878,Can you explain to me why a top-up would still be pending?,pending_top_up
+8885,Will I be charged a fee to top up using a debit or credit card?,top_up_by_card_charge
+8900,Are there any charges for topping up my card?,top_up_by_card_charge
+8906,Can you please assist me in completing a transfer? I'm trying and I keep getting an error. I'm trying to purchase a flat and pay the initial mortgage payment. All I keep getting is an error. Can you find out what's happening here?,failed_transfer
+8910,Why has my top-up been denied?,top_up_failed
+8917,What's the process for exchanges?,exchange_rate
+8921,Will I be charged for adding money using an international card?,top_up_by_card_charge
+8923,Why would I get a decline message in a transfer?,declined_transfer
+8928,My PIN has been blocked.,pin_blocked
+8938,Where can I go to get my PIN unblocked?,pin_blocked
+8940,"I enetered the wrong information, I need my account unblocked How do I do that?",pin_blocked
+8944,How do I know if i need a disposable card?,get_disposable_virtual_card
+8955,I'd like to open an account for my children. How can I do that?,age_limit
+8964,Why was I not able to complete my transfer?,failed_transfer
+8975,I was declined a transfer,declined_transfer
+8979,Why do i have to verify my top-up card?,verify_top_up
+8981,How is top-up verified?,verify_top_up
+8991,Why did the bank reject my transfer?,failed_transfer

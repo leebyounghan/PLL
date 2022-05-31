@@ -1,0 +1,801 @@
+,text,label
+1,"Apache C module creation, problem linking SQLite",apache
+4,when automatically updateing wordpress how does it grab files from another server and store it on my server?,wordpress
+5,credit card detail in magento,magento
+6,Mac OS X app/service and stdin?,osx
+7,mod_rewrite proxy RewriteRule not working,apache
+10,Visual C++ error C2143: syntax error: missing ')' before 'constant',visual-studio
+18,Debugging mod_rewrite rules without RewriteLog?,apache
+19,How to change the wordpress header request,wordpress
+23,Show warning/error to user without using wp_die,wordpress
+25,How to tab between buttons on an OSX dialog box,osx
+26,installing pygobject on mac for Python 2.6,osx
+28,Rewrite URL from http://example.com/blog/ to http://blog.example.com/,apache
+37,Apache log lines appearing out of sequence - why?,apache
+39,Selecting the distinct values from three columns with the max of a fourth where there are duplicates,oracle
+40,What's wrong with adding LOBs to an Oracle table?,oracle
+44,Stored Procedures in MS-SQL Server 2005 and Oracle,oracle
+47,"Wordpress, two URLs for the same post",wordpress
+48,Cocoa Notification Example,cocoa
+55,How to find out whether subversion working directory is locked by svn?,svn
+57,add dropdowns to magento,magento
+62,MAGENTO: welcome page and pricing by city,magento
+63,Return value alternative in Managed Code,visual-studio
+64,Shorten delay when hovering over auto-hide panel / toolbars in Visual Studio '08,visual-studio
+66,Trac vs FogBugz,svn
+67,Open two instances of a file in single Visual Studio session,visual-studio
+69,Limit Oracle / ASPX Query Time,oracle
+70,Trying to upgrade Python to 3.0 on Mac OS 10.5.8,osx
+71,Transactions in wordpress database,wordpress
+72,"delayed call, with possibility of cancelation",cocoa
+73,Wordpress inline label (jQuery),wordpress
+75,Connect to Sharepoint trough Cocoa,cocoa
+77,manually finding the size of a block of text,visual-studio
+78,subversion,svn
+79,How to clear the IntelliJ project index?,osx
+83,"Server-side, get progress on sending file",apache
+93,Subversion Merge between multiple working copies?,svn
+95,Enabling new admin action(button sales_order/view) in ACL,magento
+101,shell script for replacing some files with symlinks,svn
+103,Can FxCop/StyleCop be limited to only analyze selected methods from with Visual Studio?,visual-studio
+104,From iPhone to Mac programming,osx
+111,TortoiseSVN not asking for authentication?,svn
+113,Can I run two web servers on the same computer?,apache
+114,Visual Studio Add-in QueryStatus() calls,visual-studio
+117,Interface-Builder outlets causing odd display behaviour,cocoa
+119,Apache mod_rewrite to catch XML requests,apache
+123,Wordpress .htaccess errors,apache
+126,Get router mac (without system call for ARP) in Objective-C,osx
+129,"nmake, visualstudio, and .mak files",visual-studio
+131,How do I set X-UA-Compatible header to IE=EmulateIE7 for IE 8 browsers using Apache 2.0?,apache
+136,Compartment items not displayed in DSL diagram,visual-studio
+137,Mixing ON and USING within one join,oracle
+145,What's the best way to trim whitespace from a string in Objective-C?,cocoa
+146,Update bound dictionary based on NSTextFieldCell's edited value,cocoa
+147,Limit number of concurrent connections in Apache2,apache
+153,Apache <LocationMatch> regEx field,apache
+154,wordpress: How can I display multiple pages on one page?,wordpress
+156,How can I get notified when the user finishes editing a cell in an NSTableView?,osx
+158,What is the correct way to tell when an NSArrayController is finished loading it's content from a persistent store?,cocoa
+159,Is there an Oracle SQL query that aggregates multiple rows into one row?,oracle
+161,Which would you rather use: VisualSVN or AnkhSVN?,visual-studio
+162,How to switch SVN server from one IP address to another,osx
+170,svn add interactive,svn
+172,Is there any way to sticky a file in subversion,svn
+173,Whats wrong with this FIRST_VALUE query?,oracle
+174,Open a file in Visual Studio at a specific line number,visual-studio
+175,Tips for running Subversion in a Windows world,svn
+176,Copy SVN Repository,svn
+179,How do you add weights together in an oracle text index?,oracle
+180,Network Packet Inspector in Mac OSX,osx
+181,"Cocoa app, my problem with -windowShouldClose",cocoa
+182,How to stop Visual Studio from automatically creating solution files,visual-studio
+183,Disabling default XML Schemas in Visual Studio?,visual-studio
+188,Writing to files in bundle?,cocoa
+195,"How can I import a directory structure into SVN, keeping the file and folder modifed dates the same?",svn
+197,WordPress Business Directory - best approach,wordpress
+200,Wordpress selecting wrong DB,wordpress
+205,"Oracle Date formatting ""2009-02-13T11:46:40+00:00""",oracle
+207,Wordpress: How to get a thumbnail post plugin to work...,wordpress
+212,"Good way to start developing for iPhone, given some experience in Cocoa on Mac",osx
+214,How to duplicate Magento report? Unable Change action function name,magento
+215,How can Oracle User Profiles be put to practical use?,oracle
+216,How do I tell when a CUPS print jobs has been completed plus info about that job?,osx
+220,2 mysql instances in MAC,osx
+221,How to Execute Subversion Post-Commit Trigger Without New Changeset?,svn
+222,How to upgrade wordpress and it's plugins flawlessely and without facing any trouble?,wordpress
+225,Visual Studio Memory Usage,visual-studio
+229,How to create project specific respository post-commit actions,svn
+230,Patching out CALLL by replacing with NOPs works in user space but not in kernel space,osx
+231,Strange CSS/Apache problem,apache
+232,How can I prevent a main menu item with sub items from being clickable in Wordpress?,wordpress
+235,"What are the possible tags of ""global"" tag in Magento ""config.xml"" file?",magento
+239,"""Beautifying"" an OS X disk image",osx
+246,oracle 11g hibernate problem,oracle
+249,How can I find the revision history of the file that was deleted and then resubmitted to SVN?,svn
+251,(Wordpress) Global variable to detect pagination?,wordpress
+252,Fixing a broken subversion setup,svn
+253,Corrupted HTTP headers on Apache/Weblogic 9.2,apache
+256,Convert characters to HTML Entities in Cocoa,cocoa
+261,SVN + PROJECT MANAGEMENT + WIKI + TODO LIST,svn
+263,Running NArrange from SVN pre-commit hook,svn
+269,How do I insert sysdate into a column using ODP and an XML dataset?,oracle
+271,How do I make a directory immutable in svn?,svn
+272,What do I put in the config.xml file to override linkAction in Downloadable (Magento controller)?,magento
+278,Mac OS X: Where should I store common application data?,osx
+279,WordPress Monthly Archive by Year,wordpress
+280,How to register new schema in cocoa/objective-c?,cocoa
+285,How to call a function with Rowtype parameter from a select statement in Oracle,oracle
+286,displaying category on a cms page in magento,magento
+287,"Render google map in wordpress, based on address custom field",wordpress
+289,Cocoa - Notification on NSUserDefaults value change?,cocoa
+296,Best way to learn Visual Studio power features,visual-studio
+297,magento blocks postion,magento
+307,Well written Open Source Cocoa Apps to learn from,cocoa
+309,Query two tables from different schema,oracle
+311,Visual Studio - show all calls to a function in source code level,visual-studio
+314,Svn: added files but deleted few before committing: not able to commit now,svn
+318,Guess encoding when creating an NSString from NSData,cocoa
+319,Save simple data in Magento's DB w/o Model,magento
+321,Reading SWF Header with Objective-C,cocoa
+322,How to wait for an animator to finish?,cocoa
+323,Can I see a log of who did what with my subversion server?,svn
+327,.htaccess rewrite of a url [help with rule],apache
+328,Implementing a KVO/Bindings-Compliant Bridge-Pattern in Cocoa,cocoa
+333,remove external dependecy from svn repo,svn
+335,"In Cocoa, how do I set the TTL on a packet?",cocoa
+337,How to detect which Space the user is on in Mac OS X Leopard?,osx
+342,My Magento Extension Install Script Will Not Run,magento
+343,Setting the TabIndex property of many form controls in Visual Studio?,visual-studio
+344,Wordpress Blog error,wordpress
+349,Magento filter product collection by tier price for current customer group,magento
+351,Editing large files on Mac OS X,osx
+352,PHP & MySQL on Mac OS X: Access denied for GUI user,apache
+353,PHP/SQL/Wordpress: Group a user list by alphabet,wordpress
+355,How do I log Oracle stored procedure calls with parameter values?,oracle
+356,Best way to implement TouchesMoved,cocoa
+357,How do I get a list of all unversioned files from svn?,svn
+359,Debugging Apache Perl Script that Communicates over SSH Via Expect,apache
+363,"Visual Studio 2003, Macro, Process.Attach not working always",visual-studio
+364,"Wordpress include(""../../../wp-blog-header""); failing",wordpress
+365,how to dump (print) an OSDictionary to the console / log?,osx
+368,i want to make functionality in magento admin panel that admin upload video,magento
+370,Capture sound output on mac,osx
+372,How to create a Visual Studio Setup Project registry value with the application install path?,visual-studio
+375,Change Sound (or other) System Preferences in Mac OS X,osx
+376,Test view keeps dissapearing in visual studio,visual-studio
+382,Run multiple commands in one ExecuteScalar in Oracle,oracle
+383,SQL/Oracle: when indexes on multiple columns can be used,oracle
+384,Where is the Visual Studio layout saved?,visual-studio
+386,execute immediate over databse link,oracle
+389,Address Book thread safety and performance,cocoa
+392,Why doesn't Wordpress plugin 'WP-Syntax' color Java well?,wordpress
+393,Releasing Core Framework object references,cocoa
+396,change in admin setting of magento,magento
+398,Which is the best php opensource e-commerce for handle 5 million prducts import daily?,magento
+400,PL/SQL Trigger - Dynamically reference :NEW or :OLD,oracle
+401,Extracting 32-bit RGBA value from NSColor,cocoa
+402,OS X: bundle location by identifier for newly installed application,osx
+403,Apache .htaccess vs httpd - does it really matter?,apache
+404,Apache virtual host configuration on debian,apache
+405,Crystal Reports: New Page,visual-studio
+409,Windows Backup for SVN Repositories,svn
+413,Magento - extending the Mage_Catalog_Model_Resource_Eav_Mysql4_Product_Collection class,magento
+414,Rails + MS SQL + Mac OS X,osx
+419,Wordpress thumbnail creation question,wordpress
+423,How to extract ID tags from MP3 files in Cocoa?,osx
+424,How do you sanitize your source before doing a subversion commit?,svn
+425,Remote machines cannot connect to Visual Studio web server,visual-studio
+430,Safari plugin development,osx
+432,VBPROJ / CSPROJ,visual-studio
+434,Adding a Custom Form Element to an Adminhtml Form,magento
+435,how to apply different shipping method for different country in magento,magento
+439,How to set up OCI to connect to Oracle from PHP?,oracle
+440,wordpress sidebar and loop php code distorts each other,wordpress
+444,NSTableView with custom cells,cocoa
+445,Magento ignores extra URL parameters set,magento
+448,Magento Store - Best Selling items by Category,magento
+449,When does using structs make sense in cocoa?,cocoa
+450,Directly passing html code into webkit,cocoa
+452,Getting a CGImageRef from IKImageBrowserView,cocoa
+453,What's the cheapest way to get a Visual Studio 2008 Standard Edition license?,visual-studio
+456,What tablespace are Oracle sequences stored in?,oracle
+458,"How to increase Oracle CBO cost estimation for hash joins, group by's and order by's without hints",oracle
+459,Changing the root_dir on a magento system,magento
+460,Subversion - Async development cicle... two trunks?,svn
+461,Fork and sync google code svn into github,svn
+464,Mac OS X Debug Error,osx
+465,What does the letter on the Oracle release mean?,oracle
+467,Best way to draw text with OpenGL and Cocoa?,cocoa
+468,"Handling ""Open Document"" (odoc) events in Snow Leopard",osx
+470,How to Prevent SQL Injection in Oracle SQLPlus?,oracle
+472,How to return an error from .bat in Visual Studio project?,visual-studio
+474,addAttributeToFilter not working in magento 1.4,magento
+475,wordpress -> showing custom data from child pages + pagination,wordpress
+478,Oracle 'identifier myschema.mytable must be declared',oracle
+481,J2t_Ajaxcheckout installation,magento
+483,How do we keep track of our working copy's branch?,svn
+487,How do I cross fade text to an NSTextView and an image to an NSImageView in a cocoa app?,cocoa
+489,Branching Strategies (in Subversion) for Multiple Products from One Codebase,svn
+491,Creating a checkbox programatically using Cocoa,cocoa
+492,Negating an arbitrary where clause condition (including the null tests),oracle
+495,Best practices for passing data between processes in Cocoa,cocoa
+499,execute function IF criteria is met - wordpress,wordpress
+503,Free SQL Query generator tool for oracle database?,oracle
+504,Maintain HTTP Referer,apache
+508,Magpie removes angle brackets from RSS feed,wordpress
+517,Can regex capture and substitution be used with an Apache DirectoryMatch directive?,apache
+519,"Configure continuum 1.2.3 with maven2 project; ""Username isn't defined.""",apache
+520,How can I kill all sessions connecting to my oracle database?,oracle
+521,When is an NSPersistentDocument's data store moved to final save location?,cocoa
+522,ViewSVN fails to run saying unsupported URL,svn
+523,How can I make Eclipse file search not include svn directories?,svn
+528,"apache server, how can i stop the server to create those error_log",apache
+530,How to automatically mount my portable disk with ntfs-3g driver on Mac OS X,osx
+532,"Wordpress, get ID's of multiple categories from the URL",wordpress
+533,How to call a method before the mehtod of requested controller is executed : magento,magento
+536,Is there anything like a generic list in Cocoa / Objective-C?,cocoa
+540,Wordpress category if-condition not working,wordpress
+545,Magento website payment pro USA,magento
+547,Unable to serve pages on Mac OS X using default Apache Web Server,osx
+548,Apache Response Time,apache
+549,How to filter Wordpress posts using a hook in a plugin?,wordpress
+551,Use SVNKit 1.2.1 from trunk,svn
+553,Magento: how to filter the result of Mage::getResourceModel('eav/entity_attribute_collection') by Category,magento
+554,"When updating from a SVN respository, is it possible to update another repository, too?",svn
+557,Oracle record history using as of timestamp within a range,oracle
+558,Executing different set of MSBuild tasks for each user?,visual-studio
+559,Using Visual Studio macro names to launch external applications doesn't work?,visual-studio
+561,Best way to keep config files under SVN ?,svn
+563,Visual Studio - Automatically refresh class view when changing class.,visual-studio
+564,How can I generate convenient date ranges based on a given NSDate?,cocoa
+565,Configure apache for system passwords?,apache
+567,"my_thread_global_end threads didn't exit, error?",osx
+570,How to export fonts and colors from VS2008 to VS2005?,visual-studio
+572,Script to Add User to Wordpress,wordpress
+575,Magento - Google Checkout Free Shipping Problem,magento
+576,No Magento Header & Custom Navigation,magento
+578,Backup and Recovery Scenario,oracle
+582,How to get the currently logged in user's role in wordpress?,wordpress
+585,Can Spotlight index a MacFUSE filesystem?,osx
+586,SVN: Checkout/export only the directory structure,svn
+588,How can I get Apache HTTP Server 2.2 and IIS 5.1 to both work on my localhost?,apache
+591,Message Reason: image not found,cocoa
+593,Magento addFieldToFilter allow NULLs,magento
+594,How to Add .php extension to Category pages in Wordpress,wordpress
+595,Lazy evaluation of Oracle PL/SQL statements in SELECT clauses of SQL queries,oracle
+596,Replace an array of strings in content for Wordpress,wordpress
+597,Code coverage for PL/SQL,oracle
+603,can i configure a product like this,magento
+604,"Apache Config Mime Types: xlsx files are being interpreted as zip files on download, why?",apache
+606,How can I dynamically create a selector at runtime with Objective-C?,cocoa
+607,In Magento how to show custom attribute in product grid ..?,magento
+611,recently purchased products,magento
+617,Issues Setting up a reverse proxy in Apache,apache
+619,Looping through wordpress catagories,wordpress
+620,Only date certain articles on Wordpress?,wordpress
+622,"Modifying WordPress's ""post-new.php"" File for Custom Blog Entries",wordpress
+623,WordPress home page duplicate content issue. Need a resolution to avoid Google smack,wordpress
+625,How should I create a global options in wordpress?,wordpress
+627,How can i override the default magento cms homepage entry with a custom module?,magento
+628,Magento Home Page Layout,magento
+630,Limiting returned record from SQL query in Oracle,oracle
+631,"How can I convert an existing website, deployed to multiple servers, to be SVN managed and not blow away user files?",svn
+632,Problem connecting to Oracle database via ASP.NET page under IIS,oracle
+637,How to signal an NSStreamEventEndEncountered on an NSInputStream reading from NSMutableData.,cocoa
+638,How to get wordpress page id after looping posts?,wordpress
+645,Getting 206 Partial Content and not sure why.,apache
+646,Visual Studio 2008 source control for small teams,visual-studio
+648,How do I determine the maximum and minimum value for an Oracle NUMBER column?,oracle
+649,Running Process listing,cocoa
+650,What is stored in ~/Library/Caches/<my-app-bundle>/Cache.db ?,cocoa
+651,Is it safe to use incremental rebuild for generating release build in visual C++ ?,visual-studio
+654,"how could i make working self-hosted openid provider, connected to wordpress",wordpress
+655,"Why does StatSVN fail, claiming the directory is not a working copy?",svn
+667,Beautifying a SWT application on Mac,osx
+671,Which documents should be added to a svn repo?,svn
+674,"Basic apache server, mapping 127.0.0.1, to 10.0.0.7:8000",apache
+677,Wordpress pull Blog Post,wordpress
+680,Arial Font doesn't display properly in Mac,osx
+684,Can I move an existing Subversion repository into a new parent repository (and retain the history)?,svn
+685,Read/Write data from/to a file in PL/SQL without using UTL_FILE,oracle
+688,OSX php.ini memory limits,osx
+691,Wordpress themeing,wordpress
+692,Is it necessary in any circumstance to modify Wordpress other than writing plugins and themes?,wordpress
+694,"local folder files not taking, taking only core files (magento)",magento
+695,how can i delete test order from magento,magento
+696,Debugging with exceptions: How to work around 'Break when thrown',visual-studio
+701,Putting an NSPopUpButton in an NSToolbar,cocoa
+702,What should I replace this code with?,cocoa
+703,Continue on error in loop,oracle
+704,Recommendation on Tools to migrate from Clearcase to SVN?,svn
+708,How to create a CGGradient for my UIView subclass ?,cocoa
+709,Wordpress upload from localhost to server,wordpress
+717,NSXMLParser and error constants,cocoa
+718,Is there any way to perform pre-/post-switch commands using TortoiseSVN?,svn
+719,Run an OS X universal binary in 32-bit mode,osx
+720,Callbacks in ObjC+Cocoa,cocoa
+722,"Create a padded, centered, scaled NSImage",cocoa
+727,Magento 1.4.1 issues adding uploaded image to cart in Magento,magento
+730,Enable my Wordpress Plugin and Theme w Remote Automatic Upgrade?,wordpress
+732,Enabling mouse and paste support in command line vim,osx
+733,Subversive connectors not working with newest Ganymede update,svn
+735,Why would you use Oracle database?,oracle
+736,"Oracle: how to enable flashback ""as of"" queries for all developers?",oracle
+742,Add new link to the admin panel and on click this link open a image upload type field in magento,magento
+743,Testing SQL query on Oracle which includes a remote database,oracle
+750,WordPress - Theme changes overwritten by GoDaddy,wordpress
+753,No results in Spotlight in searches against kMDItemPath,cocoa
+757,Navigating backward and forward with the mouse in Visual Studio 2008,visual-studio
+760,Apache HTTP Web Server Requests,apache
+763,Oracle Java Stored Procedure Command-line Interaction,oracle
+766,What is the best way to encrypt a clob?,oracle
+769,"[self release], [self dealloc] or [super dealloc] in init methods?",cocoa
+772,Megento vertnav expand one category,magento
+776,Link to Wordpress 'latest posts' page when using static front page,wordpress
+779,NSString Retain Problems,cocoa
+780,Apache Rewrite Exclusion,apache
+781,Cocoa Base 64 Implementation for REST Auth,cocoa
+783,How can I reset a cocoa NSSearchField programmatically?,cocoa
+786,How to remove Custom Field section from Wordpress?,wordpress
+787,CocCoa Application,cocoa
+792,Wordpress the_author() and wp_get_archives() not working,wordpress
+798,VS2008 Express Editions and Resources,visual-studio
+799,Configure Apache to recover from mod_python errors,apache
+800,How to change the product display order in magento,magento
+805,Crafting .webloc file,osx
+807,Before Login Action,wordpress
+810,Should subversion branches that are reintegrate-merged to trunk be deleted?,svn
+814,Cocoa color indicator bling?,cocoa
+816,Running script with admin permissions on OS X,osx
+818,version number inside AssemblyInfo.cs update outside visual studio,visual-studio
+819,"libapache2-svn, matching version with Subversion 1.6.1",svn
+821,Which is easier for beginners: RubyCocoa or ObjC/Cocoa,cocoa
+822,Resharper and ViEmu Keybindings  ( and Visual Assist ),visual-studio
+825,page redirection in wordpress,wordpress
+831,run oracle sql script from java,oracle
+833,Open Source Card Games or books for Objective-C/Cocoa?,cocoa
+834,Tortoise SVN Author in Log File Missing,svn
+836,iPhone SDK 3.0 not detected by XCode 3.2,osx
+837,In Cocoa do I need to remove an Object from receiving KVO notifications when deallocating it?,osx
+838,How to determine ORACLE_HOME from PL/SQL?,oracle
+839,how to write a custom panel displaying categories in magento,magento
+845,How do I make bash reverse-search work in Terminal.app without it displaying garbled output?,osx
+847,"SVN - Reintegration Merge error: ""must be ancestrally related""",svn
+848,magento customize onepage checkout process,magento
+849,Is it possible to use VS2008 built libraries from a VS2003 solution?,visual-studio
+850,Visual Studio 2008 - Distribute library with sample-application - ensure no access to the source-code of the library,visual-studio
+851,Add a link to Magento's My Account Page Conditionally,magento
+855,Subversion Branch Reintegration,svn
+856,Is there any tool that will document an SVN repository?,svn
+858,Oracle External Tables: Advanced Flat File Layout,oracle
+859,How do I include calls to methods only present in one operating system version when compiling for multiple versions?,cocoa
+864,What can cause intermittent ORA-12519 (TNS: no appropriate handler found) errors,oracle
+867,How to Manually create an Apache Windows Service,apache
+869,What is a good maintainability index using Visual Studio 2008 code analysis?,visual-studio
+872,Oracle Differences between NVL and Coalesce,oracle
+873,Customize Oracle AWR report,oracle
+876,How do I read/write as the authenticated user with WebDAV?,apache
+883,Reading an Oracle Lite ODB file without Oracle Lite,oracle
+885,"Do I need a separate server to implement an ESB (e.g. Apache Camel, Mule) ?",apache
+889,Magento - Aheadworks blog extension WYSIWYG editor,magento
+890,How do I make a url forbidden in apache mod_rewrite?,apache
+896,Hide NSWindowToolbarButton,cocoa
+898,Should I use self-signed certificates in general?  For SVN in particular?,svn
+900,Oracle: sequence MySequence.currval is not yet defined in this session,oracle
+901,How do you uninstall Visual Studio SP1 w/ .Net 3.5 SP1?,visual-studio
+902,PyObjc and Cocoa on Snow Leopard,cocoa
+905,Is there any way to force TextMate to cache files?,osx
+911,how to get the path and url of the temp image ?,cocoa
+913,Add/remove rows to/from NSTableView in Objective-C,cocoa
+915,How to migrate from a complicated subversion repository to a distributed version control system?,svn
+917,Referencing Oracle user defined types over DBLINK?,oracle
+918,plist bundle version values,osx
+920,is it possible to make order via phone or using IVR in magento?,magento
+922,Cannot Edit WordPress Themes - Various Errors,wordpress
+924,What is your preferred method for moving directory structures around in Subversion?,svn
+927,Visual Studio 2005/2008: How can you share/force all developers to use the same formatting rulles?,visual-studio
+929,How to handle line breaks in data for importing with SQL Loader,oracle
+930,Sending mail from bash shell script.,osx
+931,Overriding wp_get_archives for a theme in Wordpress,wordpress
+932,Bad mod_rewrite or .htaccess Practices?,apache
+937,Visual Studio&Source Control: How to have shared code?,visual-studio
+944,Strange visual studio 2008 behavior when pressing keys,visual-studio
+946,Oracle Rollback Segments and ADO.NET,oracle
+949,"In Mac OS X, is there a programmatic way to get the machine to go to sleep/hibernate?",osx
+950,KVC/KVO and bindings: why am I only receiving one change notification?,cocoa
+954,Filter out categories in wordpress,wordpress
+955,Apache MOD_REWRITE Domain Level Cookie,apache
+956,"How to add ""Order By"" when loading a Magento Model",magento
+958,Can I have a deferrable unique functional index in Oracle?,oracle
+960,Apache: how to limit virtual dir to local network,apache
+961,Program not supported on this type of mac computer,osx
+964,How to get Intellisense on error-marked code in Visual Studio 2005?,visual-studio
+965,"Using Studio's ""Custom Tool"" in MSBuild",visual-studio
+966,How do you toggle the status icon in the menubar on and off using a checkbox?,cocoa
+967,Connect to a secure database using JDBC,oracle
+969,How do I iterate over an NSArray?,cocoa
+971,ORACLE Rollback and Trigger,oracle
+972,how to disable window close button in OSX using wxpython?,osx
+974,SSRS - Uninstall Trial Version of VS Business Intelligence,visual-studio
+976,Inserts are 4x slower if table has lots of record (400K) vs. if it's empty,oracle
+978,Visual Studio Move current document to the left.,visual-studio
+979,UnixODBC driver suppot in OSX?,osx
+981,Remove project from SCM on Mac,osx
+986,Oracle converts empty string to null but JPA doesn't update entity cache correspondingly,oracle
+987,How do I get the Click Once Publish version to match the AssemblyInfo.cs File Version.,visual-studio
+988,mod_rewrite to find missing /img/foo.jpg in /img/f/,apache
+990,What's the best way to determine which version of oracle client I'm running?,oracle
+992,How can I really get Subversion to ignore a directory?,svn
+994,Magento: Where is head.php?,magento
+995,Uninstall MacRuby,osx
+997,Magento is redirecting to cart when continuing from Billing info,magento
+1007,Magento with Mailchimp -----adding checkboxes programmatically,magento
+1013,how to view different file extension in different color ib terminal of mac leopard.,osx
+1014,Unicode Basics on Windows,visual-studio
+1015,Can MS Visual Studio compile projects using 2 or 4 cores on CPU?,visual-studio
+1016,Problem with large solutions and service factory,visual-studio
+1017,Apache name based virtual hosting,apache
+1022,How can I implement a global RewriteCond / RewriteRule in Apache that applies to all virtual hosts?,apache
+1023,Strange Oracle problem,oracle
+1025,Best way to run unit tests after each commit ? - svn - branch per feature,svn
+1026,Guitar Tablature and Music sheet oriented plugins for wordpress or Drupal,wordpress
+1027,Why does DBMS_MVIEW.REFRESH have an implicit commit?,oracle
+1029,"where can is the product insert funtion , i cannot find the function which inserts the product into database",magento
+1033,wordpress date formatting,wordpress
+1034,Possible to call Oracle FUNCTION from .Net using Enterprise Library?,oracle
+1035,WordPress Media URL conflicts with Page URL,wordpress
+1038,Wordpress - call the functions in specific order,wordpress
+1042,WordPress SQL Query on Category/Terms,wordpress
+1044,Visual Studio Extension to map Solution Folders to Real Folders,visual-studio
+1047,Add HTML markup to $wpdb results in Wordpress,wordpress
+1050,Problems calling magento API with C#,magento
+1053,Can I reformat HTML in Visual Studio without removing blank lines ?,visual-studio
+1057,Logging dynamically served files in APACHE,apache
+1058,"How to keep testing and production e-commerce db in sync when you have ""sales"" updates in production?",magento
+1061,Mod_rewrite: Direct everything to one PHP file,apache
+1062,How to detect the compile-time ./configure options of apache 1.3?,apache
+1063,kext for 10.4 - 10.6,osx
+1069,"Commit from directory, not under version control, to override current revision",svn
+1072,How to join NSArray elements into an NSString?,cocoa
+1078,"Read only ""N"" bytes from a file in Cocoa",cocoa
+1082,How to store dates without times in Core Data,cocoa
+1088,Magento 1.3 - Image upload issues with Flash,magento
+1090,wordpress custom page template,wordpress
+1091,Controller pages inaccessible in new RoR project...why?,apache
+1093,Best Programmer's Image Editor for OSX,osx
+1094,Instantiating Oracle Driver results in InvocationTargetException,oracle
+1099,Visual Studio: How to figure out where this type is defined?,visual-studio
+1101,Delet files from SVN in Visual Studio,svn
+1103,How to see the normal tooltip information in Visual Studio instead of the error help,visual-studio
+1107,Can I combine multiple SVN directories into another single directory using externals?,svn
+1115,Force subversion not to merge specific files,svn
+1117,"Is there an easy, simple, lazy way to test rules against Apache's mod_rewrite?",apache
+1118,How do I make svn ignore unversion files only in my working copy?,svn
+1119,Social/Open Log-In: Magento?,magento
+1122,What is the defirence between DoS and Brute Force attacks?,apache
+1124,Can I automatically increment the file build version when using Visual Studio?,visual-studio
+1125,describe query with oracle (.Net Connector),oracle
+1127,Apache Multiple VirtualDocumentRoot,apache
+1133,Can't See Product Options on Magento 1.4.2,magento
+1139,Visual Studio Website Reference Paths,visual-studio
+1140,Magento - Adminhtml - Default website in new customer form,magento
+1143,SVN and accented characters,svn
+1147,What is the best subversion client for Linux?,svn
+1148,Is this implementation correct?,oracle
+1149,What is the best way to separate UI (designer/editor) logic from the Package framework (like Visual Studio Package),visual-studio
+1151,WordPress Multi Language Help,wordpress
+1156,How can I tell Wordpress to reset all posted image sizes to the largest set width?,wordpress
+1159,Please specify the product's option(s) in Magento.,magento
+1160,overriding a magento block in multiple modules (and how to ignore the other ones),magento
+1164,Code review addin for Visual Studio,visual-studio
+1165,Running python code from standard Cocoa application,osx
+1168,Error : Not all products are available in the requested quantity !! what does this mean?,magento
+1173,Need help to solve Window Opening Problem.,cocoa
+1174,Loading data into a Cocoa view before the application loads,cocoa
+1177,How accurate is Oracle's EXPLAIN PLAN?,oracle
+1178,.Net XML comment into API Documentation,visual-studio
+1182,Is there a pattern for dealing with non-memory resources on cleaning up an ObjC object?,cocoa
+1183,How to reuse dynamic columns in an Oracle SQL statement?,oracle
+1188,How do I svn add all unversioned files to svn?,svn
+1190,Apache mod-rewrite redirect domain name using querystring,apache
+1193,oracle procedure returns integer,oracle
+1196,PostScript files from latex blurred,osx
+1200,"Magento AND Prestashop, what better??",magento
+1205,How come the edit post page takes so long to load?,wordpress
+1207,Why does Visual Studio keep building my C++ project?,visual-studio
+1212,Learning ASP.NET MVC on Mac OS X,osx
+1214,How do I force unix (LF) line endings in Visual Stuido (Express) 2008?,visual-studio
+1219,Magento Set discount code for  specific product on fly.,magento
+1220,wordpress not including javascript on generated page.,wordpress
+1227,Best way to reference an external library in multiple projects in a Visual Studio solution,visual-studio
+1231,Apache POI - error in reading excel file,apache
+1237,"Subversion repository statistics, other than StatSVN?",svn
+1238,web based application server Implementation,apache
+1241,Question about Oracle locking and summarisation,oracle
+1246,Combining mod_access and mod_auth,apache
+1248,iTunes XML Parsing in cocoa,cocoa
+1251,Change position of currency selector in Magento,magento
+1252,Apache2 won't start - Mac OS X - Passenger,apache
+1253,ORA-12154: TNS: Could not resolve service name,oracle
+1254,Is there a PHP IDE that can handle Magento's code base?,magento
+1259,Apache's mod_rewrite and %{REQUEST_URI} problem,apache
+1260,Cocoa API comments guideline,cocoa
+1264,Where to start with FastCGI and C++,apache
+1265,NSTextField on top of custom drawing - black outline and cursor not blinking?,cocoa
+1266,How to use enums in Oracle?,oracle
+1268,Visual Studio & SubVersion : What about Machine Specific Files,visual-studio
+1271,How to rewrite and set headers at the same time in Apache,apache
+1272,Running Oracle stored procs from C#,oracle
+1274,"Fresh Rails install on OSX gives me ""Rails requires RubyGems >= 1.3.2""",osx
+1277,How do I programatically restart a system service(not apache) from apache in linux?,apache
+1278,Subversion with 32 bit server and 32/64 bit clients,svn
+1280,How do I delete all directories matching a pattern using SVN?,svn
+1282,mod_rewrite RewriteCond backreference not working,apache
+1284,How to disable a programmatical breakpoint / assert?,visual-studio
+1286,Weird behaviour with two Trac instances under Apache + mod_wsgi,apache
+1287,What's the equivalent of SHGetFolderPath on OSX?,osx
+1288,Truncating a table in a stored procedure,oracle
+1289,Oracle connections in Spring,oracle
+1295,programmatically retrieve Visual Studio install directory,visual-studio
+1297,mod_rewrite to absolute path in .htaccess - turning up 404,apache
+1299,Using Magento just for checkout,magento
+1302,Wildcard DNS combined with Single Subdomain DNS,apache
+1303,"svn - Remote, Disconnected Working",svn
+1308,Visual studio - is there a way to select multiple files and wrap a namespace around each of them?,visual-studio
+1313,Best way to prevent changes on a branch with Subversion,svn
+1318,How to see Oracle Table Logs ?,oracle
+1320,Magento: Catalog Page 1 different from other pages,magento
+1323,Check if Screensaver is Active using Mac Bash Script Command,osx
+1325,Problem with function session_start() (works slowly).,apache
+1331,Mac OS X: trying to link (ld) against a framework.,osx
+1333,Why is Visual Studio 2005 so slow?,visual-studio
+1334,Magento Duplicating Custom Block,magento
+1338,Software development  on Mac,osx
+1339,bus error in simple Mac OSX C program,osx
+1341,Table view not updating according to bindings - Part Deux,osx
+1342,Apache Download: Make sure that page was viewed before download,apache
+1344,SVN commit error after deleting files locally,svn
+1346,"How Granular are your SVN ""projects"": one big project containing several releated apps or one ""project' per app",svn
+1347,Stress testing a server and VPS's vs. Dedicated servers,apache
+1348,Add content between Wordpress queried posts,wordpress
+1349,Resources for an Oracle beginner,oracle
+1350,Is it possible to insert a mult-line code snippet relative to the cursor position in Visual Studio?,visual-studio
+1351,WordPress - How to know if a sidebar is empty without loading it?,wordpress
+1352,NSString color,cocoa
+1356,Subversion - how to move some changesets from trunk to a branch?,svn
+1357,Infoshare: Encrypted source code partition for MacOS X,osx
+1359,EXC_BAD_ACCESS when using NSOutlineView,cocoa
+1360,Finding per-process bandwidth usage on the mac?,osx
+1368,Transferring SVN Properties,svn
+1369,WordPress: How can I add extra classes via variables when using body_class()?,wordpress
+1371,Using mod_rewrite to redirect 70+ URLs with variables,apache
+1373,"How can I implement a ""natural"" sort?",oracle
+1378,Mono on a Mac - what database to use?,osx
+1379,Extracting time zone from Oracle JDBC TIMEZONETZ object,oracle
+1380,Visual Studio 2008 Window layout annoyance,visual-studio
+1382,Cocoa: Getting the current mouse position on the screen,cocoa
+1385,mod_rewrite to alias one file suffix type to another,apache
+1386,How to obtain codesigned application certificate info,osx
+1387,Resources for Unit Testing Cocoa Applications,cocoa
+1388,What is the maximum length of a table name in Oracle?,oracle
+1393,Simple .htaccess rewrite ?,apache
+1398,Oracle: Variable number of parameters to a stored procedure,oracle
+1399,How do I keep WordPress from formatting out leading spaces?,wordpress
+1401,Oracle Populate backup table from primary table,oracle
+1403,magento extension installtion,magento
+1409,Rewrite content served by apache,apache
+1411,magento import image attribute not inserting in table,magento
+1413,Direct Path Load of TimeStamp Data With SQL*LDR,oracle
+1415,Display resulst from a query with PHP (Wordpress),wordpress
+1420,String Question - Cocoa,cocoa
+1422,Magento - Determine id order was placed through admin,magento
+1423,SVN Error - 501 Not Implemented Commit Failed,svn
+1424,SVN URL Format,svn
+1429,Should I port Linux Driver to Mac OS X OR Should I Rewrite it,osx
+1430,URL Rewriting - Redirect With No File Extension,apache
+1432,IPhone dev on mac Mini,osx
+1433,Magento: Get Image Gallery in list.phtml,magento
+1435,Install sqlite3 on mac osx?,osx
+1436,NSMutableArray add Object as pointer only?,cocoa
+1437,How can I download Java SE 1.5 for Mac OS 10.6,osx
+1439,Contextual Menu Item development for OSX (Leopard and Snow Leopard),osx
+1445,Cocoa Utility Class,cocoa
+1446,What's the most abused features in Visual Studio / C#?,visual-studio
+1447,apache mod_proxy error os10060 and returning 503?,apache
+1450,magento show subcategory,magento
+1451,Apache loading queue problems,apache
+1456,Hide console for Tkinter app on OSX,osx
+1457,front-end configurable products from simple products in magento?,magento
+1458,What open source Cocoa/Cocoa Touch Frameworks are out there?,cocoa
+1463,Automated Apache Server Maintenance Page,apache
+1464,Using EnvDTE.Solution - How to Remove Source Control Bindings,visual-studio
+1466,Best way to rotate Apache log files,apache
+1467,Installing Apache Web Server on 64 Bit Mac,apache
+1470,"In Oracle, is it possible to ""insert"" a column into a table?",oracle
+1471,Best practice for SVN tags?,svn
+1472,Get duration in AVAudioPlayer?,cocoa
+1473,Apache - Ubuntu desktop edition 9.04,apache
+1480,How do I get my Visual Studio Test Suite web test to iterate over my data source,visual-studio
+1483,Mac OS X Tiger vs Leopard usage pervasiveness - any study?,osx
+1489,Mod_rewrite .htm to fake subdirectory,apache
+1491,how to translate email template in magento?,magento
+1493,"SVN ""PROPFIND request failed on...""",svn
+1494,SVN: Could not read status line: connection was closed by server,svn
+1496,What can cause an intermitent ORA-12560: TNS:protocol adapter error?,oracle
+1497,What is a good GUI text editor for the Mac?,osx
+1498,Dynamically add where clauses to a cursor in oracle,oracle
+1503,How to check whether your code environment on Windows or on Linux or other OS,apache
+1508,Mac Excel 2008: Macros?,osx
+1509,Visual Studio Debugger + Break when a value changes?,visual-studio
+1511,"Multiple repositories, single setup",svn
+1513,Get the path of the .dmg from the mount point,osx
+1514,WordPress displays private posts to logged-in users -- how to turn this functionality off?,wordpress
+1515,"printing 4""x6"" cards in OSX (cocoa)",osx
+1516,Visual Studio and dual/multiple monitors: how do I get optimized use out of my monitors?,visual-studio
+1519,How to undo an 'svn copy',svn
+1520,Wordpress: How to compare 2 float values in meta_value column?,wordpress
+1523,Make WordPress sticky posts behave as normal using caller_get_posts=1 isn't working,wordpress
+1530,How do I deselect all cells in an NSBrowser,cocoa
+1531,Unable to make Firefox open Ack's output,osx
+1532,mamp make the filenames case insensitive,apache
+1533,Apache rewrite rule,apache
+1537,Subversion Vendor Branches,svn
+1538,Wordpress stop post redirects,wordpress
+1540,magento customers insertion,magento
+1541,"Resolving ORA-4031 ""unable to allocate x bytes of shared memory""",oracle
+1546,How to add custom Modules in magneto,magento
+1549,Recurring Profile and Bundled Item,magento
+1551,"What are your favorite, but less obvious, Visual Studio 2008 tips and tricks?",visual-studio
+1553,VS 2008 - Objects disappearing?,visual-studio
+1554,Querying the connecting device for usb devices in OS X,osx
+1557,Performance Benchmarking for Apache Nutch,apache
+1560,Capture Screen Image in C++ on OSX,osx
+1561,Is SQLlite strong enough to use as wordpress database ?,wordpress
+1563,Magento Set Grid to Filter Automatically by Current Day using Existing Datetime Column in Grid,magento
+1564,how to show products at magento homepage.,magento
+1570,Trying to create a class for relating images in Wordpress,wordpress
+1571,Any have a Visual Studio shortcut/macro for toggling break on handled/unhandled exceptions?,visual-studio
+1575,Common Files in Visual Studio Solution,visual-studio
+1576,Magento - Communication between 2 blocks,magento
+1578,Get all custom fields that belong to a certain box in Wordpress,wordpress
+1581,Improving this url with .htaccess and mod_rewrite,apache
+1583,"Is there a Snow Leopard compatible ""sudden motion sensor"" API available?",osx
+1584,Getting Product or ProductID in magento,magento
+1585,Browser Plug-ins Not Loading in WebView Implementation,osx
+1589,relations in oracle objects?,oracle
+1591,Best Practice creating Forms in Wordpress,wordpress
+1592,"Updating from svn repository returns ""Could not read chunk size"" error",svn
+1599,Begining SVN,svn
+1601,apache rewrite folder+query to query,apache
+1602,"Sending messages to objects while debugging Objective-C in gdb, without symbols.",osx
+1604,Is it reasonable to use small blobs in Oracle?,oracle
+1605,.NET: How to retrieve the body of an Oracle 9i PL/SQL procedure or function,oracle
+1606,How do I detect if an application is document-based?,cocoa
+1608,Assign different products to different stores and display products per store in backend,magento
+1610,What is .net framework ?,visual-studio
+1611,How to get t4 files to build in visual studio?,visual-studio
+1612,-bash: ./configure: No such file or directory   - mysql install on OSX10.6,osx
+1613,Looking for MacOS Threaded Networking sample code,osx
+1614,Does [NSStepper setMinimum/setMaximum] also set the value?,cocoa
+1615,Cocoa focus ring color animation,cocoa
+1617,Importing Pantomime for sending email!,cocoa
+1618,How can I use the /home directory on Mac OS X,osx
+1619,How to stop NSScrollView from scrolling to top when horizontally resizing contained NSTextView?,osx
+1621,Two server setup for online store(Magento),magento
+1623,Password protecting AutoIndex but not static files with .htaccess,apache
+1626,Core Animation window flip effect,cocoa
+1627,How can you have a xEmacs-like-Auctex in MacVim?,osx
+1629,Wordpress: How to Put a Function inside PHP?,wordpress
+1630,upsells in custom Magento template,magento
+1632,"Running an MVC application through IIS results in ""Directory listing denied""",visual-studio
+1633,How to drag NSStatusItems,cocoa
+1634,wordpress menu position,wordpress
+1635,Why does subversion chown/recreate files on checkin?,svn
+1638,Magento - Multiselect color attribute,magento
+1640,Visual Studio 2008 Unnecessary Project Building,visual-studio
+1643,Visual Studio: default settings,visual-studio
+1647,Dow do you set ASP.NET Development Web Server to not cache any content?,visual-studio
+1652,magento working of paypal express checkout,magento
+1655,Magento Installation error..redirects to localhost ?!,magento
+1658,"What does ""Optimize Code"" option really do in Visual Studio?",visual-studio
+1660,Visual Studio tip,visual-studio
+1664,Is there a way to use VS with a remote site accessible only by sftp?,visual-studio
+1667,CVS to SVN conversion -- How to replace CVS TAGS functionalities,svn
+1668,Query about design guidelines for application development.,osx
+1672,Filtering a NSOutlineView/NSTreeController.,cocoa
+1673,How Do I Detect A WordPress Admin Panel in my Plugin?,wordpress
+1678,How to remove date header from apache ?,apache
+1680,wordpress custom admin page - checkbox,wordpress
+1681,How to implement browser toolbar in Cocoa?,cocoa
+1685,wordpress shortcode problem,wordpress
+1692,Howto use the has_filter wordpress function with an object based callback,wordpress
+1695,SVN hooks for windows,svn
+1696,How to get Custom Options Programmatically in Magento,magento
+1698,What is the best client from Windows to Mac for VNC?,osx
+1702,Visual Studio plugin to allow opening 2005 solutions with 2008?,visual-studio
+1703,"Unable to transition state to ""payment_pending"" for user cancelled sales order",magento
+1704,Mod_rewrite rewriting things it's explicitly told not to,apache
+1706,Wordpress get user id by login name,wordpress
+1710,Dynamically loading a part of a Window in Cocoa,cocoa
+1711,Magento 1.4 Display Individual Product on Homepage,magento
+1714,How to set OS X Terminal's default home?,osx
+1715,Is there a simpler C++ Subversion API or an example .vcproj for minimal_client.c?,svn
+1717,Define mono for only one VirtualHost,apache
+1718,How to use dependencies of C++ libs in Visual Studio regarding the header path,visual-studio
+1719,How do I make Subversion (SVN) send email on checkins?,svn
+1723,How to set background color of cell with NSButtoncell type in NSTableView ?,osx
+1725,SVN commit problems on Mac OSX Terminal,osx
+1727,Which plugin do you use for using SVN inside Visual Studio,svn
+1731,Infinite loop on combination of RewriteRules,apache
+1733,How much disk space should I reserve for my Subversion repository?,svn
+1738,Running Python & Django on IIS,apache
+1739,Looking for a RESTful or SOAP pipeline between WordPress and InterWoven TeamSite,wordpress
+1740,Weird apache behavior when trying to display urls without html extension,apache
+1742,Good ways to Learn Cocoa?,cocoa
+1744,How to prevent VS 2008 from publishing .svn folders as part of publish process?,svn
+1747,SVN pre-commit hook for avoiding changes to tags subdirectories,svn
+1748,How do I show the number of images attached to a post on the image attachment page?,wordpress
+1762,Incorrect MacOSX select() behaviour on non-blocking connect,osx
+1763,How do I enable Platform Builder mode in VS2008,visual-studio
+1767,can't login magento in local system in firefox,magento
+1776,TortoiseSVN - missing files in client,svn
+1777,Magento add to cart quantity update problem..,magento
+1781,Unable to make a tab completion file for MacPorts in Bash?,osx
+1783,Cocoa app - piracy protection,cocoa
+1787,Mac eclipse xdebug firefox issue,osx
+1789,Adding Existing Form to C++/CLI WinForms Project,visual-studio
+1790,magento non object in search,magento
+1794,Does anyone know the shortcut to open a file within your solution,visual-studio
+1799,Good database library/ORM for cocoa development,cocoa
+1800,use oracle cursor within a sys_refcursor,oracle
+1801,Mac os x; fast text editor for RTF format with colors and change background,osx
+1804,How do I retrieve external data from MS SQL from a Wordpress Blog?,wordpress
+1807,Retrieving the selected object in an NSOutlineView.,cocoa
+1808,NSTableView and NSOutlineView Drag and Drop Help,cocoa
+1809,Core Animation - Sheet-like Window Sliding,cocoa
+1810,Accessing svn repo wtih TortoiseSVN from work vs. home + VPN,svn
+1812,How to rewrite Collection?,magento
+1825,Tortoise SubWCRev.exe Pre-Build Event,visual-studio
+1828,Apache and mod_mono not playing well together,apache
+1832,Is ODP.NET required for Oracle 11g Client?,oracle
+1833,Apache rewrite rule forces download,apache
+1834,how to call functions/methods within CMS block or page?,magento
+1836,Wordpress query post get Image unless blank,wordpress
+1837,Oracle Builtin String Character Classes,oracle
+1845,Oracle DB: How can I write query ignoring case?,oracle
+1848,"Add option value to product, then to cart with Magento",magento
+1851,I want my wordpress template to be fully translatable,wordpress
+1858,Possible to create Oracle regular expression that's able to match NULL?,oracle
+1859,Apache mod-rewrite folder overwrite,apache
+1862,how do i find out what version of wordpress is running,wordpress
+1865,Allow request coming from specific IP only,apache
+1873,Visual Studio 2008 - Customise right click menu,visual-studio
+1875,Is there a tool for managing redundant pages across a website?,wordpress
+1877,Redirect .aspx to WordPress,wordpress
+1879,Displaying build times in Visual Studio?,visual-studio
+1884,How to ignore Subversion specific subdirectories during commit,svn
+1885,mod_rewrite: Redirect if anything but a file,apache
+1886,Best Practice for Wordpress Theme Functionality,wordpress
+1887,SVN - How do I change the HEAD to a previous revision,svn
+1889,Cocoa memory editing inspection,cocoa
+1890,How can I limit a wordpress meta_box to a single page?,wordpress
+1892,Escaping spaces in mod_rewrite,apache
+1893,Concurrent network client in Cocoa,cocoa
+1894,User Interface for creating Oracle SQL Loader control file,oracle
+1900,Why do these errors in Xcode Mean?,cocoa
+1908,HTTP headers for jpg files after mod_rewrite,apache
+1910,Dealing with SVN keyword expansion with git-svn,svn
+1915,What tool do you use for counting lines of source code in Visual Studio Projects ?,visual-studio
+1917,Oracle Form Builder: Switching between tabs in a form,oracle
+1919,loaded a subversion dump but it's inaccessible,svn
+1923,How to maintain separate svn repositories for the same project?,svn
+1924,Two or more tinymce editors.,wordpress
+1931,nHibernate SchemaUpdate Failing,oracle
+1933,Magento Checkout - Unsecure Image,magento
+1936,Making the Text in a Text Cell change color when the Rows Checkbox has been checked.,cocoa
+1938,What is the best way with Apache to redirect a blank subdomain to another subdomain?,apache
+1940,wordpress - how to make a page with no parent appear in a subnav menu,wordpress
+1943,How to get last inserted row ID from wordpress database?,wordpress
+1946,How does visual studio determine what to copy to the output directory with multi-project solutions?,visual-studio
+1948,Subversion: Generate a full diff from every checkin that includes username,svn
+1949,Wordpress Custom Options In Admin Area,wordpress
+1951,New products by category in Magento,magento
+1952,How do I create a branch in SVN?,svn
+1958,Why is IE7 rendering these differently?,wordpress
+1961,Avoiding too many configurations for a Visual Studio project,visual-studio
+1974,magento limiting number of returned items in product collection call,magento
+1975,How to enable mod_dav_svn in the root directory of a server?,apache
+1977,attribute select magento query,magento
+1980,Will Oracle retire 10gAS in favor of WebLogic?,oracle
+1981,Programmatically block screen saver in Mac OSX,osx
+1982,Magento grouped product options,magento
+1983,Subversion not updating working copy properly,svn
+1986,make AppleScript program that listens systemwide for shortcuts,osx
+1988,How to connect to Oracle from far Computer in LAN ?,oracle
+1989,Disable and later enable all table indexes in Oracle,oracle
+1990,How do you explicitly animate a CALayer's backgroundColor?,cocoa
+1994,What's the best WordPress plugin for embedding/executing PHP code?,wordpress
+1996,Wordpress the_author_posts_link,wordpress
+1998,Seeing a combined diff of many commits in subversion ?,svn
+1999,Recommend good SVN layout for my project,svn
