@@ -128,7 +128,7 @@ class CLAD(object):
             )
 
             if config.gt == True:
-                self.clusters = km_pred
+                self.clusters = self.train_y
 
             labels = self.clusters.numpy()
             print(Counter(labels))

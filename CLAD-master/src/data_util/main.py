@@ -13,6 +13,8 @@ from .clinc_150 import clinc_150_Dataset
 from .sst import sst_Dataset
 from .rostd import ROSTD_Dataset
 from .snips import snips_Dataset
+from .bank import bank_Dataset
+from .stack import stack_Dataset
 from config import implemented_datasets, normal_class_index_list
 import pdb
 
@@ -72,6 +74,16 @@ def load_dataset(dataset_name, data_path):
     elif dataset_name == 'snips':
         print('loading snipts dataset ...')
         dataset = snips_Dataset()
+
+    elif dataset_name == 'banking':
+        print('loading snipts dataset ...')
+        dataset = bank_Dataset()
+
+    elif dataset_name == 'stackoverflow':
+        print('loading snipts dataset ...')
+        dataset = stack_Dataset()
+
+
 
     return dataset
 

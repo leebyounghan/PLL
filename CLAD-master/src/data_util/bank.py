@@ -11,14 +11,14 @@ import pdb
 import config
 
 def bank_Dataset():
-    path = "/../../data/bank/seed_" + str(config.normal_class_index_list[0])
+    path = "/../../data/banking/seed_" + str(config.normal_class_index_list[0])
     print(path)
     cwd = os.getcwd()
     data_train = pd.read_csv(cwd + path + "/train.csv")
     test = pd.read_csv(cwd + path + '/test.csv')
-    test_in = test[test[0] != 'oos']
-    test_out = test[test[0] == 'oos']
-
+    test_in = test[test['label'] != 'oos']
+    test_out = test[test['label'] == 'oos']
+    
     dataset = {
         "train_x":
         data_train['text'].tolist(),

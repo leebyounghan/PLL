@@ -151,8 +151,6 @@ class Bert_Model_mlm(nn.Module):
                             attention_mask,
                             output_hidden_states=True,
                             output_attentions=True)
-        # hiden_state = self.activation(outputs.hidden_states[-1][:,0,:]) # for cls
-        #         hiden_state = outputs.hidden_states[-1].mean(1) #for cheak mlm
 
         if config.pooling == "max":
             pooled_output = hiden_state = max_pooling(
@@ -164,7 +162,7 @@ class Bert_Model_mlm(nn.Module):
             pooled_output = hiden_state = self.activation(
                 outputs.hidden_states[-1][:, 0, :])
 
-        #pooled_output = self.dropout(pooled_output)
+            pooled_output = self.activation(self.dropout(pooled_output))
 
         if odin == 1:
             inputs = Variable(hiden_state, requires_grad=True)

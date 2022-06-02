@@ -59,7 +59,7 @@ image_datasets = ('mnist', 'gtsrb', 'cifar10', 'tiny_imagenet')
 rgb_datasets = ('gtsrb', 'cifar10', 'tiny_imagenet')
 
 implemented_datasets = ('swat', 'IMDB', 'reuters', 'news20', "agnews", "trec",
-                        "OOD", "clinc", "sst", 'rostd', 'snips')
+                        "OOD", "clinc", "sst", 'rostd', 'snips', 'banking', 'stackoverflow')
 # dataset to implement = 'wadi', 'newsgroups', 'imdb'
 implemented_nlp_embeddings = ('avg_bert', 's_bert', 'avg_glove',
                               'avg_fasttext')
