@@ -132,6 +132,8 @@ class CLAD(object):
 
             labels = self.clusters.numpy()
             print(Counter(labels))
+            print('\n')
+            print(Counter(km_pred.numpy()))
             #config.normal_distance = distance
             self.bertmlm = cluster_model.cm.encoder.encoder
             #  din, dout, dtrain = get_scores_one_cluster(emb_normal.numpy(),

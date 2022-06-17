@@ -1,0 +1,1077 @@
+,text,category,label
+0,tell me time of alarm you set,alarm_query,alarm_query
+1,list all of my alarms,alarm_query,alarm_query
+2,alarm settings,alarm_query,alarm_query
+3,what alarms are set for today,alarm_query,alarm_query
+4,please see see for me the alarms that you have set sunday morning,alarm_query,alarm_query
+5,tell me when the next alarms are for,alarm_query,alarm_query
+6,please tell me what alarms are on,alarm_query,alarm_query
+7,please list all my alarms,alarm_query,alarm_query
+8,what alarms are set right now,alarm_query,alarm_query
+9,check whether i have set any alarms for tomorrow morning,alarm_query,alarm_query
+10,tell me about my alarms,alarm_query,alarm_query
+11,do i have any alarms set,alarm_query,alarm_query
+12,is there an alarm at four am,alarm_query,alarm_query
+13,show me my alarms,alarm_query,alarm_query
+14,what alarm time had you set,alarm_query,alarm_query
+15,can you tell me what alarms i have set,alarm_query,alarm_query
+16,please let me know the morning alarm time kept for weekends,alarm_query,alarm_query
+17,what time is the alarm set for tomorrow,alarm_query,alarm_query
+18,may i know the about alarm you set,alarm_query,alarm_query
+19,disable the alarm which is set at nine thirty pm,alarm_remove,alarm_remove
+20,delete scheduled alarm,alarm_remove,alarm_remove
+21,turn off my first alarm,alarm_remove,alarm_remove
+22,please cancel all alarms for tomorrow,alarm_remove,alarm_remove
+23,please delete the wednesday evening alarm,alarm_remove,alarm_remove
+24,please delete my morning alarm,alarm_remove,alarm_remove
+25,remove all of my alarms,alarm_remove,alarm_remove
+26,cancel alarm,alarm_remove,alarm_remove
+27,delete the alarm i just set,alarm_remove,alarm_remove
+28,could you please remove the set of alarms between eight and nine,alarm_remove,alarm_remove
+29,please turn off the alarm,alarm_remove,alarm_remove
+30,set an alarm for nine am,alarm_set,alarm_set
+31,change alarm to start at midnight,alarm_set,alarm_set
+32,alarm ten am,alarm_set,alarm_set
+33,set an alarm for me for tomorrow,alarm_set,alarm_set
+34,set an alarm for twelve,alarm_set,alarm_set
+35,set a timer at five am seven days a week,alarm_set,alarm_set
+36,i need to set an alarm for next friday at noon,alarm_set,alarm_set
+37,please sound an alarm three hours before a scheduled event,alarm_set,alarm_set
+38,can you set an alarm for seven am,alarm_set,alarm_set
+39,alert me at ten am please,alarm_set,alarm_set
+40,set the alarm to seven am for work,alarm_set,alarm_set
+41,wake up time,alarm_set,alarm_set
+42,change my alarms to mountain time,alarm_set,alarm_set
+43,set up each day an alarm at ten time for my meal,alarm_set,alarm_set
+44,please set an alarm clock for my next meeting with the team at three pm next friday,alarm_set,alarm_set
+45,set my alarm for six am,alarm_set,alarm_set
+46,set an alarm for this eight hundred pm this evening,alarm_set,alarm_set
+47,set alarm at six thirty am,alarm_set,alarm_set
+48,make me a wake up alarm for eight forty five am,alarm_set,alarm_set
+49,could you please lower the tone,audio_volume_down,audio_volume_down
+50,please talk softer,audio_volume_down,audio_volume_down
+51,lower the speak volume,audio_volume_down,audio_volume_down
+52,it is too loud decrease the volume,audio_volume_down,audio_volume_down
+53,Turn down volume,audio_volume_down,audio_volume_down
+54,reduce volume,audio_volume_down,audio_volume_down
+55,lower the volume to twenty,audio_volume_down,audio_volume_down
+56,lower volume by fifty percent,audio_volume_down,audio_volume_down
+57,quiet please,audio_volume_mute,audio_volume_mute
+58,mute sound from speakers,audio_volume_mute,audio_volume_mute
+59,please mute for five minutes,audio_volume_mute,audio_volume_mute
+60,mute my speakers for a minute here i need to make a call,audio_volume_mute,audio_volume_mute
+61,mute speaker,audio_volume_mute,audio_volume_mute
+62,silence volume on speakers,audio_volume_mute,audio_volume_mute
+63,turn off media volume,audio_volume_mute,audio_volume_mute
+64,i need you to be quiet until tomorrow,audio_volume_mute,audio_volume_mute
+65,go to sleep,audio_volume_mute,audio_volume_mute
+66,no notifications for five minutes,audio_volume_mute,audio_volume_mute
+67,turn off the sound,audio_volume_mute,audio_volume_mute
+68,mute the music,audio_volume_mute,audio_volume_mute
+69,pause for ten seconds,audio_volume_mute,audio_volume_mute
+70,set mute for twenty minutes,audio_volume_mute,audio_volume_mute
+71,i need to mute the speaker,audio_volume_mute,audio_volume_mute
+72,could you speak a little more softly,audio_volume_up,audio_volume_up
+73,turn it up,audio_volume_up,audio_volume_up
+74,just increase the volume a little,audio_volume_up,audio_volume_up
+75,olly turn the volume up,audio_volume_up,audio_volume_up
+76,raise volume to level seven on music player,audio_volume_up,audio_volume_up
+77,i want the speakers turned up high,audio_volume_up,audio_volume_up
+78,rise volume,audio_volume_up,audio_volume_up
+79,please increase the volume of the music hips don't lie,audio_volume_up,audio_volume_up
+80,raise the volume of my music player by fifty percent,audio_volume_up,audio_volume_up
+81,speak as loud as you can,audio_volume_up,audio_volume_up
+82,increase volume please,audio_volume_up,audio_volume_up
+83,make this a bit louder,audio_volume_up,audio_volume_up
+84,increase volume to fifty percent,audio_volume_up,audio_volume_up
+85,when is the school dance junction marked,calendar_query,calendar_query
+86,what is my schedule for tomorrow,calendar_query,calendar_query
+87,am i available at five pm on sunday,calendar_query,calendar_query
+88,do i have any notifications from social media,calendar_query,calendar_query
+89,what do i have scheduled for next week,calendar_query,calendar_query
+90,tell me the meetings i have for the week,calendar_query,calendar_query
+91,do i have any openings on my schedule for tomorrow,calendar_query,calendar_query
+92,do i need to pick up the kids from anything today,calendar_query,calendar_query
+93,is there anything i need to be aware of,calendar_query,calendar_query
+94,do i have any undone tasks,calendar_query,calendar_query
+95,what is left for today,calendar_query,calendar_query
+96,list out my upcoming events,calendar_query,calendar_query
+97,one thousand two hundred and thirty pm already you will have a meeting in ten mins,calendar_query,calendar_query
+98,is the meeting scheduled for tomorrow,calendar_query,calendar_query
+99,when the birthday will be,calendar_query,calendar_query
+100,when is my next appointment and who do i contact to reschedule,calendar_query,calendar_query
+101,what is the plan for tonight,calendar_query,calendar_query
+102,what day of the week is my birthday this year,calendar_query,calendar_query
+103,what is my schedule for june fourteenth two thousand and seventeen,calendar_query,calendar_query
+104,remove the next event on my calendar,calendar_remove,oos
+105,format the calendar,calendar_remove,oos
+106,remove the board meeting and reschedule for next wednesday,calendar_remove,oos
+107,delete event from mine,calendar_remove,oos
+108,cancel the event valentine's day from the calendar,calendar_remove,oos
+109,remove my meeting today at one pm,calendar_remove,oos
+110,i no longer need to see the doctor can that event be removed,calendar_remove,oos
+111,please remove march nineteenth's scheduled event,calendar_remove,oos
+112,make sure there is no events on my calendar,calendar_remove,oos
+113,remove all the events on my calendar,calendar_remove,oos
+114,delete my meeting event for march nineteen at one pm,calendar_remove,oos
+115,remove upcoming task,calendar_remove,oos
+116,remove emma's birthday from events,calendar_remove,oos
+117,in my calendar delete all of my golf events for the current month,calendar_remove,oos
+118,erase calendar events,calendar_remove,oos
+119,take lunch meeting off my calendar,calendar_remove,oos
+120,delete all my events for tomorrow,calendar_remove,oos
+121,delete the party on june first from my calendar,calendar_remove,oos
+122,can to please clear my calendar of all events,calendar_remove,oos
+123,set a reminder for tomorrow evening,calendar_set,calendar_set
+124,notify me when the event is going to take place,calendar_set,calendar_set
+125,add jim and jerry to event,calendar_set,calendar_set
+126,make a repeating reminder for my yoga practice every day at noon,calendar_set,calendar_set
+127,i have a meeting with sean at four pm on wednesday can you remind me,calendar_set,calendar_set
+128,create an event gym day on monday and set it to repeat,calendar_set,calendar_set
+129,blot me all the phone calls planned for the morning of twenty three march,calendar_set,calendar_set
+130,can you remind me about my meeting tomorrow,calendar_set,calendar_set
+131,repeat reminder for my schedule for christmas,calendar_set,calendar_set
+132,remind me to call my grandma this Sunday,calendar_set,calendar_set
+133,next week my uncle birthday,calendar_set,calendar_set
+134,add running to my calendar for thursday,calendar_set,calendar_set
+135,i would like to attend church every sunday at eleven am,calendar_set,calendar_set
+136,see if john is available for a meeting on Monday,calendar_set,calendar_set
+137,remind me about the meeting,calendar_set,calendar_set
+138,set the alarm in my calendar events before five mins,calendar_set,calendar_set
+139,activate a one week notification before my anniversary please,calendar_set,calendar_set
+140,could you please schedule a meeting with this person,calendar_set,calendar_set
+141,i have a meeting with al on march twenty first at ten,calendar_set,calendar_set
+142,help me make brownies,cooking_recipe,cooking_recipe
+143,crabmeat recipe,cooking_recipe,cooking_recipe
+144,it should spices,cooking_recipe,cooking_recipe
+145,tell how vegetable is cooked,cooking_recipe,cooking_recipe
+146,learn to cut potatoes correctly,cooking_recipe,cooking_recipe
+147,how to cook that meal,cooking_recipe,cooking_recipe
+148,can i get a recipe for tuna,cooking_recipe,cooking_recipe
+149,please cook me a hamburger,cooking_recipe,cooking_recipe
+150,how to cook yellow rice,cooking_recipe,cooking_recipe
+151,i need to know how to make stuffed peppers,cooking_recipe,cooking_recipe
+152,how can i cook pasta,cooking_recipe,cooking_recipe
+153,look for different recipes,cooking_recipe,cooking_recipe
+154,what ingredient can be used instead of saffron,cooking_recipe,cooking_recipe
+155,find apple pie recipe,cooking_recipe,cooking_recipe
+156,do i have enough ingredients in my refrigerator,cooking_recipe,cooking_recipe
+157,search for your favorite meal,cooking_recipe,cooking_recipe
+158,tell me the preparation method for chicken sixty five,cooking_recipe,cooking_recipe
+159,i would like it to be able to find recipes i have,cooking_recipe,cooking_recipe
+160,why do people use avocado seeds,cooking_recipe,cooking_recipe
+161,if it's eight pm on the east coast what time is it in sacramento california,datetime_convert,oos
+162,if it is four pm in missouri what time is it in london,datetime_convert,oos
+163,can you please change the time zone to us,datetime_convert,oos
+164,which time zone are we in please change to current,datetime_convert,oos
+165,please change time zone to canada,datetime_convert,oos
+166,what time will it be locally at nine am bangalore india time,datetime_convert,oos
+167,it is ten am in eastern standard time what time it is now it pacific standard time,datetime_convert,oos
+168,change mountain standard to pacific,datetime_convert,oos
+169,please tell me the date,datetime_query,datetime_query
+170,date today,datetime_query,datetime_query
+171,what is today,datetime_query,datetime_query
+172,what is the time in geneva,datetime_query,datetime_query
+173,let me know the time,datetime_query,datetime_query
+174,new york time please,datetime_query,datetime_query
+175,what is the time difference between here and dakar,datetime_query,datetime_query
+176,let me know the time in india,datetime_query,datetime_query
+177,tell me the time in this time zone,datetime_query,datetime_query
+178,which date is on next monday,datetime_query,datetime_query
+179,tell me what time it is in dallas texas,datetime_query,datetime_query
+180,what time is it in the other time zones,datetime_query,datetime_query
+181,hey what's the current time in austin,datetime_query,datetime_query
+182,hey what is the time,datetime_query,datetime_query
+183,could you tell me what time it is,datetime_query,datetime_query
+184,what day of the week does the next holiday fall on,datetime_query,datetime_query
+185,august fifteenth is what day of the week,datetime_query,datetime_query
+186,can you tell me the date today,datetime_query,datetime_query
+187,hey what's today's date,datetime_query,datetime_query
+188,add dan's email,email_addcontact,email_addcontact
+189,add contacts n mail,email_addcontact,email_addcontact
+190,enter atdfd@yahoo dot com into my contact list,email_addcontact,email_addcontact
+191,get apahelp@yahoo dot com in my contacts,email_addcontact,email_addcontact
+192,save the email to my contact,email_addcontact,email_addcontact
+193,please add johndoe@yahoocom to my contact list,email_addcontact,email_addcontact
+194,add this new email,email_addcontact,email_addcontact
+195,add work email address,email_addcontact,email_addcontact
+196,are there any new emails from name,email_query,email_query
+197,give me recent emails,email_query,email_query
+198,refresh email,email_query,email_query
+199,i need to know all of the emails from contact pertaining to subject,email_query,email_query
+200,open email,email_query,email_query
+201,who has sent me an email in the past week,email_query,email_query
+202,check emails for unread emails from mom,email_query,email_query
+203,did any emails come for me in the last five hours,email_query,email_query
+204,report what is new in my email inbox please,email_query,email_query
+205,what is the subject and who is the sender of my last email,email_query,email_query
+206,what did i tell susan in my last email,email_query,email_query
+207,show me all the emails received recently,email_query,email_query
+208,do i have any emails from jessica,email_query,email_query
+209,are there any recent unread emails,email_query,email_query
+210,do i have any new email from ryan,email_query,email_query
+211,carlos linux upgrade email,email_query,email_query
+212,my mail,email_query,email_query
+213,have i gotten any mail recently,email_query,email_query
+214,check emails,email_query,email_query
+215,what is sarah's number,email_querycontact,email_querycontact
+216,can you give me details on john,email_querycontact,email_querycontact
+217,have you responded my phone calls,email_querycontact,email_querycontact
+218,what is jeff's number,email_querycontact,email_querycontact
+219,how many contacts are there named john,email_querycontact,email_querycontact
+220,tell me the contact details of my brother,email_querycontact,email_querycontact
+221,show mobile number of john,email_querycontact,email_querycontact
+222,does contact mona has an email as well,email_querycontact,email_querycontact
+223,show number and contact email of rehan,email_querycontact,email_querycontact
+224,look up for the residential address of my team leader,email_querycontact,email_querycontact
+225,what is my wife's email,email_querycontact,email_querycontact
+226,select the contact,email_querycontact,email_querycontact
+227,is this my sisters cellphone number,email_querycontact,email_querycontact
+228,how old is mary s.,email_querycontact,email_querycontact
+229,did mom text me,email_querycontact,email_querycontact
+230,please let me know where david is travelling,email_querycontact,email_querycontact
+231,is hayden still living on turnpike lane,email_querycontact,email_querycontact
+232,add rebecca green to my list of favorite contacts,email_querycontact,email_querycontact
+233,what is jill's home phone number,email_querycontact,email_querycontact
+234,send a mail to whom to talk,email_sendemail,email_sendemail
+235,pull up kate's email and write that i will let her know,email_sendemail,email_sendemail
+236,please reply to my boss most recent email and say that the ppt will be ready in one hour maximum,email_sendemail,email_sendemail
+237,reply the email of charles with just thank you right now,email_sendemail,email_sendemail
+238,send new email to jana dot litt at gmail dot com,email_sendemail,email_sendemail
+239,hey please reply to last pawel's email,email_sendemail,email_sendemail
+240,send email to new email address,email_sendemail,email_sendemail
+241,send an email to my friend say birthday wishes,email_sendemail,email_sendemail
+242,send email to mom starting with the subject vacation,email_sendemail,email_sendemail
+243,jj.nzt@yahoo dot com,email_sendemail,email_sendemail
+244,email happy new year to john,email_sendemail,email_sendemail
+245,tell to joe's email that come to my house in this moment i am alone,email_sendemail,email_sendemail
+246,go to email and send message to,email_sendemail,email_sendemail
+247,email john smith,email_sendemail,email_sendemail
+248,start a new email to george brown,email_sendemail,email_sendemail
+249,send a replay email,email_sendemail,email_sendemail
+250,send reply to joe,email_sendemail,email_sendemail
+251,email tom the date and time of tomorrow's meeting,email_sendemail,email_sendemail
+252,add mail id subject content,email_sendemail,email_sendemail
+253,fantastic response.,general_affirm,oos
+254,yeap you've gotten my instructions perfectly.,general_affirm,oos
+255,yeah wonderful response.,general_affirm,oos
+256,yeah exact response to the command.,general_affirm,oos
+257,yeah perfect response to command.,general_affirm,oos
+258,yeah excellent.,general_affirm,oos
+259,yeah exactly.,general_affirm,oos
+260,perfect response to command.,general_affirm,oos
+261,yes you have got my instructions perfectly.,general_affirm,oos
+262,yeah you understood command correcly.,general_affirm,oos
+263,yeah wonderful response to command.,general_affirm,oos
+264,strongly agree.,general_affirm,oos
+265,yeap it is confirmed.,general_affirm,oos
+266,you got the command right.,general_affirm,oos
+267,yeah strongly agree.,general_affirm,oos
+268,yeah fantastic.,general_affirm,oos
+269,yes you've understood my instructions exactly.,general_affirm,oos
+270,yeap your understanding was confirmed.,general_affirm,oos
+271,yeah that is correct.,general_affirm,oos
+272,i would like you just stop it.,general_commandstop,general_commandstop
+273,will you please shut down.,general_commandstop,general_commandstop
+274,"olly that's enough, just stop it.",general_commandstop,general_commandstop
+275,olly can you stop it.,general_commandstop,general_commandstop
+276,olly please would you stop.,general_commandstop,general_commandstop
+277,please shut up.,general_commandstop,general_commandstop
+278,i like you cancel.,general_commandstop,general_commandstop
+279,will you just stop it please.,general_commandstop,general_commandstop
+280,would you cancel it please.,general_commandstop,general_commandstop
+281,olly can you shut down.,general_commandstop,general_commandstop
+282,"olly that is enough, just stop it.",general_commandstop,general_commandstop
+283,olly will you cancel please.,general_commandstop,general_commandstop
+284,will you stop.,general_commandstop,general_commandstop
+285,"that's all, cancel it.",general_commandstop,general_commandstop
+286,olly shut down please.,general_commandstop,general_commandstop
+287,olly can you just stop.,general_commandstop,general_commandstop
+288,will you cancel it.,general_commandstop,general_commandstop
+289,olly please can you shut up.,general_commandstop,general_commandstop
+290,olly i want you cancel.,general_commandstop,general_commandstop
+291,would you confirm the question.,general_confirm,general_confirm
+292,could you check my last question.,general_confirm,general_confirm
+293,will you check and confirm command please.,general_confirm,general_confirm
+294,please will you check it.,general_confirm,general_confirm
+295,could you check and confirm what i last said please.,general_confirm,general_confirm
+296,will you please check it.,general_confirm,general_confirm
+297,please can you confirm the question.,general_confirm,general_confirm
+298,check the details please.,general_confirm,general_confirm
+299,can you confirm it.,general_confirm,general_confirm
+300,please can you confirm it.,general_confirm,general_confirm
+301,can you check and confirm the question please.,general_confirm,general_confirm
+302,i like you check question please.,general_confirm,general_confirm
+303,did you get what just said correctly?,general_confirm,general_confirm
+304,did you get what said correctly?,general_confirm,general_confirm
+305,i like you to check and confirm what i said please.,general_confirm,general_confirm
+306,would you please confirm the instruction.,general_confirm,general_confirm
+307,check and confirm my last question please.,general_confirm,general_confirm
+308,will you check and confirm the instruction please.,general_confirm,general_confirm
+309,can you check last thing said please.,general_confirm,general_confirm
+310,"i would not mind, olly.",general_dontcare,oos
+311,wouldn't mind for any one.,general_dontcare,oos
+312,"does not matter for me, olly.",general_dontcare,oos
+313,"don't really bother, olly.",general_dontcare,oos
+314,"wouldn't really know, olly.",general_dontcare,oos
+315,"i have no idea about what to do, olly.",general_dontcare,oos
+316,i do not mind for whatever.,general_dontcare,oos
+317,"any one is good, olly.",general_dontcare,oos
+318,"it does not matter to me, olly.",general_dontcare,oos
+319,i would not mind to select any one.,general_dontcare,oos
+320,i do not really mind for whatever.,general_dontcare,oos
+321,this is unimportant for me.,general_dontcare,oos
+322,"i would not mind to select any one, olly.",general_dontcare,oos
+323,does not matter for me.,general_dontcare,oos
+324,any one is good to me.,general_dontcare,oos
+325,"this is unimportant, olly.",general_dontcare,oos
+326,wouldn't really mind for whatever.,general_dontcare,oos
+327,"have no idea regarding to what to select, olly.",general_dontcare,oos
+328,"does not matter, olly.",general_dontcare,oos
+329,would you clarify me on your answer further please.,general_explain,general_explain
+330,"s2, i can not understand that.",general_explain,general_explain
+331,your words is not so clear.,general_explain,general_explain
+332,"s1, explain further please.",general_explain,general_explain
+333,"s2, i am unclear about what you have just said.",general_explain,general_explain
+334,please will you clarify me more on that.,general_explain,general_explain
+335,will you rephrase me about your response once again please.,general_explain,general_explain
+336,again clarify me on your answers.,general_explain,general_explain
+337,again elaborate.,general_explain,general_explain
+338,couldn't understand what you just said now.,general_explain,general_explain
+339,can you again clarify what you've said please.,general_explain,general_explain
+340,i didn't get your response.,general_explain,general_explain
+341,"s1, could you please again rephrase me about what you said now.",general_explain,general_explain
+342,what you said now was not clear.,general_explain,general_explain
+343,can you explain once again.,general_explain,general_explain
+344,do not get this.,general_explain,general_explain
+345,"s1, explain me on your answer further please.",general_explain,general_explain
+346,"s2, i do not catch up with you.",general_explain,general_explain
+347,didn't understand what you said now.,general_explain,general_explain
+348,tell me random joke,general_joke,general_joke
+349,find me a joke related to baseball,general_joke,general_joke
+350,i need to be cheered up right now can you tell me a good joke,general_joke,general_joke
+351,today's jokes,general_joke,general_joke
+352,do you have a joke,general_joke,general_joke
+353,what's your favorite joke,general_joke,general_joke
+354,look for a joke,general_joke,general_joke
+355,do you know what a joke is,general_joke,general_joke
+356,i want a nerd joke,general_joke,general_joke
+357,what about this joke,general_joke,general_joke
+358,have any jokes,general_joke,general_joke
+359,joke please,general_joke,general_joke
+360,thanks but i think you don't understand this correctly.,general_negate,general_negate
+361,sorry but i think you've got that not right.,general_negate,general_negate
+362,i didn't say it.,general_negate,general_negate
+363,"shit, not right.",general_negate,general_negate
+364,i think it is not correct response.,general_negate,general_negate
+365,thanks but you have understood this wrongly.,general_negate,general_negate
+366,"wait, i think that's not the right answer.",general_negate,general_negate
+367,that wasn't right.,general_negate,general_negate
+368,"oops, you're not correct.",general_negate,general_negate
+369,"wait, you did not interpret command right.",general_negate,general_negate
+370,you have done a wrong thing.,general_negate,general_negate
+371,"wait, this is not the correct answer.",general_negate,general_negate
+372,thanks but i think you do not get me.,general_negate,general_negate
+373,"no, this is not what i am looking for.",general_negate,general_negate
+374,"uhh no, incorrect command.",general_negate,general_negate
+375,i think you don't get answer right.,general_negate,general_negate
+376,i think you did a task all wrong.,general_negate,general_negate
+377,"uh no, you did not understand what i am searching for.",general_negate,general_negate
+378,i am sorry but i think it was not the correct answer.,general_negate,general_negate
+379,"you are my hero, thank you very much, olly.",general_praise,oos
+380,"you have done it correctly thanks, olly.",general_praise,oos
+381,ah that's nice one.,general_praise,oos
+382,"you rock, thank you very much, olly.",general_praise,oos
+383,"fantastic job, you did well.",general_praise,oos
+384,"that's good, thanks.",general_praise,oos
+385,"appreciate your answers, olly.",general_praise,oos
+386,"you are my star, thank you so much, olly.",general_praise,oos
+387,"that was cool, i appreciate it.",general_praise,oos
+388,"fantastic job, you've done well, olly.",general_praise,oos
+389,"great work, you did well, olly.",general_praise,oos
+390,"that is cool, thanks, olly.",general_praise,oos
+391,"thank you for the response, olly.",general_praise,oos
+392,you've done it right.,general_praise,oos
+393,"well done, appreciated.",general_praise,oos
+394,"excellent work, you have done well.",general_praise,oos
+395,"awesome job, you did well.",general_praise,oos
+396,"it's great one, thank you very much.",general_praise,oos
+397,"it's helpful, appreciated.",general_praise,oos
+398,today i had a lunch with my longtime sweetheart play me a nice song to the mood,general_quirky,general_quirky
+399,what's on tv,general_quirky,general_quirky
+400,is the data prefers any problems in objects,general_quirky,general_quirky
+401,your salary,general_quirky,general_quirky
+402,overall day,general_quirky,general_quirky
+403,anything i need to know,general_quirky,general_quirky
+404,is mile marker sixty five where the hanging tree is located,general_quirky,general_quirky
+405,tell me what happens when we die,general_quirky,general_quirky
+406,what is your country,general_quirky,general_quirky
+407,do i need to spare washing my car today,general_quirky,general_quirky
+408,this brings some problems to us,general_quirky,general_quirky
+409,can you explain me the problems when the syria becomes more stronger than america,general_quirky,general_quirky
+410,you are chatbot,general_quirky,general_quirky
+411,how high is the quality of this stone,general_quirky,general_quirky
+412,can you please tell me who are you,general_quirky,general_quirky
+413,where did he was yesterday,general_quirky,general_quirky
+414,have you come across any new recipes,general_quirky,general_quirky
+415,how did your day go,general_quirky,general_quirky
+416,give me the product review from gamespot about the nintendo switch,general_quirky,general_quirky
+417,let's start over please.,general_repeat,general_repeat
+418,please say one more time again.,general_repeat,general_repeat
+419,i would like to hear that information spoken again.,general_repeat,general_repeat
+420,i would like to hear the last one spoken again.,general_repeat,general_repeat
+421,i'd like to hear the last spoke again.,general_repeat,general_repeat
+422,i need to hear what you've said again.,general_repeat,general_repeat
+423,retry please.,general_repeat,general_repeat
+424,will you try what i have just said one more time please.,general_repeat,general_repeat
+425,would you tell me one more again please.,general_repeat,general_repeat
+426,would you tell me once again.,general_repeat,general_repeat
+427,could you tell me the last one you just said again please.,general_repeat,general_repeat
+428,i want to hear that again.,general_repeat,general_repeat
+429,i want to hear it again.,general_repeat,general_repeat
+430,please could you tell me once more.,general_repeat,general_repeat
+431,can you try again please.,general_repeat,general_repeat
+432,say one more time again please.,general_repeat,general_repeat
+433,will you speak once again please.,general_repeat,general_repeat
+434,please say it once again.,general_repeat,general_repeat
+435,please tell me it once more.,general_repeat,general_repeat
+436,please activate my vacuum to clean the living room,iot_cleaning,iot_cleaning
+437,can you wake the roomba for the kitchen,iot_cleaning,iot_cleaning
+438,please have vacuum go for one hour,iot_cleaning,iot_cleaning
+439,activate the vacuum,iot_cleaning,iot_cleaning
+440,clean the sofa with the vacuum cleaner,iot_cleaning,iot_cleaning
+441,have the vacuum cleaner clean the room,iot_cleaning,iot_cleaning
+442,hurriedly activates my robot vacuum cleaner,iot_cleaning,iot_cleaning
+443,begin vacuum,iot_cleaning,iot_cleaning
+444,remove dust with vacuum cleaner,iot_cleaning,iot_cleaning
+445,start vacuum bot,iot_cleaning,iot_cleaning
+446,start my robot vacuum cleaner by ten to eleven am daily,iot_cleaning,iot_cleaning
+447,activate vacuum cleaner,iot_cleaning,iot_cleaning
+448,turn on the roomba,iot_cleaning,iot_cleaning
+449,begin vacuum cleaning,iot_cleaning,iot_cleaning
+450,please turn on my vacuum cleaner,iot_cleaning,iot_cleaning
+451,how do you activate the robot vacuum cleaner,iot_cleaning,iot_cleaning
+452,i would like some coffee now,iot_coffee,iot_coffee
+453,please make coffee at seven am,iot_coffee,iot_coffee
+454,make a cup of coffee,iot_coffee,iot_coffee
+455,start coffee at six am,iot_coffee,iot_coffee
+456,i want some coffee now,iot_coffee,iot_coffee
+457,get me some latte please,iot_coffee,iot_coffee
+458,prepare my morning coffee,iot_coffee,iot_coffee
+459,prepare some cups of coffee for us,iot_coffee,iot_coffee
+460,can you see to it that the coffee maker is ready with my filter coffee in approximately ten minutes from now,iot_coffee,iot_coffee
+461,i'd like a coffee now,iot_coffee,iot_coffee
+462,can you please turn on the coffee pot to make me coffee,iot_coffee,iot_coffee
+463,prepare coffee now,iot_coffee,iot_coffee
+464,can you get me a cup of coffee,iot_coffee,iot_coffee
+465,make a cup of coffee for me,iot_coffee,iot_coffee
+466,get a cup of coffee ready now,iot_coffee,iot_coffee
+467,coffee please,iot_coffee,iot_coffee
+468,make me a capuccino,iot_coffee,iot_coffee
+469,make me coffee at eight am,iot_coffee,iot_coffee
+470,put on a pot of coffee,iot_coffee,iot_coffee
+471,please make the lights natural,iot_hue_lightchange,oos
+472,lights to fifty percent,iot_hue_lightchange,oos
+473,can you change the light colors in the house,iot_hue_lightchange,oos
+474,turn the lights on party mode,iot_hue_lightchange,oos
+475,set the mood please,iot_hue_lightchange,oos
+476,change the light colors,iot_hue_lightchange,oos
+477,could you change the lights colour to green please,iot_hue_lightchange,oos
+478,make curser adjustable position,iot_hue_lightchange,oos
+479,change light color,iot_hue_lightchange,oos
+480,change the light color to blue,iot_hue_lightchange,oos
+481,alter the color of the lights at home,iot_hue_lightchange,oos
+482,change lights to blue,iot_hue_lightchange,oos
+483,can you change the living room lights to a softer color,iot_hue_lightchange,oos
+484,can you set the living room lights to pink,iot_hue_lightchange,oos
+485,change the color of the lights to blue,iot_hue_lightchange,oos
+486,let's have a warm glow in the front room,iot_hue_lightchange,oos
+487,switch lights to red tone,iot_hue_lightchange,oos
+488,change my light color to blue and please turn off the kitchen light,iot_hue_lightchange,oos
+489,all lights colour to blue please,iot_hue_lightchange,oos
+490,dim the lights at the living room,iot_hue_lightdim,iot_hue_lightdim
+491,lower the light intensity,iot_hue_lightdim,iot_hue_lightdim
+492,hi can you please turn lower the lights,iot_hue_lightdim,iot_hue_lightdim
+493,dim the lights please,iot_hue_lightdim,iot_hue_lightdim
+494,please turn down the lights,iot_hue_lightdim,iot_hue_lightdim
+495,lower the lights,iot_hue_lightdim,iot_hue_lightdim
+496,lower the lights in bedroom two,iot_hue_lightdim,iot_hue_lightdim
+497,i want the room to be less bright,iot_hue_lightdim,iot_hue_lightdim
+498,hey olly make the lights a little dimmer,iot_hue_lightdim,iot_hue_lightdim
+499,light is too much,iot_hue_lightdim,iot_hue_lightdim
+500,reduce brightness,iot_hue_lightdim,iot_hue_lightdim
+501,dim the overhead lights a tad,iot_hue_lightdim,iot_hue_lightdim
+502,switch off main light,iot_hue_lightoff,iot_hue_lightoff
+503,off all the lights on the right side,iot_hue_lightoff,iot_hue_lightoff
+504,turn off lights in bathroom,iot_hue_lightoff,iot_hue_lightoff
+505,bedroom lights off now,iot_hue_lightoff,iot_hue_lightoff
+506,turn off the lights in the bathroom,iot_hue_lightoff,iot_hue_lightoff
+507,please turn off the lights in the kitchen,iot_hue_lightoff,iot_hue_lightoff
+508,turn off the room light,iot_hue_lightoff,iot_hue_lightoff
+509,power off the current,iot_hue_lightoff,iot_hue_lightoff
+510,turn off lights of kitchen,iot_hue_lightoff,iot_hue_lightoff
+511,by main power off,iot_hue_lightoff,iot_hue_lightoff
+512,turn off the upstairs bathroom light,iot_hue_lightoff,iot_hue_lightoff
+513,please turn off my patio lights,iot_hue_lightoff,iot_hue_lightoff
+514,turn the lights off please,iot_hue_lightoff,iot_hue_lightoff
+515,can you make sure the kitchen light is off,iot_hue_lightoff,iot_hue_lightoff
+516,could you turn the light off,iot_hue_lightoff,iot_hue_lightoff
+517,turn the living room's light off,iot_hue_lightoff,iot_hue_lightoff
+518,switch off the lights,iot_hue_lightoff,iot_hue_lightoff
+519,can you turn off my desk lamp,iot_hue_lightoff,iot_hue_lightoff
+520,turn the left light off,iot_hue_lightoff,iot_hue_lightoff
+521,please turn on all lights,iot_hue_lighton,oos
+522,please turn on the lights,iot_hue_lighton,oos
+523,it's dark in the living room,iot_hue_lighton,oos
+524,light up,iot_hue_lightup,oos
+525,lighten the light,iot_hue_lightup,oos
+526,i need the lights in here to be turned up to seven,iot_hue_lightup,oos
+527,increase brightness by twenty percent,iot_hue_lightup,oos
+528,increase the light in the room,iot_hue_lightup,oos
+529,can you turn up the lights,iot_hue_lightup,oos
+530,i would like all the lights on when i enter,iot_hue_lightup,oos
+531,please arrange to make all lights to show brighter,iot_hue_lightup,oos
+532,brighten living room lights,iot_hue_lightup,oos
+533,raise all the lights on,iot_hue_lightup,oos
+534,raise the lights,iot_hue_lightup,oos
+535,brighten the light at seventy percent,iot_hue_lightup,oos
+536,increase,iot_hue_lightup,oos
+537,brighten the lights,iot_hue_lightup,oos
+538,deactive the socket,iot_wemo_off,iot_wemo_off
+539,turn off the rice cooker socket,iot_wemo_off,iot_wemo_off
+540,power off wemo plug socket,iot_wemo_off,iot_wemo_off
+541,please switch off on the wemo plug socket,iot_wemo_off,iot_wemo_off
+542,shut the smart socket down,iot_wemo_off,iot_wemo_off
+543,i do not want to use the socket anymore,iot_wemo_off,iot_wemo_off
+544,turn off my smart plug in thirty minutes,iot_wemo_off,iot_wemo_off
+545,turn off wifi when you leave home to save power,iot_wemo_off,iot_wemo_off
+546,please turn off my smart plug socket,iot_wemo_off,iot_wemo_off
+547,turn on the wemo plug socket to connect my charger to it,iot_wemo_on,iot_wemo_on
+548,turn on the plug,iot_wemo_on,iot_wemo_on
+549,on all the button on dashboard,iot_wemo_on,iot_wemo_on
+550,toggle wemo plug socket on,iot_wemo_on,iot_wemo_on
+551,wemo on,iot_wemo_on,iot_wemo_on
+552,start new smart socket,iot_wemo_on,iot_wemo_on
+553,make the wemo go on,iot_wemo_on,iot_wemo_on
+554,create a list of monthly groceries to be bought,lists_createoradd,lists_createoradd
+555,create a list of books to be ordered,lists_createoradd,lists_createoradd
+556,create a blank list,lists_createoradd,lists_createoradd
+557,add to list,lists_createoradd,lists_createoradd
+558,add these documents to the things i need to travel with,lists_createoradd,lists_createoradd
+559,start a new list,lists_createoradd,lists_createoradd
+560,create a new to do list,lists_createoradd,lists_createoradd
+561,search the item,lists_createoradd,lists_createoradd
+562,create a new shopping list,lists_createoradd,lists_createoradd
+563,start new list,lists_createoradd,lists_createoradd
+564,i need to set up a new list,lists_createoradd,lists_createoradd
+565,remind me to buy jeans on my shopping list,lists_createoradd,lists_createoradd
+566,add cereal to my shopping list,lists_createoradd,lists_createoradd
+567,i need to make a list,lists_createoradd,lists_createoradd
+568,please add item to list,lists_createoradd,lists_createoradd
+569,make a new list of dog breeds,lists_createoradd,lists_createoradd
+570,add item,lists_createoradd,lists_createoradd
+571,make a catalogue,lists_createoradd,lists_createoradd
+572,put this on my list,lists_createoradd,lists_createoradd
+573,open google keep,lists_query,oos
+574,what is the list type,lists_query,oos
+575,what list did i make today,lists_query,oos
+576,did i put toothpaste on my pick up list,lists_query,oos
+577,please show me lists,lists_query,oos
+578,groceries list,lists_query,oos
+579,tell me my lists,lists_query,oos
+580,how many items are on my list,lists_query,oos
+581,tell me the names on the list,lists_query,oos
+582,show the list that are available with numbers,lists_query,oos
+583,please tell me what lists i have made,lists_query,oos
+584,most viewed list,lists_query,oos
+585,what did i put down already on the walmart list,lists_query,oos
+586,can i see my lists for today,lists_query,oos
+587,is there anything on my list today,lists_query,oos
+588,what open lists do i have,lists_query,oos
+589,what is on my playlist,lists_query,oos
+590,what's on the list,lists_query,oos
+591,whats the schedule for today,lists_query,oos
+592,can you remove this item from the list,lists_remove,lists_remove
+593,delete last entry,lists_remove,lists_remove
+594,remove books from list,lists_remove,lists_remove
+595,please remove my list of favorite albums,lists_remove,lists_remove
+596,please delete what i just typed,lists_remove,lists_remove
+597,take bread out from the shopping list,lists_remove,lists_remove
+598,change that off the list,lists_remove,lists_remove
+599,remove the list of apps which started with letter a,lists_remove,lists_remove
+600,remove this from the list,lists_remove,lists_remove
+601,get rid of peas,lists_remove,lists_remove
+602,remove item three from the list,lists_remove,lists_remove
+603,take grocery buying off of the list,lists_remove,lists_remove
+604,i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon wishlist,lists_remove,lists_remove
+605,i want to remove apples from list,lists_remove,lists_remove
+606,please remove this item from the list,lists_remove,lists_remove
+607,delete item,lists_remove,lists_remove
+608,remove item four,lists_remove,lists_remove
+609,get rid of mike stein from contacts list,lists_remove,lists_remove
+610,delete my grocery list in my notes,lists_remove,lists_remove
+611,save this song in my favorites,music_likeness,music_likeness
+612,please rate this song five stars please,music_likeness,music_likeness
+613,i like alt rock music,music_likeness,music_likeness
+614,add song to running list,music_likeness,music_likeness
+615,i like to be it,music_likeness,music_likeness
+616,add this channel to pandora,music_likeness,music_likeness
+617,this song should be on my playlist,music_likeness,music_likeness
+618,i like it,music_likeness,music_likeness
+619,add this song to favorites playlist,music_likeness,music_likeness
+620,i favorite singer is arijit singh find his voice on radio,music_likeness,music_likeness
+621,i really enjoy this song,music_likeness,music_likeness
+622,i'd like you to remember that i like this song,music_likeness,music_likeness
+623,what is in my favorites music folder,music_likeness,music_likeness
+624,please save the current song to favorites,music_likeness,music_likeness
+625,all i ever want to hear is rap,music_likeness,music_likeness
+626,the song you are playing is amazing,music_likeness,music_likeness
+627,please thumbs up this song,music_likeness,music_likeness
+628,remember that this song is good but too slow to exercise to,music_likeness,music_likeness
+629,who is the song writer,music_query,music_query
+630,please give me detail of o zaalima song,music_query,music_query
+631,give me the details on elton john,music_query,music_query
+632,what movie is this song from,music_query,music_query
+633,when did pop it like it's hot come out,music_query,music_query
+634,what is the name of the singer,music_query,music_query
+635,who is singing this song,music_query,music_query
+636,i want to know what song has the phrase stairway to heaven in it,music_query,music_query
+637,where can i find this song,music_query,music_query
+638,song info,music_query,music_query
+639,what list is available for my favorite music from ed sheeran,music_query,music_query
+640,who is this,music_query,music_query
+641,list of playback of ar rahman collections,music_query,music_query
+642,what music is this,music_query,music_query
+643,what music service has some soul music i can listen to,music_query,music_query
+644,which songs do i listen to most,music_query,music_query
+645,can you locate some gospel music for me,music_query,music_query
+646,tell me the name of this music,music_query,music_query
+647,music traking,music_query,music_query
+648,shuffle this playlist,music_settings,oos
+649,repeat this song when it ends,music_settings,oos
+650,cut the songs in this musics,music_settings,oos
+651,repeat previous song,music_settings,oos
+652,please repeat that music again of akon,music_settings,oos
+653,repeat this song,music_settings,oos
+654,repeat same song for ten times,music_settings,oos
+655,add newscast time to daily schedule,news_query,news_query
+656,what were the cities affected by the earthquake,news_query,news_query
+657,head lines today from news,news_query,news_query
+658,what is the seattle city council doing about homelessness,news_query,news_query
+659,find me any news from so clean the last six hours,news_query,news_query
+660,what is the latest headline news from this newsource,news_query,news_query
+661,could you please find me the latest news from a source that i do not usually go to,news_query,news_query
+662,please keep tabs on how the presidential debates are going,news_query,news_query
+663,what's happening around the world,news_query,news_query
+664,i want to know everything that breaks about the dam breaking in california,news_query,news_query
+665,what is the latest news about obamacare,news_query,news_query
+666,show news of migration,news_query,news_query
+667,find new trump articles but not from fox news,news_query,news_query
+668,what's the latest news from xinhua,news_query,news_query
+669,find me info on cars,news_query,news_query
+670,Show me news from cnn,news_query,news_query
+671,what is the current state of brexit negotiations,news_query,news_query
+672,fast me the news of academy awards,news_query,news_query
+673,i want the news about academy awards,news_query,news_query
+674,i want to hear more audiobook,play_audiobook,play_audiobook
+675,pause resume,play_audiobook,play_audiobook
+676,resume my audio book from karl pilkington,play_audiobook,play_audiobook
+677,book please,play_audiobook,play_audiobook
+678,start playing american gods where i last stopped,play_audiobook,play_audiobook
+679,play from my last session of joes book,play_audiobook,play_audiobook
+680,open audio book history of rome,play_audiobook,play_audiobook
+681,start audiobook the time traveller,play_audiobook,play_audiobook
+682,resume animal farm,play_audiobook,play_audiobook
+683,can you play file,play_audiobook,play_audiobook
+684,audio,play_audiobook,play_audiobook
+685,start from my last session of joes book,play_audiobook,play_audiobook
+686,play from this point from this audiobook,play_audiobook,play_audiobook
+687,resume my audiobook where we paused last,play_audiobook,play_audiobook
+688,resume the last kingdom for me,play_audiobook,play_audiobook
+689,end pause on audio book history of rome,play_audiobook,play_audiobook
+690,i want to finish listening to the book one thousand nine hundred and eighty four from where i left off,play_audiobook,play_audiobook
+691,keep reading,play_audiobook,play_audiobook
+692,can you play my favorite audio book of tarzan,play_audiobook,play_audiobook
+693,play for me the game temple run,play_game,play_game
+694,i want to play solitare with you,play_game,play_game
+695,can we play twenty questions,play_game,play_game
+696,give me a company for playing football,play_game,play_game
+697,my games to play in my phones,play_game,play_game
+698,let's play,play_game,play_game
+699,play tennis for me,play_game,play_game
+700,lets play poker,play_game,play_game
+701,anyone for tennis,play_game,play_game
+702,play pong against me,play_game,play_game
+703,play solitaire,play_game,play_game
+704,we should play nfs at high speed,play_game,play_game
+705,can we play a game of hangman,play_game,play_game
+706,do you want to play monopoly with me,play_game,play_game
+707,bring up papa pear saga,play_game,play_game
+708,play checkers with me,play_game,play_game
+709,fight me in street fighter,play_game,play_game
+710,paper scissors or stone,play_game,play_game
+711,start poker game with me,play_game,play_game
+712,play music i have liked,play_music,play_music
+713,i would like to hear the theme song to this is us,play_music,play_music
+714,play the list from my favorites,play_music,play_music
+715,put poker face by lady gaga next in the play queue,play_music,play_music
+716,turn on the tunes,play_music,play_music
+717,rock,play_music,play_music
+718,play jumper by third eye blind,play_music,play_music
+719,play music playlist,play_music,play_music
+720,please turn on my music,play_music,play_music
+721,play my rap playlist,play_music,play_music
+722,after this song play atmosphere,play_music,play_music
+723,play true love next,play_music,play_music
+724,play hip hop songs,play_music,play_music
+725,hey play crazy by britney spears,play_music,play_music
+726,play marvin gaye i want you,play_music,play_music
+727,play tonic,play_music,play_music
+728,play jingle bells next,play_music,play_music
+729,open jazz,play_music,play_music
+730,play all third day,play_music,play_music
+731,play fishing podcasts that are favorited,play_podcasts,play_podcasts
+732,play podcast for the philadelphia eagles content,play_podcasts,play_podcasts
+733,play me the new podcast from npr,play_podcasts,play_podcasts
+734,keep playing the episodes in order,play_podcasts,play_podcasts
+735,play next episode,play_podcasts,play_podcasts
+736,play my play list,play_podcasts,play_podcasts
+737,play favorites listed in podcasts starting with first one,play_podcasts,play_podcasts
+738,play previous episode,play_podcasts,play_podcasts
+739,play my favourite podcasts,play_podcasts,play_podcasts
+740,get the next episode,play_podcasts,play_podcasts
+741,please start the next podcast episode,play_podcasts,play_podcasts
+742,please play next episode of podcast,play_podcasts,play_podcasts
+743,show me podcasts,play_podcasts,play_podcasts
+744,can you play back to december,play_podcasts,play_podcasts
+745,can you please download my podcast file available in internet and play it once,play_podcasts,play_podcasts
+746,skip this episode,play_podcasts,play_podcasts
+747,skip this one,play_podcasts,play_podcasts
+748,what are my top played podcasts,play_podcasts,play_podcasts
+749,go back to previous episode of podcast,play_podcasts,play_podcasts
+750,play radia,play_radio,oos
+751,play nine hundred and seventy one,play_radio,oos
+752,play the radio,play_radio,oos
+753,turn on the local radio,play_radio,oos
+754,please turn on the sean hannity show on am,play_radio,oos
+755,play national public radio,play_radio,oos
+756,play one thousand and thirty seven fm,play_radio,oos
+757,show me upcoming programmes on one hundred and five point one,play_radio,oos
+758,load sirius and play a rock and roll show,play_radio,oos
+759,tune into the nearest english fm station,play_radio,oos
+760,please play some songs for kids,play_radio,oos
+761,find joel osteen's broadcast on sirius,play_radio,oos
+762,please go to the local sports talk show on the radio,play_radio,oos
+763,play alex jones in radio,play_radio,oos
+764,play radio javan,play_radio,oos
+765,press play on the radio,play_radio,oos
+766,play my rock station on pandora,play_radio,oos
+767,play music radio for me,play_radio,oos
+768,play me a radio channel for trance music,play_radio,oos
+769,what is the most current exchange rate in china,qa_currency,qa_currency
+770,if i have five dollars how many rupies is that,qa_currency,qa_currency
+771,how much is dollars american worth in yen,qa_currency,qa_currency
+772,convert euros to dollars,qa_currency,qa_currency
+773,how much is ten dollars in euros,qa_currency,qa_currency
+774,how much is b. p. in u. s. d.,qa_currency,qa_currency
+775,what's the value of the euro relative to nzd,qa_currency,qa_currency
+776,exchange rate of euro with dollar,qa_currency,qa_currency
+777,how much money in us would i need to have a thousand pesos,qa_currency,qa_currency
+778,u. s. d. to g. b. p.,qa_currency,qa_currency
+779,i have ten us dollars how many canadian dollars do i have,qa_currency,qa_currency
+780,how much is the us dollar worth in canada,qa_currency,qa_currency
+781,what is the exchange rate between the us and canada,qa_currency,qa_currency
+782,how much indian rupees per u. s. d. today,qa_currency,qa_currency
+783,how many g. b. p. can i get for one dollar,qa_currency,qa_currency
+784,give me the exchange rate for dollar in euros,qa_currency,qa_currency
+785,how much australian dollars one can buy for one pound sterling,qa_currency,qa_currency
+786,and the pound is doing how badly against the euro,qa_currency,qa_currency
+787,what is the exchange rate between money i'm the united states and switzerland,qa_currency,qa_currency
+788,please define forensic,qa_definition,oos
+789,tell about the origin of the word evolution,qa_definition,oos
+790,what's the definition of diverse,qa_definition,oos
+791,what is love,qa_definition,oos
+792,what is a trebuchet,qa_definition,oos
+793,what do you know about the statue of liberty,qa_definition,oos
+794,google definition for me,qa_definition,oos
+795,Define economics,qa_definition,oos
+796,what does h2o stand for,qa_definition,oos
+797,meaning of word,qa_definition,oos
+798,please tell me the definition of home,qa_definition,oos
+799,how would you define a car,qa_definition,oos
+800,look up animal and give me the definition,qa_definition,oos
+801,describe a rotor,qa_definition,oos
+802,define the moon for me,qa_definition,oos
+803,define flabbergasted,qa_definition,oos
+804,find the meaning of promise,qa_definition,oos
+805,define rumplestiltskin,qa_definition,oos
+806,what does a grapefruit look like,qa_definition,oos
+807,what year what the eiffel tower built,qa_factoid,qa_factoid
+808,when does the super bowl officially start,qa_factoid,qa_factoid
+809,how many months in a year,qa_factoid,qa_factoid
+810,how many pages long is harry potter,qa_factoid,qa_factoid
+811,where do cows come from,qa_factoid,qa_factoid
+812,where is italy,qa_factoid,qa_factoid
+813,give me the birth date of mahatma gandhi,qa_factoid,qa_factoid
+814,which continent has highest growth of cotton and what is average production,qa_factoid,qa_factoid
+815,when is shakira's birthday,qa_factoid,qa_factoid
+816,please tell me about the historic facts about india,qa_factoid,qa_factoid
+817,how old is emma watson newest boyfriend,qa_factoid,qa_factoid
+818,who assassinated lincoln,qa_factoid,qa_factoid
+819,tell me when will indians economy touch that of americas,qa_factoid,qa_factoid
+820,info on lisa ann please,qa_factoid,qa_factoid
+821,calculate distance from boston to new york,qa_factoid,qa_factoid
+822,what year did george clooney start acting,qa_factoid,qa_factoid
+823,tell me who will win the next presidential election,qa_factoid,qa_factoid
+824,what is the capital of new hampshire,qa_factoid,qa_factoid
+825,name the capital of nigeria,qa_factoid,qa_factoid
+826,two by two is,qa_maths,qa_maths
+827,fifteen plus twenty,qa_maths,qa_maths
+828,divide two hundred by four,qa_maths,qa_maths
+829,what is one plus one,qa_maths,qa_maths
+830,is one divisible by three,qa_maths,qa_maths
+831,convert ten inches to centimeters,qa_maths,qa_maths
+832,what is the answer to this math question,qa_maths,qa_maths
+833,three times two equals six,qa_maths,qa_maths
+834,how many inches make one feet,qa_maths,qa_maths
+835,what is the square root of four,qa_maths,qa_maths
+836,can you add up thirteen plus five plus nine for me,qa_maths,qa_maths
+837,what is twenty percent of one hundred and twenty,qa_maths,qa_maths
+838,what is five divided by one,qa_maths,qa_maths
+839,what is the sum of 9 and 12,qa_maths,qa_maths
+840,what are the stock prices of target,qa_stock,oos
+841,fill me in on stock symbol,qa_stock,oos
+842,what is the price of stock for gm,qa_stock,oos
+843,google i. b. m. stock prices,qa_stock,oos
+844,how is shell s stock doing today,qa_stock,oos
+845,stock price for gss energy,qa_stock,oos
+846,list me the stock of apple right now,qa_stock,oos
+847,stock price for sprint,qa_stock,oos
+848,what is the value of apple,qa_stock,oos
+849,compare the stock prices for nintendo and sony and tell me which ones are better,qa_stock,oos
+850,how much did facebook stock increase last night,qa_stock,oos
+851,what is the stock information of walmart,qa_stock,oos
+852,what is now stock price of tata,qa_stock,oos
+853,what is the current price of jindel stock,qa_stock,oos
+854,how is coca cola stock doing today,qa_stock,oos
+855,for how much is hp selling for,qa_stock,oos
+856,what price are google stocks trading for,qa_stock,oos
+857,is starbucks stock up or down from last quarter,qa_stock,oos
+858,how much to buy stock in i. b. m.,qa_stock,oos
+859,what events are coming up,recommendation_events,recommendation_events
+860,let me see cultural events for this weekend in palermo neighborhood,recommendation_events,recommendation_events
+861,what are the concerts happening nearby,recommendation_events,recommendation_events
+862,is there any type of festival going on in town this weekend,recommendation_events,recommendation_events
+863,show me painting exhibition in bay area,recommendation_events,recommendation_events
+864,are there any fun things to do in seattle this weekend,recommendation_events,recommendation_events
+865,what's going on,recommendation_events,recommendation_events
+866,recommend an event happening in my area,recommendation_events,recommendation_events
+867,what events are happening this weekend in my area,recommendation_events,recommendation_events
+868,what's happening at the library this month,recommendation_events,recommendation_events
+869,what is playing at the local theater right now,recommendation_events,recommendation_events
+870,what do they have going on for festivals downtown,recommendation_events,recommendation_events
+871,could you list out the information on book fairs in washington dc for next week,recommendation_events,recommendation_events
+872,are there any events going on downtown tonight,recommendation_events,recommendation_events
+873,when is the yearly cultural event coming up,recommendation_events,recommendation_events
+874,what's happening around town,recommendation_events,recommendation_events
+875,What event do you suggest for me tonight,recommendation_events,recommendation_events
+876,what's happening in town tonight,recommendation_events,recommendation_events
+877,give me the list of circus shows going on in the city right now,recommendation_events,recommendation_events
+878,please tell me a shop where i can find books to buy,recommendation_locations,recommendation_locations
+879,where is the closest restaurant,recommendation_locations,recommendation_locations
+880,is there a sports bar near kansas city plaza area,recommendation_locations,recommendation_locations
+881,where should i go eat tonight,recommendation_locations,recommendation_locations
+882,i'm looking for a casual restaurant for a dinner date,recommendation_locations,recommendation_locations
+883,where is the shopping mall for shirts,recommendation_locations,recommendation_locations
+884,what shops are near me,recommendation_locations,recommendation_locations
+885,when does the closest bar close,recommendation_locations,recommendation_locations
+886,where can i find the nearest irish pub in my area,recommendation_locations,recommendation_locations
+887,give me some cafes near downtown fort lauderdale,recommendation_locations,recommendation_locations
+888,where is the best place to buy party supplies in town,recommendation_locations,recommendation_locations
+889,where can i got to grab some drinks in west chester,recommendation_locations,recommendation_locations
+890,where is the closer starbucks,recommendation_locations,recommendation_locations
+891,what is the best hardware store near me,recommendation_locations,recommendation_locations
+892,where is mcdo,recommendation_locations,recommendation_locations
+893,can you recommend any pub in mg road,recommendation_locations,recommendation_locations
+894,find grocery store with an organic section near me,recommendation_locations,recommendation_locations
+895,is there any chinese places in benton ar,recommendation_locations,recommendation_locations
+896,tell me where the local shopping district is,recommendation_locations,recommendation_locations
+897,play a movie i'll like,recommendation_movies,recommendation_movies
+898,what time will a movie be shown tomorrow,recommendation_movies,recommendation_movies
+899,what new movies available today,recommendation_movies,recommendation_movies
+900,suggest a good genre movie that came out recently,recommendation_movies,recommendation_movies
+901,please recommend a movie,recommendation_movies,recommendation_movies
+902,what is the highest rated movie this week,recommendation_movies,recommendation_movies
+903,recommend a movie for me,recommendation_movies,recommendation_movies
+904,do you recommend any movies that are currently playing in me area,recommendation_movies,recommendation_movies
+905,what is the highest rated movie now out,recommendation_movies,recommendation_movies
+906,what is the best movie to watch this weekend,recommendation_movies,recommendation_movies
+907,send a complaint to sony about this tv that quit working,social_post,social_post
+908,write complaint to wallmart,social_post,social_post
+909,please tweet about the problem i m facing with the product of company,social_post,social_post
+910,open gallery post video name,social_post,social_post
+911,complain to amazon customer service for me,social_post,social_post
+912,tell comcast i am still on hold,social_post,social_post
+913,tweet that there was an insect in the chocolate packet,social_post,social_post
+914,post new status,social_post,social_post
+915,lets send a tweet,social_post,social_post
+916,i want to tweet a complaint on apples phone issues,social_post,social_post
+917,tweet to ikea costumer service the following i'm not happy with this new klm product,social_post,social_post
+918,tweet at quote unquote,social_post,social_post
+919,tweet customer service not good for lpg service in my twitter account,social_post,social_post
+920,comcast sucks put that on their twitter account,social_post,social_post
+921,tweet my complaint to @nsa,social_post,social_post
+922,tweet terrible service,social_post,social_post
+923,Hashtag loving this weather post to twitter,social_post,social_post
+924,send a tweet to apple that their batteries drain too fast,social_post,social_post
+925,complain to mcdonalds twitter about my burger,social_post,social_post
+926,who is doing facebook live right now,social_query,social_query
+927,tell me what's going on snap chat,social_query,social_query
+928,what's the most popular story on my facebook newsfeed,social_query,social_query
+929,how many notifications do i have on facebook,social_query,social_query
+930,please check the trending topics on twitter,social_query,social_query
+931,read me new post on my feed,social_query,social_query
+932,get me updates from kenny's facebook from the weekend,social_query,social_query
+933,did anyone get engaged or give birth among my online friends,social_query,social_query
+934,did anyone like my photo i just posted,social_query,social_query
+935,show me the posts of my friends in the last hour,social_query,social_query
+936,may i know what is trending in social media,social_query,social_query
+937,find updates from vicki's facebook from mardi gras day,social_query,social_query
+938,open social media account,social_query,social_query
+939,hi what is happening in twitter today,social_query,social_query
+940,did anyone message me on facebook,social_query,social_query
+941,take me to the most popular post,social_query,social_query
+942,are there any interesting stuff happened today in my twitter,social_query,social_query
+943,what the highest likes on facebook,social_query,social_query
+944,please call china wok and order number seven,takeaway_order,takeaway_order
+945,place order to pizza takeout for seven pm,takeaway_order,takeaway_order
+946,can i order out,takeaway_order,takeaway_order
+947,order two large pizzas and pieces of hot wings from dominoes,takeaway_order,takeaway_order
+948,order me a bowl from chipotle takeout,takeaway_order,takeaway_order
+949,order a pizza for me,takeaway_order,takeaway_order
+950,place order for a chicken manchow soup from wangs kitchen restaurant,takeaway_order,takeaway_order
+951,hey order a pizza pie with extra cheese,takeaway_order,takeaway_order
+952,i want to order food,takeaway_order,takeaway_order
+953,call for takeout,takeaway_order,takeaway_order
+954,is there any good chinese takeout that's open late,takeaway_order,takeaway_order
+955,i would like to pickup a veggie sub with a cookie from subway,takeaway_order,takeaway_order
+956,pull up the menu for the closest mexican restaurant,takeaway_order,takeaway_order
+957,what takeout places are near me,takeaway_order,takeaway_order
+958,place order of one pizza,takeaway_order,takeaway_order
+959,find me the nearest chinese for delivery,takeaway_order,takeaway_order
+960,order a pizza from pizza express,takeaway_order,takeaway_order
+961,get me a turkey jimmy johns sub and set it to be delivered at five pm tonight,takeaway_order,takeaway_order
+962,order a smoked meat platter from beanos,takeaway_order,takeaway_order
+963,where can i order pizza for delivery,takeaway_query,takeaway_query
+964,does pings do takeaway,takeaway_query,takeaway_query
+965,i need to know if mr pizza delivers,takeaway_query,takeaway_query
+966,what's the exact time we get food delivered once we place an order for food,takeaway_query,takeaway_query
+967,how long until i receive my food,takeaway_query,takeaway_query
+968,check delivery options for the restaurant,takeaway_query,takeaway_query
+969,does louie's do take out,takeaway_query,takeaway_query
+970,where are my takeaway order,takeaway_query,takeaway_query
+971,is my order at domino's ready,takeaway_query,takeaway_query
+972,hi there do you offer home delivery for orders,takeaway_query,takeaway_query
+973,can they provide takeaway,takeaway_query,takeaway_query
+974,restaurant order status,takeaway_query,takeaway_query
+975,when is my takeaway arriving,takeaway_query,takeaway_query
+976,find out if kfc delivers please,takeaway_query,takeaway_query
+977,do they deliver home,takeaway_query,takeaway_query
+978,please see if chili's has delivery,takeaway_query,takeaway_query
+979,what is the status of my order no,takeaway_query,takeaway_query
+980,please see if the restaurant chili's has delivery as an option,takeaway_query,takeaway_query
+981,can they do delivery,takeaway_query,takeaway_query
+982,where can i book a train ticket to oregon,transport_query,transport_query
+983,navigation search,transport_query,transport_query
+984,what time does the train leave philadelphia,transport_query,transport_query
+985,please let me know the time of train northern rail,transport_query,transport_query
+986,directions please,transport_query,transport_query
+987,how far away is the nearest rest stop,transport_query,transport_query
+988,what are the train times for today,transport_query,transport_query
+989,how much long until northern rail arrives at kings cross station,transport_query,transport_query
+990,show me the train schedules to the metropolitan opera house,transport_query,transport_query
+991,get route for los angles from here,transport_query,transport_query
+992,direction to local train station,transport_query,transport_query
+993,what is the train schedule to denver,transport_query,transport_query
+994,how long does it take to get from here to chicago by train,transport_query,transport_query
+995,when i should leave to office,transport_query,transport_query
+996,when is the train coming,transport_query,transport_query
+997,how much time is a train to there,transport_query,transport_query
+998,find nearest train station,transport_query,transport_query
+999,train leaving,transport_query,transport_query
+1000,get me to the nearest train station,transport_query,transport_query
+1001,request a driver for uber in five minutes,transport_taxi,oos
+1002,order me an uber ride please,transport_taxi,oos
+1003,call yellow cab,transport_taxi,oos
+1004,find an uber that can get me to the airport now,transport_taxi,oos
+1005,book me a taxi from castle street to airport,transport_taxi,oos
+1006,call a taxi,transport_taxi,oos
+1007,book a taxi,transport_taxi,oos
+1008,book an uber to pick me up outside of long island bar right now,transport_taxi,oos
+1009,call a taxi to pick me up at work,transport_taxi,oos
+1010,find an uber driver available for tonight after ten pm,transport_taxi,oos
+1011,book me an uber,transport_taxi,oos
+1012,schedule an uber in twenty minutes to tesco on fifth street,transport_taxi,oos
+1013,get me a taxi to the airport right now,transport_taxi,oos
+1014,have a taxi pick me up,transport_taxi,oos
+1015,book me a uber for tomorrow night at six pm,transport_taxi,oos
+1016,book for me an uber taxi to carmen drive,transport_taxi,oos
+1017,uber,transport_taxi,oos
+1018,book a taxi to start from here,transport_taxi,oos
+1019,book me a train ticket to chicago for tomorrow morning before ten,transport_ticket,transport_ticket
+1020,find out the the train arrival time and book me,transport_ticket,transport_ticket
+1021,google train tickets to washington dc,transport_ticket,transport_ticket
+1022,book ticket for paris by train,transport_ticket,transport_ticket
+1023,book me a train ticket,transport_ticket,transport_ticket
+1024,book a train ticket to canada this evening,transport_ticket,transport_ticket
+1025,book me on a train leaving penn station tomorrow travelling to any city more than two hundred miles away,transport_ticket,transport_ticket
+1026,get me two train tickets from where i am now to dallas arriving before dark,transport_ticket,transport_ticket
+1027,book and pay for a train ticket to denver for saturday,transport_ticket,transport_ticket
+1028,please book a train ticket from london to manchester,transport_ticket,transport_ticket
+1029,google i need one train ticket to new york can you book that for me,transport_ticket,transport_ticket
+1030,i need to buy a train ticket,transport_ticket,transport_ticket
+1031,book a ticket in irctc website from sbc to mdu on may two for stored passenger list,transport_ticket,transport_ticket
+1032,google search booking train ticket,transport_ticket,transport_ticket
+1033,please purchase a amtrak ticket from las vegas nevada to lakeland florida leaving on the first of april,transport_ticket,transport_ticket
+1034,book the the next train ticket to chennai,transport_ticket,transport_ticket
+1035,find me a train ticket to boston,transport_ticket,transport_ticket
+1036,get me a ride on the commuter train from nj to ny,transport_ticket,transport_ticket
+1037,open irctc application and go to book ticket,transport_ticket,transport_ticket
+1038,is it possible to drive now in ohio,transport_traffic,oos
+1039,how is traffic in city,transport_traffic,oos
+1040,what is the current traffic,transport_traffic,oos
+1041,is there any traffic,transport_traffic,oos
+1042,are there are any delays on my commute,transport_traffic,oos
+1043,what the traffic condition outside my office,transport_traffic,oos
+1044,in jodhpur traffic level is very low,transport_traffic,oos
+1045,outside traffic status please,transport_traffic,oos
+1046,show me the current traffic nearby me,transport_traffic,oos
+1047,give information about the traffic near my location please,transport_traffic,oos
+1048,just how bad is traffic on my commute,transport_traffic,oos
+1049,how much traffic does atlanta georgia usually have,transport_traffic,oos
+1050,what is the traffic like right now on telegraph,transport_traffic,oos
+1051,what's the traffic this morning,transport_traffic,oos
+1052,accident or normal traffic,transport_traffic,oos
+1053,how long will it take me to get to park avenue considering current traffic,transport_traffic,oos
+1054,what are the traffic conditions on the one hundred and one,transport_traffic,oos
+1055,how's the traffic downtown,transport_traffic,oos
+1056,how is traffic on the highway,transport_traffic,oos
+1057,do i have to bring umbrella for tonight party,weather_query,oos
+1058,should i wear gloves tonight,weather_query,oos
+1059,will it rain in the noon,weather_query,oos
+1060,how will be the weather at night,weather_query,oos
+1061,will the temperature be higher than forty tomorrow,weather_query,oos
+1062,ask for the weather today morning,weather_query,oos
+1063,is summer going on,weather_query,oos
+1064,do you think i can wear sandals or should i wear sneakers tonight at seven pm,weather_query,oos
+1065,show me the weather forecast for the next three three days,weather_query,oos
+1066,are you sure its going to rain tomorrow,weather_query,oos
+1067,will i need my snow boots this afternoon,weather_query,oos
+1068,do i need to wear sunscreen today,weather_query,oos
+1069,what is the temperature today,weather_query,oos
+1070,what is the weather next week,weather_query,oos
+1071,what is the climate here today,weather_query,oos
+1072,let me know when the next cold front is expected,weather_query,oos
+1073,i am gonna need an umbrella today after sunset,weather_query,oos
+1074,google what is the temperature outside,weather_query,oos
+1075,are there any tornado warnings today,weather_query,oos
