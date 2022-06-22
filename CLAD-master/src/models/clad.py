@@ -25,6 +25,7 @@ from data_util.embeddings import bert_test_data, testDataset, NewsDataset
 from models.odin_maha import apply_odin
 #  from models.new import apply_odin
 from models.mahalanobis import get_scores_one_cluster, get_scores_multi_cluster, get_mahalnobis_score
+from models.calculator import metric_calculate
 from models.metric import calculate_metric
 import models.SCCL as SCCL
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
@@ -68,7 +69,7 @@ class CLAD(object):
         self.train_text = dataset['train_text']
         self.test_in_emb = dataset['test_in_emb']
         self.test_out_emb = dataset['test_out_emb']
-
+        self.test_ood = dataset['test_ood']
         # cluster variables
         self.clusters = self.train_y
         self.cluster_num = cluster_num
@@ -261,27 +262,29 @@ class CLAD(object):
             out_data_len = len(self.test_out)
             self.train_x = bert_test_data(self.train_text)
             self.test_in = bert_test_data(self.test_in)  #make test data token
-            self.test_out = bert_test_data(
-                self.test_out)  #make test data token
+            self.test_out = bert_test_data(self.test_out)  #make test data token
+            self.test_ood = bert_test_data(self.test_ood)
 
         print("Scailing the confidence outputs")
-        #if fc self.test.emd X
-        #apply_odin(classifier, self.test_in, self.test_out,self.center,self.test_in_emb,self.test_out_emb)
 
-        train_x_emb, test_in_emb, test_out_emb = apply_odin(
-            classifier, self.train_x, self.test_in, self.test_out, self.center,
-            self.test_in_emb, self.test_out_emb)
+        result = metric_calculate(classifier, self.train_x, self.test_in,
+                self.test_out, self.test_ood, self.clusters.cpu().numpy())
 
-        if config.cluster_num > 1:
-            config.silhouette_score_a = silhouette_score(
-                train_x_emb,
-                self.clusters.cpu().numpy())
-        #score_one
-        # emb_s = torch.cat((self.test_in_emb, self.test_out_emb))
-        # plot_distribution(test_in_emb,test_out_emb,score_one,score_multi,emb_s)
+        
+        
 
-        get_mahalnobis_score(train_x_emb, test_in_emb, test_out_emb,
-                             self.clusters.cpu().numpy())
-
-        print("Calculating Metrics")
-        calculate_metric()
+        #  train_x_emb, test_in_emb, test_out_emb = apply_odin(
+            #  classifier, self.train_x, self.test_in, self.test_ood, self.center,
+            #  self.test_in_emb, self.test_out_emb)
+#
+        
+        #  if config.cluster_num > 1:
+            #  config.silhouette_score_a = silhouette_score(
+                #  train_x_emb,
+                #  self.clusters.cpu().numpy())
+#
+        #  get_mahalnobis_score(train_x_emb, test_in_emb, test_out_emb,
+                             #  self.clusters.cpu().numpy())
+#
+        #  print("Calculating Metrics")
+        #  calculate_metric()

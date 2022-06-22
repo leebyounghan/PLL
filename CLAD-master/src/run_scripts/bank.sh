@@ -3,7 +3,7 @@ do
     for seed in $(seq 0 0)
     do
       python ../main.py --data_path '../../data' --dataset_name 'banking' \
-          --cluster_type 'SCCL' --cluster_num $cluster --normal_class_index_list $seed\
+          --cluster_type 'DEC_bert' --cluster_num $cluster --normal_class_index_list 1\
           --cluster_model_train_epochs 3 --classifier_epochs 1\
           --cluster_model_train_lr 3e-6 --classifier_lr 3e-5\
           --classifier_type 'DEC_bert' --temperature 1000 --perturbation 0.001\

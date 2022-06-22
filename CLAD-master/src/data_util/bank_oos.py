@@ -32,11 +32,8 @@ def bank_Dataset(normal_num):
     data_val = load_intent_examples(cwd + path + "/valid")
 
     test_in = load_intent_examples(cwd + path + '/test')
-    
-    if normal_num[0] == 0 :
-        test_out = load_intent_examples(cwd + path + '/id-oos/test')
-    else :
-        test_out = load_intent_examples(cwd + path + '/ood-oos/test')
+    test_out = load_intent_examples(cwd + path + '/id-oos/test')
+    test_ood = load_intent_examples(cwd + path + '/ood-oos/test')
    
 
     dataset = {
@@ -53,7 +50,9 @@ def bank_Dataset(normal_num):
         "test_out_emb":
         test_out['text'].tolist(),
         "train_text":
-        data_train['text'].tolist()
+        data_train['text'].tolist(),
+        "test_ood":
+        test_ood['text'].tolist()
     }
 
 

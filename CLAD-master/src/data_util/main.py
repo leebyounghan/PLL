@@ -10,10 +10,10 @@ from .trec import Trec_Dataset
 from .agnews import agnews_Dataset
 from .OOD import OOD_dataset
 from .clinc_150 import clinc_150_Dataset
-from .sst import sst_Dataset
+from .sst import sst_Dataset, ood_ood
 from .rostd import ROSTD_Dataset
 from .snips import snips_Dataset
-from .bank_oos import bank_Dataset
+from .bank_oos import bank_Dataset, load_intent_examples
 from .stack import stack_Dataset
 from .hwu import hwu_Dataset
 from config import implemented_datasets, normal_class_index_list
@@ -78,7 +78,7 @@ def load_dataset(dataset_name, data_path):
 
     elif dataset_name == 'banking':
         print('loading snipts dataset ...')
-        dataset = bank_Dataset([0])
+        dataset = bank_Dataset([1])
 
     elif dataset_name == 'stackoverflow':
         print('loading stackoverflow dataset ...')
@@ -88,7 +88,8 @@ def load_dataset(dataset_name, data_path):
         print('loading hwu dataset ...')
         dataset = hwu_Dataset()
 
-
+    if dataset['test_ood'] == None:
+        dataset['test_ood'] = ood_ood()
 
     return dataset
 

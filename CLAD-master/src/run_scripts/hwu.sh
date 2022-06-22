@@ -8,7 +8,7 @@ do
           --cluster_model_train_lr 3e-6 --classifier_lr 3e-5\
           --classifier_type 'DEC_bert' --temperature 1000 --perturbation 0.001\
           --cluster_loss_on True --gpu_device 1 --GT False --pooling 'mean' --alpha 1.0\
-          --cluster_model_batch_size 128 --max_length 32 --iter 500  --language_model 'roberta-base'
+          --cluster_model_batch_size 128 --max_length 32 --iter 200  --language_model 'roberta-base'
     done
 
     # for seed in $(seq 0 4)

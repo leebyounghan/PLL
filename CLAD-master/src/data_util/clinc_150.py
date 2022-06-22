@@ -31,6 +31,7 @@ def clinc_150_Dataset():
         "test_out": test_out["sentance"].tolist(),
         "test_in_emb": test_in["sentance"].tolist(),
         "test_out_emb": test_out["sentance"].tolist(),
-        "train_text": data_train["sentance"].tolist()
+        "train_text": data_train["sentance"].tolist(),
+        "test_ood" : None
     }
     return dataset

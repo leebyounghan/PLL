@@ -78,7 +78,9 @@ def main():
 
     data_path = args.data_path
     dataset_name = args.dataset_name
+    config.dataset_name = dataset_name
     # if image data, set rgb flag
+
     if (dataset_name in config.rgb_datasets):
         config.is_rgb = True
         config.cvae_channel = 3

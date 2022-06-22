@@ -14,7 +14,7 @@ def sst_Dataset():
     train_df = load_extra_dataset("../../data/sst/sst-train.txt", label=1)
     test_df = load_extra_dataset("../../data/sst/sst-test.txt", label=1)
     ood_snli_df = load_extra_dataset("../../data/sst/snli-dev.txt",
-                                     drop_index=True,
+                                    drop_index=True,
                                      label=0)
     ood_rte_df = load_extra_dataset("../../data/sst/rte-dev.txt",
                                     drop_index=True,
@@ -54,3 +54,24 @@ def load_extra_dataset(file_path="../../data/SSTSentences.txt",
         df.drop(columns='index', inplace=True)
     df.dropna(inplace=True)
     return df
+
+def ood_ood():
+    ood_snli_df = load_extra_dataset("../../data/sst/snli-dev.txt",
+                                    drop_index=True,
+                                     label=0)
+    ood_rte_df = load_extra_dataset("../../data/sst/rte-dev.txt",
+                                    drop_index=True,
+                                    label=0)
+    ood_20ng_df = load_extra_dataset("../../data/sst/20ng-test.txt",
+                                     drop_index=True,
+                                     label=0)
+    ood_multi30k_df = load_extra_dataset("../../data/sst/multi30k-val.txt",
+                                         drop_index=True,
+                                         label=0)
+    ood_snli_df = ood_snli_df.sample(n=500, random_state=seed)
+    ood_rte_df = ood_rte_df.sample(n=500, random_state=seed)
+    ood_20ng_df = ood_20ng_df.sample(n=500, random_state=seed)
+    ood_multi30k_df = ood_multi30k_df.sample(n=500, random_state=seed)
+    ood_df = pd.concat([ood_snli_df, ood_rte_df, ood_20ng_df, ood_multi30k_df])
+    
+    return ood_df['sentence'].tolist()
