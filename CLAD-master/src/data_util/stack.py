@@ -33,7 +33,8 @@ def stack_Dataset():
         "test_out_emb":
         test_out['text'].tolist(),
         "train_text":
-        data_train['text'].tolist()
+        data_train['text'].tolist(),
+        "test_ood": None
     }
 
     return dataset

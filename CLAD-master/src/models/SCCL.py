@@ -452,7 +452,7 @@ def run(train_text, label):
                                                label.numpy().tolist())
     eval_loader = unshuffle_loader(train_text, label.numpy().tolist())
     # model
-    torch.cuda.set_device("cuda:1")
+    torch.cuda.set_device(config.device)
     bert, tokenizer = get_bert()
 
     bert.cuda()

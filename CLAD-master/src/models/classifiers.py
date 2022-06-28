@@ -146,38 +146,38 @@ class Bert_Model_mlm(nn.Module):
         self.linear = nn.Linear(768, self.out_features_dim)
         self.activation = torch.tanh
 
-    def forward(self, input_ids, attention_mask, odin, ge, labels=None):
+    def forward(self, input_ids, attention_mask, labels=None):
         outputs = self.bert(input_ids,
                             attention_mask,
                             output_hidden_states=True,
                             output_attentions=True)
 
         if config.pooling == "max":
-            pooled_output = hiden_state = max_pooling(
+            pooled_output = hidden_state = max_pooling(
                 outputs.hidden_states[-1], attention_mask)
         elif config.pooling == "mean":
-            pooled_output = hiden_state = mean_pooling(
+            pooled_output = hidden_state = mean_pooling(
                 outputs.hidden_states[-1], attention_mask)
         elif config.pooling == "cls":
-            pooled_output = hiden_state = self.activation(
+            pooled_output = hidden_state = self.activation(
                 outputs.hidden_states[-1][:, 0, :])
 
             pooled_output = self.activation(self.dropout(pooled_output))
 
-        if odin == 1:
-            inputs = Variable(hiden_state, requires_grad=True)
-            if ge == None:
-                tempInputs = inputs
-            else:
-                tempInputs = torch.add(hiden_state.data, -config.perturbation,
-                                       ge)
-
-            logits = self.linear(tempInputs)
-            return logits, inputs, hiden_state  #inputs for gradient
-        else:
-            logits = self.linear(pooled_output)
-
-            return logits  #,cos_loss #output
+        #  if odin == 1:
+            #  inputs = Variable(hiden_state, requires_grad=True)
+            #  if ge == None:
+                #  tempInputs = inputs
+            #  else:
+                #  tempInputs = torch.add(hiden_state.data, -config.perturbation,
+                                       #  ge)
+#
+            #  logits = self.linear(tempInputs)
+            #  return logits, inputs, hiden_state  #inputs for gradient
+        #  else:
+            #  logits = self.linear(pooled_output)
+        logits = self.linear(pooled_output)
+        return logits, hidden_state  #,cos_loss #output
 
     def predict(self, x):
         train_pred = []

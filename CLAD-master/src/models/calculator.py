@@ -53,9 +53,9 @@ def metric_calculate(net,
         #base
         if config.classifier_type in bert_classifier:
             net.eval()
-            outputs, inputs, hiden_state = net(
+            outputs, hiden_state = net(
                 data['input_ids'].to(config.device),
-                data['attention_mask'].to(config.device), 1, None)
+                data['attention_mask'].to(config.device))
             train_x_emb.append(hiden_state.detach().cpu())
 
 
@@ -65,16 +65,15 @@ def metric_calculate(net,
         #base
         if config.classifier_type in bert_classifier:
             net.eval()
-            outputs, inputs, hiden_state = net(
+            outputs, hiden_state = net(
                 data['input_ids'].to(config.device),
-                data['attention_mask'].to(config.device), 1, None)
+                data['attention_mask'].to(config.device))
             test_in_emb.append(hiden_state.detach().cpu())
 
 
         # Calculating the confidence of the output, no perturbation added here, no temperature scaling used
         nnOutputs = outputs
         energy_in.append(torch.logsumexp(nnOutputs, dim=-1).data.cpu())
-
 
         nnOutputs = F.softmax(nnOutputs, dim=-1).max(-1)[0].data.cpu()
         msp_in.append(nnOutputs)
@@ -101,9 +100,9 @@ def metric_calculate(net,
         #base
         if config.classifier_type in bert_classifier:
             net.eval()
-            outputs, inputs, hiden_state = net(
+            outputs, hiden_state = net(
                 data['input_ids'].to(config.device),
-                data['attention_mask'].to(config.device), 1, None)
+                data['attention_mask'].to(config.device))
             test_out_emb.append(hiden_state.detach().cpu())
 
     
@@ -128,9 +127,9 @@ def metric_calculate(net,
         #base
         if config.classifier_type in bert_classifier:
             net.eval()
-            outputs, inputs, hiden_state = net(
+            outputs, hiden_state = net(
                 data['input_ids'].to(config.device),
-                data['attention_mask'].to(config.device), 1, None)
+                data['attention_mask'].to(config.device))
             test_ood_emb.append(hiden_state.detach().cpu())
 
     
@@ -187,10 +186,10 @@ def get_scores_multi_cluster(maha, ypred, shrunkcov='lw'):
     ftest, fout, food = maha['test_in'], maha['test_out'], maha['test_ood']
     
     np.save(os.path.join(config.sub_log_path, 'train_embed.txt'), ftrain)
-    np.save(os.path.join(config.sub_log_path, 'in_embed.txt'), ftrain)
-    np.save(os.path.join(config.sub_log_path, 'out_embed.txt'), ftest)
+    np.save(os.path.join(config.sub_log_path, 'in_embed.txt'), ftest)
+    np.save(os.path.join(config.sub_log_path, 'out_embed.txt'), fout)
     np.save(os.path.join(config.sub_log_path, 'ood_embed.txt'), food)
-
+    np.save(os.path.join(config.sub_log_path, 'y_pred.txt'), ypred)
 
     xc = [ftrain[ypred == i] for i in np.unique(ypred)]
     if shrunkcov =="lw":
@@ -263,7 +262,7 @@ def get_scores_multi_cluster(maha, ypred, shrunkcov='lw'):
     dood = np.min(dood, axis=0)
     dtrain = np.min(dtrain, axis=0)
 
-    return {'test_in': din, 'test_out':dout, 'test_ood': dood}
+    return {'test_in': -din, 'test_out':-dout, 'test_ood': -dood}
 
 
 
@@ -271,8 +270,8 @@ def get_curve(in_dist, out_dist,stypes=['maha']):
     tp, fp = dict(), dict()
     tnr_at_tpr95 = dict()
     for stype in stypes:
-        known = -in_dist
-        novel = -out_dist
+        known = in_dist
+        novel = out_dist
         known.sort()
         novel.sort()
         end = np.max([np.max(known), np.max(novel)])
@@ -376,8 +375,12 @@ def metric(in_dist, out_dist, stypes=['maha'], verbose=False):
 def log_df(result):
     for i in result:
         key = list(i.keys())[0]
+        if config.gt == True:
+            result = pd.read_csv("./sup/result.csv")
+
+        else :
+            result = pd.read_csv(f"./{config.dataset_name}/result.csv")
         
-        result = pd.read_csv(f"./{config.dataset_name}/result.csv")
         config_condition = {"Date":config.today,
                            "time":config.current_time,
                            'score_func' : key,
@@ -396,7 +399,12 @@ def log_df(result):
                            "pooling": config.pooling}
 
         df_new = pd.DataFrame.from_dict(config_condition)
-        result.append(df_new,ignore_index=True).to_csv(f"./{config.dataset_name}/result.csv", index=False)
+
+        if config.gt == True:
+            result.append(df_new,ignore_index=True).to_csv(f"./sup/result.csv", index=False)
+
+        else :
+            result.append(df_new,ignore_index=True).to_csv(f"./{config.dataset_name}/result.csv", index=False)
 
 #  def get_scores_multi_cluster(ftrain, ftest, food, ypred, b, shrunkcov=True):
     #  xc = [ftrain[ypred == i] for i in np.unique(ypred)]

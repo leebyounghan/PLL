@@ -30,7 +30,6 @@ dependencies:
     - cymem==2.0.6
     - cytoolz==0.9.0.1
     - dill==0.2.9
-    - en-core-web-sm==2.0.0
     - filelock==3.7.0
     - fonttools==4.33.3
     - huggingface-hub==0.6.0

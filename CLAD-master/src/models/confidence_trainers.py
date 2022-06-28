@@ -145,8 +145,7 @@ def BERT_mlm(train_data, n_epochs, lr, models, batch):
             input_ids = batch['input_ids'].to(config.device)
             attention_mask = batch['attention_mask'].to(config.device)
             labels = batch['labels'].to(config.device)
-            outputs = model(input_ids, attention_mask, 0, 0,
-                            labels=labels)  #input_ids,attention_mask, odin, ge
+            outputs, _ = model(input_ids, attention_mask, labels=labels)  #input_ids,attention_mask, odin, ge
             loss_cls = criterion_cls(outputs, labels)
             loss = loss_cls
 
